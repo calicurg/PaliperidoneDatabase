@@ -1,0 +1,2602 @@
+(dp0
+S'flexible dose groups'
+p1
+S'GROUP'
+p2
+sS'90% of subjects'
+p3
+S'SUBJECTS'
+p4
+sS'\x95 positive factor score'
+p5
+S'SCORE'
+p6
+sS'4% of subjects'
+p7
+S'SUBJECTS'
+p8
+sS'cgi-c-sca domain scores'
+p9
+S'SCORE'
+p10
+sS'paliperidone er'
+p11
+S'DRUG'
+p12
+sS'the overall score'
+p13
+S'SCORE'
+p14
+sS'the paliperidone er treatment group'
+p15
+S'GROUP'
+p16
+sS'black subjects'
+p17
+S'SUBJECTS'
+p18
+sS'the intent-to-treat analysis set of study r076477-sca-3001'
+p19
+S'Analytical_set'
+p20
+sS'this difference'
+p21
+S'DIFFERENCE'
+p22
+sS'the intent-to-treat analysis set of study r076477-sca-3002'
+p23
+S'Analytical_set'
+p24
+sS'manic domain score'
+p25
+S'SCORE'
+p26
+sS'treatment-by-concomitant medication stratum'
+p27
+S'STRATUM'
+p28
+sS'25% of subjects'
+p29
+S'SUBJECTS'
+p30
+sS'mood stabilizers & antiepileptics 82'
+p31
+S'Formal_drug'
+p32
+sS'concomitant medications'
+p33
+S'Formal_drug'
+p34
+sS'white subjects'
+p35
+S'SUBJECTS'
+p36
+sS'subjects with prominent depressive symptoms ( ham-d-21 total score .16 )'
+p37
+S'SUBJECTS'
+p38
+sS'studies of paliperidone er 6'
+p39
+S'STUDY'
+p40
+sS'baseline panss total score'
+p41
+S'SCORE'
+p42
+sS'numerous studies'
+p43
+S'STUDY'
+p44
+sS'negative subscale'
+p45
+S'SUBSCALE'
+p46
+sS'total paliperidone er groups'
+p47
+S'GROUP'
+p48
+sS'the primary efficacy endpoint'
+p49
+S'Endpoint'
+p50
+sS'negative change'
+p51
+S'DIFFERENCE'
+p52
+sS'the cgi-c-sca overall score'
+p53
+S'SCORE'
+p54
+sS'the antidepressants only'
+p55
+S'GROUP'
+p56
+sS'subjects without prominent manic symptoms'
+p57
+S'SUBJECTS'
+p58
+sS'the mean actual cgi-c-sca overall score'
+p59
+S'SCORE'
+p60
+sS'any treatment group'
+p61
+S'GROUP'
+p62
+sS'each of the three ham-d-21 subscale scores'
+p63
+S'SCORE'
+p64
+sS'ham-d-21 scores'
+p65
+S'SCORE'
+p66
+sS'subjects had been diagnosed with schizoaffective disorder ,'
+p67
+S'SUBJECTS'
+p68
+sS'panss 24-item total scores'
+p69
+S'SCORE'
+p70
+sS'the paliperidone er flexible dose group'
+p71
+S'GROUP'
+p72
+sS'treatment difference'
+p73
+S'DIFFERENCE'
+p74
+sS'the panss factor scores'
+p75
+S'SCORE'
+p76
+sS'three subjects'
+p77
+S'SUBJECTS'
+p78
+sS'the high dose of paliperidone er'
+p79
+S'DOSE'
+p80
+sS'clinical studies evaluating therapeutic interventions'
+p81
+S'STUDY'
+p82
+sS'the total paliperidone er groups'
+p83
+S'GROUP'
+p84
+sS'each of the 5 panss factor scores'
+p85
+S'SCORE'
+p86
+sS'the end of the double-blind treatment phase'
+p87
+S'PERIOD'
+p88
+sS'subjects who met dsm-iv criteria'
+p89
+S'SUBJECTS'
+p90
+sS'studies r074677-sca-3001'
+p91
+S'STUDY'
+p92
+sS'baseline ham-d-21 total score .16'
+p93
+S'SCORE'
+p94
+sS'mood stabilizers & antiepileptics 63'
+p95
+S'Formal_drug'
+p96
+sS'the panss total scores'
+p97
+S'SCORE'
+p98
+sS'the monotherapy stratum'
+p99
+S'STRATUM'
+p100
+sS'each phase 3 study'
+p101
+S'STUDY'
+p102
+sS'both baseline ymrs'
+p103
+S'SCORE'
+p104
+sS'this subscale'
+p105
+S'SUBSCALE'
+p106
+sS'antidepressants only subgroups'
+p107
+S'GROUP'
+p108
+sS'the panss positive subscale'
+p109
+S'SUBSCALE'
+p110
+sS'the ymrs scores'
+p111
+S'SCORE'
+p112
+sS'the anxiety/depression factor score'
+p113
+S'SCORE'
+p114
+sS'subjects receiving the study drug'
+p115
+S'SUBJECTS'
+p116
+sS'the positive domain scores'
+p117
+S'SCORE'
+p118
+sS'41.9% of subjects'
+p119
+S'SUBJECTS'
+p120
+sS'the cgi-s-sca positive domain score'
+p121
+S'SCORE'
+p122
+sS'high dose groups'
+p123
+S'GROUP'
+p124
+sS'range 70-135'
+p125
+S'RANGE'
+p126
+sS'cgi-s-sca score'
+p127
+S'SCORE'
+p128
+sS'cgi-s-sca scores'
+p129
+S'SCORE'
+p130
+sS'mean scores'
+p131
+S'SCORE'
+p132
+sS'the respective placebo group'
+p133
+S'GROUP'
+p134
+sS'any of the 3 panss subscale scores'
+p135
+S'SCORE'
+p136
+sS'99% of subjects'
+p137
+S'SUBJECTS'
+p138
+sS'0 mg'
+p139
+S'DOSE'
+p140
+sS'all data'
+p141
+S'DATA'
+p142
+sS'panss total score'
+p143
+S'SCORE'
+p144
+sS'subjects who had a baseline ham-d-21 score of 16 or greater'
+p145
+S'SUBJECTS'
+p146
+sS'prominent manic symptoms'
+p147
+S'SYMPTOM'
+p148
+sS'the ham-d-21 total score'
+p149
+S'SCORE'
+p150
+sS'58% of subjects'
+p151
+S'SUBJECTS'
+p152
+sS'and paliperidone er flexible dose ( 98% ) groups'
+p153
+S'GROUP'
+p154
+sS'each of the 3 panss subscale scores'
+p155
+S'SCORE'
+p156
+sS'61% of subjects'
+p157
+S'SUBJECTS'
+p158
+sS'316 subjects'
+p159
+S'SUBJECTS'
+p160
+sS'the primary efficacy analysis'
+p161
+S'ANALYSIS'
+p162
+sS'the manic domain scores'
+p163
+S'SCORE'
+p164
+sS'two-thirds of subjects'
+p165
+S'SUBJECTS'
+p166
+sS'9 mg'
+p167
+S'DOSE'
+p168
+sS'and high dose ( 80% ) groups'
+p169
+S'GROUP'
+p170
+sS'the pairwise differences'
+p171
+S'DIFFERENCE'
+p172
+sS'subjects with a baseline score of 16 or greater'
+p173
+S'SUBJECTS'
+p174
+sS'the two phase 3 studies'
+p175
+S'STUDY'
+p176
+sS'68% of the 339 subjects'
+p177
+S'SUBJECTS'
+p178
+sS'each study'
+p179
+S'STUDY'
+p180
+sS'each treatment group'
+p181
+S'GROUP'
+p182
+sS'the negative domain scores'
+p183
+S'SCORE'
+p184
+sS'both the monotherapy and combination therapy strata'
+p185
+S'STRATUM'
+p186
+sS'the general psychopathology subscale'
+p187
+S'SUBSCALE'
+p188
+sS'the primary locf analysis'
+p189
+S'ANALYSIS'
+p190
+sS'a supportive analysis of the primary efficacy variable'
+p191
+S'ANALYSIS'
+p192
+sS'the mean ham-d-21 total score'
+p193
+S'SCORE'
+p194
+sS'each of the cgi-s-sca domain scores'
+p195
+S'SCORE'
+p196
+sS'depressive symptoms'
+p197
+S'SYMPTOM'
+p198
+sS'total groups'
+p199
+S'GROUP'
+p200
+sS'4 weeks of the double-blind period'
+p201
+S'PERIOD'
+p202
+sS'134 of the 211 subjects'
+p203
+S'SUBJECTS'
+p204
+sS'5 panss factor scores'
+p205
+S'SCORE'
+p206
+sS'panss total score change'
+p207
+S'DIFFERENCE'
+p208
+sS'modeling of the panss data'
+p209
+S'DATA'
+p210
+sS'subjects who received study drug in combination with mood stabilizers only'
+p211
+S'SUBJECTS'
+p212
+sS'concomitant medication stratum n'
+p213
+S'STRATUM'
+p214
+sS'subjects with an established diagnosis of schizoaffective disorder'
+p215
+S'SUBJECTS'
+p216
+sS'the panss positive subscale score'
+p217
+S'SCORE'
+p218
+sS'cgi-s-sca negative domain score'
+p219
+S'SCORE'
+p220
+sS'the primary efficacy variable'
+p221
+S'Endpoint'
+p222
+sS'of paliperidone er 3 mg'
+p223
+S'DRUG'
+p224
+sS'the majority of subjects'
+p225
+S'SUBJECTS'
+p226
+sS'the 2 groups'
+p227
+S'GROUP'
+p228
+sS'mood stabilizers only'
+p229
+S'TREATMENT'
+p230
+sS'each paliperidone er group'
+p231
+S'GROUP'
+p232
+sS'individual studies r076477-sca-3001'
+p233
+S'STUDY'
+p234
+sS'the small subgroup of 50 subjects who had received study drug in combination with both antidepressants and mood stabilizers'
+p235
+S'GROUP'
+p236
+sS'subjects receiving concomitant treatment'
+p237
+S'SUBJECTS'
+p238
+sS'the ls mean change'
+p239
+S'DIFFERENCE'
+p240
+sS'both paliperidone er groups'
+p241
+S'GROUP'
+p242
+sS'placebo group'
+p243
+S'GROUP'
+p244
+sS'the paliperidone er flexible dose'
+p245
+S'DRUG'
+p246
+sS'ymrs total score <16'
+p247
+S'SCORE'
+p248
+sS'the cgi-c-sca score'
+p249
+S'SCORE'
+p250
+sS'baseline depressive symptoms'
+p251
+S'SYMPTOM'
+p252
+sS'the 3 groups taking more than 2 concomitant psychotropic medications'
+p253
+S'GROUP'
+p254
+sS'pali er low dose'
+p255
+S'DRUG'
+p256
+sS'a baseline score of 16'
+p257
+S'SCORE'
+p258
+sS'pooled data'
+p259
+S'DATA'
+p260
+sS'paliperidone er high/flexible dose ( 24% ) ,'
+p261
+S'GROUP'
+p262
+sS'monotherapy stratum'
+p263
+S'STRATUM'
+p264
+sS'ls mean differences'
+p265
+S'DIFFERENCE'
+p266
+sS'the double-blind treatment phase'
+p267
+S'PERIOD'
+p268
+sS'using an analysis of covariance'
+p269
+S'ANALYSIS'
+p270
+sS'the paliperidone high/flexible dose group'
+p271
+S'GROUP'
+p272
+sS'the high/flexible dose'
+p273
+S'DOSE'
+p274
+sS'symptoms of schizophrenia'
+p275
+S'SYMPTOM'
+p276
+sS'each of the individual phase 3 studies'
+p277
+S'STUDY'
+p278
+sS'12 of 20 subjects'
+p279
+S'SUBJECTS'
+p280
+sS'behavioral symptoms'
+p281
+S'SYMPTOM'
+p282
+sS'range 62-121'
+p283
+S'RANGE'
+p284
+sS'the treatment difference'
+p285
+S'DIFFERENCE'
+p286
+sS'85% of subjects'
+p287
+S'SUBJECTS'
+p288
+sS'combination therapy stratum'
+p289
+S'STRATUM'
+p290
+sS'cgi-s-sca positive domain score'
+p291
+S'SCORE'
+p292
+sS'the paliperidone er high/flexible dose group'
+p293
+S'GROUP'
+p294
+sS'between-group differences'
+p295
+S'DIFFERENCE'
+p296
+sS'the ham-d-21 overall'
+p297
+S'SCORE'
+p298
+sS'ymrs total scores'
+p299
+S'SCORE'
+p300
+sS'phase 3 clinical studies'
+p301
+S'STUDY'
+p302
+sS'614 subjects'
+p303
+S'SUBJECTS'
+p304
+sS'the original primary efficacy analysis'
+p305
+S'ANALYSIS'
+p306
+sS'daily dose of paliperidone er 6 mg'
+p307
+S'DOSE'
+p308
+sS'panss subscale'
+p309
+S'SUBSCALE'
+p310
+sS'cgi-s-sca depressive domain score'
+p311
+S'SCORE'
+p312
+sS'baseline ham-d-21 total score of 16'
+p313
+S'SCORE'
+p314
+sS'9 mg treatment groups'
+p315
+S'GROUP'
+p316
+sS'negative symptoms'
+p317
+S'SYMPTOM'
+p318
+sS'approximately 15% of subjects'
+p319
+S'SUBJECTS'
+p320
+sS'this stratum'
+p321
+S'STRATUM'
+p322
+sS'subjects receiving study drug in combination with antidepressants and/or mood stabilizers'
+p323
+S'SUBJECTS'
+p324
+sS'integrated data'
+p325
+S'DATA'
+p326
+sS'this disorder'
+p327
+S'DISEASE'
+p328
+sS'the median cgi-s-sca total score'
+p329
+S'SCORE'
+p330
+sS'the placebo group'
+p331
+S'GROUP'
+p332
+sS'69% of the 275 subjects receiving study drug'
+p333
+S'SUBJECTS'
+p334
+sS'the start of double-blind treatment'
+p335
+S'PERIOD'
+p336
+sS'concomitant psychotropic medication use'
+p337
+S'Formal_drug'
+p338
+sS'a post-hoc analysis'
+p339
+S'ANALYSIS'
+p340
+sS'\x95 retardation subscale'
+p341
+S'SUBSCALE'
+p342
+sS'week 2 locf'
+p343
+S'Endpoint'
+p344
+sS'studies of paliperidone er'
+p345
+S'STUDY'
+p346
+sS'the subgroup receiving mood stabilizers only'
+p347
+S'GROUP'
+p348
+sS'the total scores'
+p349
+S'SCORE'
+p350
+sS'a baseline ham-d-21 score of 16'
+p351
+S'SCORE'
+p352
+sS'95% of subjects'
+p353
+S'SUBJECTS'
+p354
+sS'and those aged more than 50 years'
+p355
+S'SUBJECTS'
+p356
+sS'a dose range of 3 to 12 mg daily'
+p357
+S'RANGE'
+p358
+sS'manic domain scores'
+p359
+S'SCORE'
+p360
+sS'intent-to-treat analysis set'
+p361
+S'Analytical_set'
+p362
+sS'final dose'
+p363
+S'DOSE'
+p364
+sS'subjects who received study drug in combination with antidepressants and/or mood stabilizers'
+p365
+S'SUBJECTS'
+p366
+sS'ymrs total'
+p367
+S'SCORE'
+p368
+sS'psychotropic medication'
+p369
+S'Formal_drug'
+p370
+sS'a cgi-c-sca score of 2'
+p371
+S'SCORE'
+p372
+sS'31% of subjects'
+p373
+S'SUBJECTS'
+p374
+sS'subjects with schizoaffective disorder'
+p375
+S'SUBJECTS'
+p376
+sS'paliperidone er high/flexible dose group'
+p377
+S'GROUP'
+p378
+sS'62% of subjects'
+p379
+S'SUBJECTS'
+p380
+sS'positive symptoms'
+p381
+S'SYMPTOM'
+p382
+sS'the paliperidone er total group'
+p383
+S'GROUP'
+p384
+sS'r076477-sca-3002'
+p385
+S'STUDY'
+p386
+sS'the data'
+p387
+S'DATA'
+p388
+sS'for the paliperidone er low dose ( 70% )'
+p389
+S'GROUP'
+p390
+sS'the total paliperidone er'
+p391
+S'GROUP'
+p392
+sS'a mode dose of 3 mg'
+p393
+S'DOSE'
+p394
+sS'both groups'
+p395
+S'GROUP'
+p396
+sS'200 subjects who were treated with placebo'
+p397
+S'SUBJECTS'
+p398
+sS'the analysis of the change'
+p399
+S'ANALYSIS'
+p400
+sS'both the paliperidone er low dose'
+p401
+S'DRUG'
+p402
+sS'subpopulations efficacy data'
+p403
+S'DATA'
+p404
+sS'starting dose of 6 mg'
+p405
+S'DOSE'
+p406
+sS'the subgroup who received study drug in combination with antidepressants only ( 48% )'
+p407
+S'GROUP'
+p408
+sS'any of the 5 panss factor scores'
+p409
+S'SCORE'
+p410
+sS'all differences'
+p411
+S'DIFFERENCE'
+p412
+sS'44% of subjects'
+p413
+S'SUBJECTS'
+p414
+sS'each of the ham-d-21 subscales'
+p415
+S'SCORE'
+p416
+sS'the phase 3 studies'
+p417
+S'STUDY'
+p418
+sS'and high dose ( p=0.032 ) groups'
+p419
+S'GROUP'
+p420
+sS'the dose of paliperidone er'
+p421
+S'DOSE'
+p422
+sS'case data'
+p423
+S'DATA'
+p424
+sS'the intent-to-treat analysis sets'
+p425
+S'Analytical_set'
+p426
+sS'398 of the 614 subjects'
+p427
+S'SUBJECTS'
+p428
+sS'baseline total scores .16'
+p429
+S'SCORE'
+p430
+sS'mean changes'
+p431
+S'DIFFERENCE'
+p432
+sS'both ymrs'
+p433
+S'SCORE'
+p434
+sS'the treatment groups'
+p435
+S'GROUP'
+p436
+sS'primary efficacy variable'
+p437
+S'Endpoint'
+p438
+sS'baseline ymrs total score .16'
+p439
+S'SCORE'
+p440
+sS'range 63-149'
+p441
+S'RANGE'
+p442
+sS'the ancova analysis'
+p443
+S'ANALYSIS'
+p444
+sS'the panss negative subscale score'
+p445
+S'SCORE'
+p446
+sS'or paliperidone er high dose ( 44% ) groups'
+p447
+S'GROUP'
+p448
+sS'both the mean cgi-c-sca scores'
+p449
+S'SCORE'
+p450
+sS'both antidepressants'
+p451
+S'Formal_drug'
+p452
+sS'the high dose'
+p453
+S'DOSE'
+p454
+sS'57% of subjects'
+p455
+S'SUBJECTS'
+p456
+sS'51.7% of subjects'
+p457
+S'SUBJECTS'
+p458
+sS'prominent mood symptoms'
+p459
+S'SYMPTOM'
+p460
+sS'92% of subjects'
+p461
+S'SUBJECTS'
+p462
+sS'each of the cgi-c-sca domain scores'
+p463
+S'SCORE'
+p464
+sS'81% of subjects'
+p465
+S'SUBJECTS'
+p466
+sS'6 week double-blind treatment period'
+p467
+S'PERIOD'
+p468
+sS'each stratum'
+p469
+S'STRATUM'
+p470
+sS'concomitant treatment with antidepressants only'
+p471
+S'TREATMENT'
+p472
+sS'both concomitant medication strata'
+p473
+S'STRATUM'
+p474
+sS'the cgi-s-sca score'
+p475
+S'SCORE'
+p476
+sS'the paliperidone er dose groups'
+p477
+S'GROUP'
+p478
+sS'a substantial number of subjects'
+p479
+S'SUBJECTS'
+p480
+sS'cgi-s-sca manic domain score'
+p481
+S'SCORE'
+p482
+sS'the cgi-s-sca depressive domain score'
+p483
+S'SCORE'
+p484
+sS'week 6 locf end point'
+p485
+S'Endpoint'
+p486
+sS'the panss general psychopathology subscale'
+p487
+S'SUBSCALE'
+p488
+sS'49.5% of subjects'
+p489
+S'SUBJECTS'
+p490
+sS'the mean cgi-c-sca score'
+p491
+S'SCORE'
+p492
+sS'manic symptoms'
+p493
+S'SYMPTOM'
+p494
+sS'the negative symptom factor score'
+p495
+S'SCORE'
+p496
+sS'the mean changes'
+p497
+S'DIFFERENCE'
+p498
+sS'positive domain score'
+p499
+S'SCORE'
+p500
+sS'treatment group differences'
+p501
+S'DIFFERENCE'
+p502
+sS'cgi-s-sca overall scores'
+p503
+S'SCORE'
+p504
+sS'in the paliperidone er low dose ( 11% )'
+p505
+S'GROUP'
+p506
+sS'the paliperidone er high dose group'
+p507
+S'GROUP'
+p508
+sS'each group'
+p509
+S'GROUP'
+p510
+sS'mood stabilizers the mean change'
+p511
+S'DIFFERENCE'
+p512
+sS'each of the panss subscale scores'
+p513
+S'SCORE'
+p514
+sS'dose-response analysis using trend test'
+p515
+S'ANALYSIS'
+p516
+sS'corresponding differences'
+p517
+S'DIFFERENCE'
+p518
+sS'53% of subjects'
+p519
+S'SUBJECTS'
+p520
+sS'3 of the 5 panss factor scores'
+p521
+S'SCORE'
+p522
+sS'the week 6 locf end point'
+p523
+S'Endpoint'
+p524
+sS'adult subjects'
+p525
+S'SUBJECTS'
+p526
+sS'the corresponding placebo group'
+p527
+S'GROUP'
+p528
+sS'all 5 panss factor scores'
+p529
+S'SCORE'
+p530
+sS'overall cgi-c-sca score'
+p531
+S'SCORE'
+p532
+sS'these differences'
+p533
+S'DIFFERENCE'
+p534
+sS'\x95 negative factor score'
+p535
+S'SCORE'
+p536
+sS'eligible subjects'
+p537
+S'SUBJECTS'
+p538
+sS'flexible dose'
+p539
+S'DOSE'
+p540
+sS'cgi-s-sca total score'
+p541
+S'SCORE'
+p542
+sS'pali er total'
+p543
+S'GROUP'
+p544
+sS'subjects receiving study drug as monotherapy'
+p545
+S'SUBJECTS'
+p546
+sS'paliperidone er treatment groups'
+p547
+S'GROUP'
+p548
+sS'the 3 mg'
+p549
+S'DOSE'
+p550
+sS'both the paliperidone er low dose ( 57% ; p=0.008 )'
+p551
+S'GROUP'
+p552
+sS'the sleep disturbance subscale'
+p553
+S'SUBSCALE'
+p554
+sS'ls mean estimates of the differences'
+p555
+S'DIFFERENCE'
+p556
+sS'\x95 subjects'
+p557
+S'SUBJECTS'
+p558
+sS'the dose range of 3 to 12 mg/d'
+p559
+S'RANGE'
+p560
+sS'10% of subjects'
+p561
+S'SUBJECTS'
+p562
+sS'exacerbation of psychotic symptoms'
+p563
+S'SYMPTOM'
+p564
+sS'in both the paliperidone er low dose ( p=0.013 )'
+p565
+S'GROUP'
+p566
+sS'baseline ymrs total score of 16'
+p567
+S'SCORE'
+p568
+sS'ham-d-21 total score <16'
+p569
+S'SCORE'
+p570
+sS'24-item scores'
+p571
+S'SCORE'
+p572
+sS'and high dose ( 62% ; p=0.001 ) groups'
+p573
+S'GROUP'
+p574
+sS'\x95 paliperidone er high dose'
+p575
+S'DRUG'
+p576
+sS'subjects who received concomitant therapy with a mood stabilizer or antidepressant for at least 75% of the double-blind period'
+p577
+S'SUBJECTS'
+p578
+sS'clinical studies'
+p579
+S'STUDY'
+p580
+sS'high/flexible dose'
+p581
+S'DOSE'
+p582
+sS'clinical studies of treatment interventions'
+p583
+S'STUDY'
+p584
+sS'the low dose group'
+p585
+S'GROUP'
+p586
+sS'the concomitant medication stratum'
+p587
+S'STRATUM'
+p588
+sS'analysis of the change'
+p589
+S'ANALYSIS'
+p590
+sS'and 48% in study r076477-sca-3002 )'
+p591
+S'SUBJECTS'
+p592
+sS'paliperidone er flexible dose groups'
+p593
+S'GROUP'
+p594
+sS'cgi-c-sca score of .2'
+p595
+S'SCORE'
+p596
+sS'this antidepressant/mood stabilizer subgroup'
+p597
+S'GROUP'
+p598
+sS'a mode dose of 9 mg'
+p599
+S'DOSE'
+p600
+sS'double-blind treatment'
+p601
+S'PERIOD'
+p602
+sS'the combination therapy stratum'
+p603
+S'STRATUM'
+p604
+sS'day 4 locf'
+p605
+S'Endpoint'
+p606
+sS'antidepressants only'
+p607
+S'TREATMENT'
+p608
+sS'the cgi-c-sca scores'
+p609
+S'SCORE'
+p610
+sS'this descriptive analysis'
+p611
+S'ANALYSIS'
+p612
+sS'the total score'
+p613
+S'SCORE'
+p614
+sS'paliperidone er low dose ( p=0.079 )'
+p615
+S'GROUP'
+p616
+sS'least 75% of the double-blind period'
+p617
+S'PERIOD'
+p618
+sS'numerous clinical studies'
+p619
+S'STUDY'
+p620
+sS'general psychopathology subscale'
+p621
+S'SUBSCALE'
+p622
+sS'paliperidone er low dose ( 55% )'
+p623
+S'GROUP'
+p624
+sS'ham-d-21 total scores .16'
+p625
+S'SCORE'
+p626
+sS'the analysis of the primary efficacy variable'
+p627
+S'ANALYSIS'
+p628
+sS'bmi data'
+p629
+S'DATA'
+p630
+sS'an analysis of covariance'
+p631
+S'ANALYSIS'
+p632
+sS'the small subgroup of subjects'
+p633
+S'GROUP'
+p634
+sS'70% of subjects'
+p635
+S'SUBJECTS'
+p636
+sS'the ls mean differences'
+p637
+S'DIFFERENCE'
+p638
+sS'the day 4 locf time point'
+p639
+S'Endpoint'
+p640
+sS'panss subscale scores of positive symptoms'
+p641
+S'SCORE'
+p642
+sS'female subjects who were 18 to 65 years'
+p643
+S'SUBJECTS'
+p644
+sS'1 of 3 groups'
+p645
+S'GROUP'
+p646
+sS'the 6-week double-blind period'
+p647
+S'PERIOD'
+p648
+sS'monotherapy'
+p649
+S'TREATMENT'
+p650
+sS'chronic psychotic symptoms'
+p651
+S'SYMPTOM'
+p652
+sS'\x95 negative symptoms'
+p653
+S'SYMPTOM'
+p654
+sS'high dose'
+p655
+S'DOSE'
+p656
+sS'96% of subjects'
+p657
+S'SUBJECTS'
+p658
+sS'3-12 mg'
+p659
+S'DOSE'
+p660
+sS'the analysis of the primary endpoint'
+p661
+S'ANALYSIS'
+p662
+sS'the paliperidone er high/flexible'
+p663
+S'GROUP'
+p664
+sS'the depressive domain scores'
+p665
+S'SCORE'
+p666
+sS'least 36 days of double-blind treatment'
+p667
+S'PERIOD'
+p668
+sS'demographic data'
+p669
+S'DATA'
+p670
+sS'mood stabilizers'
+p671
+S'Formal_drug'
+p672
+sS'both phase 3 studies'
+p673
+S'STUDY'
+p674
+sS'mean cgi-c-sca overall scores'
+p675
+S'SCORE'
+p676
+sS'47% of subjects'
+p677
+S'SUBJECTS'
+p678
+sS'the concurrent presentation of primary symptoms of schizophrenia'
+p679
+S'SYMPTOM'
+p680
+sS'the baseline panss total scores'
+p681
+S'SCORE'
+p682
+sS'itt analysis set'
+p683
+S'Analytical_set'
+p684
+sS'and paliperidone er high dose ( 92.7 ; range 63-121 ) groups'
+p685
+S'GROUP'
+p686
+sS'analysis of panss total score'
+p687
+S'ANALYSIS'
+p688
+sS'cgi-s-sca domain scores'
+p689
+S'SCORE'
+p690
+sS'ymrs scores'
+p691
+S'SCORE'
+p692
+sS'analysis of dose-response relationship'
+p693
+S'ANALYSIS'
+p694
+sS'50% of subjects'
+p695
+S'SUBJECTS'
+p696
+sS'ham-d-21 total score'
+p697
+S'SCORE'
+p698
+sS'antidepressants and/or mood stabilizers'
+p699
+S'Formal_drug'
+p700
+sS'panss total scores'
+p701
+S'SCORE'
+p702
+sS'the panss 24-item total score'
+p703
+S'SCORE'
+p704
+sS'subjects with a baseline score at least 16'
+p705
+S'SUBJECTS'
+p706
+sS'baseline score .16'
+p707
+S'SCORE'
+p708
+sS'low dose'
+p709
+S'DOSE'
+p710
+sS'a mood stabilizer'
+p711
+S'Formal_drug'
+p712
+sS'of subjects who received a mode or final dose , respectively , of paliperidone er 6 mg'
+p713
+S'SUBJECTS'
+p714
+sS'panss 24-item total score'
+p715
+S'SCORE'
+p716
+sS'the antidepressants only subgroup'
+p717
+S'GROUP'
+p718
+sS'low dose groups'
+p719
+S'GROUP'
+p720
+sS'\x95 anxiety/depression factor score'
+p721
+S'SCORE'
+p722
+sS'dose changes'
+p723
+S'DIFFERENCE'
+p724
+sS'paliperidone er flexible dose and placebo'
+p725
+S'DRUG'
+p726
+sS'a starting dose of 6 mg'
+p727
+S'DOSE'
+p728
+sS'the 3 treatment groups'
+p729
+S'GROUP'
+p730
+sS'panss factor scores'
+p731
+S'SCORE'
+p732
+sS'the cgi-s-sca overall score'
+p733
+S'SCORE'
+p734
+sS'a mode dose of 6 mg'
+p735
+S'DOSE'
+p736
+sS'asian subjects'
+p737
+S'SUBJECTS'
+p738
+sS'a baseline score'
+p739
+S'SCORE'
+p740
+sS'analysis of the primary efficacy variable'
+p741
+S'ANALYSIS'
+p742
+sS'mode doses of 3 mg'
+p743
+S'DOSE'
+p744
+sS'the clinical studies'
+p745
+S'STUDY'
+p746
+sS'23% of subjects'
+p747
+S'SUBJECTS'
+p748
+sS'a flexible dose range of 3 to 12 mg/d'
+p749
+S'RANGE'
+p750
+sS'the panss total score'
+p751
+S'SCORE'
+p752
+sS'the ham-d-21 score'
+p753
+S'SCORE'
+p754
+sS'negative domain scores'
+p755
+S'SCORE'
+p756
+sS'subjects with pre-existing conditions or risk factors'
+p757
+S'SUBJECTS'
+p758
+sS'of paliperidone er 6 mg'
+p759
+S'DRUG'
+p760
+sS'12% of subjects'
+p761
+S'SUBJECTS'
+p762
+sS'the available data'
+p763
+S'DATA'
+p764
+sS'this analysis'
+p765
+S'ANALYSIS'
+p766
+sS'a secondary efficacy variable'
+p767
+S'Endpoint'
+p768
+sS'statistically significant difference'
+p769
+S'DIFFERENCE'
+p770
+sS'the subgroups receiving mood stabilizers only'
+p771
+S'GROUP'
+p772
+sS'the total paliperidone er group'
+p773
+S'GROUP'
+p774
+sS'range 63-121'
+p775
+S'RANGE'
+p776
+sS'analysis of mode'
+p777
+S'ANALYSIS'
+p778
+sS'a final dose of 3 mg'
+p779
+S'DOSE'
+p780
+sS'\x95 responder analysis'
+p781
+S'ANALYSIS'
+p782
+sS'their psychiatric symptoms'
+p783
+S'SYMPTOM'
+p784
+sS'12 mg'
+p785
+S'DOSE'
+p786
+sS'the subgroup receiving both antidepressants'
+p787
+S'GROUP'
+p788
+sS'the analysis of change'
+p789
+S'ANALYSIS'
+p790
+sS'subjects with a baseline total score of 16 or greater'
+p791
+S'SUBJECTS'
+p792
+sS'overall score - change'
+p793
+S'DIFFERENCE'
+p794
+sS'within-group changes'
+p795
+S'DIFFERENCE'
+p796
+sS'6 mg'
+p797
+S'DOSE'
+p798
+sS'the paliperidone er low dose group'
+p799
+S'GROUP'
+p800
+sS'62% of subjects in study r076477-sca-3001'
+p801
+S'SUBJECTS'
+p802
+sS'the lower dose'
+p803
+S'DOSE'
+p804
+sS'414 subjects who'
+p805
+S'SUBJECTS'
+p806
+sS'the day 4 dose'
+p807
+S'DOSE'
+p808
+sS'the day 8 dose'
+p809
+S'DOSE'
+p810
+sS'subjects with chronic illness'
+p811
+S'SUBJECTS'
+p812
+sS'these other 2 groups'
+p813
+S'GROUP'
+p814
+sS'cgi-c-sca score .2'
+p815
+S'SCORE'
+p816
+sS'62 subjects'
+p817
+S'SUBJECTS'
+p818
+sS'either concomitant medication stratum'
+p819
+S'STRATUM'
+p820
+sS'or total paliperidone er ( 27% ) groups'
+p821
+S'GROUP'
+p822
+sS'the remaining treatment groups'
+p823
+S'GROUP'
+p824
+sS'49% of subjects'
+p825
+S'SUBJECTS'
+p826
+sS'subjects with .30% reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p827
+S'SUBJECTS'
+p828
+sS'subjects with prominent manic and depressive symptoms'
+p829
+S'SUBJECTS'
+p830
+sS'38% of subjects'
+p831
+S'SUBJECTS'
+p832
+sS'the subjects'
+p833
+S'SUBJECTS'
+p834
+sS'negative domain score'
+p835
+S'SCORE'
+p836
+sS'subjects with any non-psychotropic medication'
+p837
+S'SUBJECTS'
+p838
+sS'range 19-61 years'
+p839
+S'RANGE'
+p840
+sS'placebo ( 91.6 ; range 64-126 )'
+p841
+S'GROUP'
+p842
+sS'the cgi-s-sca total score'
+p843
+S'SCORE'
+p844
+sS'311 subjects'
+p845
+S'SUBJECTS'
+p846
+sS'placebo ( 95% )'
+p847
+S'GROUP'
+p848
+sS'the anxiety subscale'
+p849
+S'SUBSCALE'
+p850
+sS'414 subjects who received paliperidone er'
+p851
+S'SUBJECTS'
+p852
+sS'subjects who received study drug as monotherapy'
+p853
+S'SUBJECTS'
+p854
+sS'mode doses of 9 mg'
+p855
+S'DOSE'
+p856
+sS'or paliperidone er high dose ( 9% ) groups'
+p857
+S'GROUP'
+p858
+sS'the retardation subscale'
+p859
+S'SUBSCALE'
+p860
+sS'baseline scores'
+p861
+S'SCORE'
+p862
+sS'61.5% of subjects'
+p863
+S'SUBJECTS'
+p864
+sS'both of these paliperidone er treatment groups'
+p865
+S'GROUP'
+p866
+sS'ham-d-21 total score .16'
+p867
+S'SCORE'
+p868
+sS'the 6-week phase 3 study r076477-sca-3001'
+p869
+S'STUDY'
+p870
+sS'their first psychiatric symptoms approximately 1'
+p871
+S'SYMPTOM'
+p872
+sS'studies using the ancova model'
+p873
+S'STUDY'
+p874
+sS'\x95 sleep disturbance subscale'
+p875
+S'SUBSCALE'
+p876
+sS'additional analysis of efficacy'
+p877
+S'ANALYSIS'
+p878
+sS'key symptoms of schizophrenia'
+p879
+S'SYMPTOM'
+p880
+sS'subjects with psychosis'
+p881
+S'SUBJECTS'
+p882
+sS'locf data'
+p883
+S'Endpoint'
+p884
+sS'the week 2 locf time point'
+p885
+S'Endpoint'
+p886
+sS'the high/flexible dose group'
+p887
+S'GROUP'
+p888
+sS'200 subjects who'
+p889
+S'SUBJECTS'
+p890
+sS'all treatment groups'
+p891
+S'GROUP'
+p892
+sS'parallel-group studies'
+p893
+S'STUDY'
+p894
+sS'a total of 180 of the 275 subjects'
+p895
+S'SUBJECTS'
+p896
+sS'a statistically significant difference'
+p897
+S'DIFFERENCE'
+p898
+sS'13% of subjects'
+p899
+S'SUBJECTS'
+p900
+sS'the initial dose'
+p901
+S'DOSE'
+p902
+sS'the paliperidone er group'
+p903
+S'GROUP'
+p904
+sS'the remainder of the double-blind period'
+p905
+S'PERIOD'
+p906
+sS'antidepressants'
+p907
+S'Formal_drug'
+p908
+sS'cognitive symptoms of depression'
+p909
+S'SYMPTOM'
+p910
+sS'both treatment groups'
+p911
+S'GROUP'
+p912
+sS'subjects who had a decrease in the panss total score of .30% and a cgi-c-sca score of .2 at week 6 locf )'
+p913
+S'SUBJECTS'
+p914
+sS'individual phase 3 studies'
+p915
+S'STUDY'
+p916
+sS'prominent depressive symptoms'
+p917
+S'SYMPTOM'
+p918
+sS'the primary endpoint'
+p919
+S'Endpoint'
+p920
+sS'all 3 treatment groups'
+p921
+S'GROUP'
+p922
+sS'the 2 concomitant medication stratum subgroups'
+p923
+S'STRATUM'
+p924
+sS'of the 627 subjects randomly assigned to study treatment'
+p925
+S'SUBJECTS'
+p926
+sS'baseline manic symptoms'
+p927
+S'SYMPTOM'
+p928
+sS'non-european subjects'
+p929
+S'SUBJECTS'
+p930
+sS'subjects who had a baseline ymrs total score of 16 or greater'
+p931
+S'SUBJECTS'
+p932
+sS'subjects with this disorder'
+p933
+S'SUBJECTS'
+p934
+sS'using an analysis of variance'
+p935
+S'ANALYSIS'
+p936
+sS'the 14 subjects'
+p937
+S'SUBJECTS'
+p938
+sS'the negative subscale'
+p939
+S'SUBSCALE'
+p940
+sS'the panss 24-item score'
+p941
+S'SCORE'
+p942
+sS'pali er high dose'
+p943
+S'DRUG'
+p944
+sS'the cgi-s-sca negative domain score'
+p945
+S'SCORE'
+p946
+sS'paliperidone er high dose'
+p947
+S'DRUG'
+p948
+sS'male subjects'
+p949
+S'SUBJECTS'
+p950
+sS'approximately one-half of subjects'
+p951
+S'SUBJECTS'
+p952
+sS'the 2 treatment groups'
+p953
+S'GROUP'
+p954
+sS'decreasing all 5 panss factor scores'
+p955
+S'SCORE'
+p956
+sS'the double-blind treatment period of studies r076477-sca-3001'
+p957
+S'PERIOD'
+p958
+sS'each paliperidone er treatment group'
+p959
+S'GROUP'
+p960
+sS'the double-blind treatment period'
+p961
+S'PERIOD'
+p962
+sS'73.5% of subjects'
+p963
+S'SUBJECTS'
+p964
+sS'each domain score'
+p965
+S'SCORE'
+p966
+sS'the individual phase 3 studies'
+p967
+S'STUDY'
+p968
+sS'the major differences'
+p969
+S'DIFFERENCE'
+p970
+sS'the cgi-c-sca positive'
+p971
+S'SCORE'
+p972
+sS'concomitant medication'
+p973
+S'Formal_drug'
+p974
+sS'\x95 paliperidone er low dose'
+p975
+S'DRUG'
+p976
+sS'the week 6 bocf end point'
+p977
+S'Endpoint'
+p978
+sS'prominent mood symptoms of mania'
+p979
+S'SYMPTOM'
+p980
+sS'total score'
+p981
+S'SCORE'
+p982
+sS'and total paliperidone er ( 50% ) groups'
+p983
+S'GROUP'
+p984
+sS'paliperidone er 9 mg'
+p985
+S'DRUG'
+p986
+sS'the psychotic symptoms of schizoaffective disorder'
+p987
+S'SYMPTOM'
+p988
+sS'the paliperidone er treatment groups'
+p989
+S'GROUP'
+p990
+sS'placebo groups'
+p991
+S'GROUP'
+p992
+sS'phase 3 studies'
+p993
+S'STUDY'
+p994
+sS'subjects with any psychotropic medication'
+p995
+S'SUBJECTS'
+p996
+sS'panss total scores of 62'
+p997
+S'SCORE'
+p998
+sS'ham-d-21 subscale scores'
+p999
+S'SCORE'
+p1000
+sS'a supportive analysis'
+p1001
+S'ANALYSIS'
+p1002
+sS'more days of double-blind treatment'
+p1003
+S'PERIOD'
+p1004
+sS'ham-d-21 total scores <16'
+p1005
+S'SCORE'
+p1006
+sS'depressive domain scores'
+p1007
+S'SCORE'
+p1008
+sS'cgi-c-sca score'
+p1009
+S'SCORE'
+p1010
+sS'randomly assigned subjects'
+p1011
+S'SUBJECTS'
+p1012
+sS'ymrs total score .16'
+p1013
+S'SCORE'
+p1014
+sS'the paliperidone er high/flexible group'
+p1015
+S'GROUP'
+p1016
+sS'subjects with schizophrenia and other psychotic disorders'
+p1017
+S'SUBJECTS'
+p1018
+sS'ymrs total score'
+p1019
+S'SCORE'
+p1020
+sS'the double-blind period'
+p1021
+S'PERIOD'
+p1022
+sS'schizoaffective disorder'
+p1023
+S'DISEASE'
+p1024
+sS'the panss negative subscale'
+p1025
+S'SUBSCALE'
+p1026
+sS'the primary analysis set'
+p1027
+S'Analytical_set'
+p1028
+sS'concomitant treatment with mood stabilizers only'
+p1029
+S'TREATMENT'
+p1030
+sS'the total paliperidone er treatment group'
+p1031
+S'GROUP'
+p1032
+sS'least 5% of subjects'
+p1033
+S'SUBJECTS'
+p1034
+sS'9 mg dose groups'
+p1035
+S'GROUP'
+p1036
+sS'54% of subjects'
+p1037
+S'SUBJECTS'
+p1038
+sS'paliperidone er groups'
+p1039
+S'GROUP'
+p1040
+sS'of subjects who received a mode or final dose'
+p1041
+S'SUBJECTS'
+p1042
+sS'subjects who discontinued the study for any reason'
+p1043
+S'SUBJECTS'
+p1044
+sS'all paliperidone er treatment groups'
+p1045
+S'GROUP'
+p1046
+sS'analysis of clinical information relevant'
+p1047
+S'ANALYSIS'
+p1048
+sS'the panss general psychopathology subscale score'
+p1049
+S'SCORE'
+p1050
+sS'subjects who had received a stable dose of a mood stabilizer ( lithium , valproate , or lamotrigine ) and/or antidepressant ( except monoamine oxidase inhibitors ) for at least 30 days prior to screening'
+p1051
+S'SUBJECTS'
+p1052
+sS'subjects who responded to treatment'
+p1053
+S'SUBJECTS'
+p1054
+sS'subjects with prominent mood symptoms of mania or depression'
+p1055
+S'SUBJECTS'
+p1056
+sS'subjects who discontinued'
+p1057
+S'SUBJECTS'
+p1058
+sS'12 mg paliperidone er'
+p1059
+S'DRUG'
+p1060
+sS'the end of 6 weeks of double-blind treatment'
+p1061
+S'PERIOD'
+p1062
+sS'overall cgi-s-sca score'
+p1063
+S'SCORE'
+p1064
+sS'paliperidone'
+p1065
+S'DRUG'
+p1066
+sS'outlying data points'
+p1067
+S'DATA'
+p1068
+sS'panss subscale scores'
+p1069
+S'SCORE'
+p1070
+sS'71% of subjects'
+p1071
+S'SUBJECTS'
+p1072
+sS'all groups'
+p1073
+S'GROUP'
+p1074
+sS'groups receiving a concomitant atypical antipsychotic'
+p1075
+S'GROUP'
+p1076
+sS'\x95 cumulative efficacy data'
+p1077
+S'DATA'
+p1078
+sS'racial differences'
+p1079
+S'DIFFERENCE'
+p1080
+sS'ls mean change'
+p1081
+S'DIFFERENCE'
+p1082
+sS'51% of the subjects'
+p1083
+S'SUBJECTS'
+p1084
+sS'data analysis'
+p1085
+S'ANALYSIS'
+p1086
+sS'the three ham-d-21 subscales'
+p1087
+S'SUBSCALE'
+p1088
+sS'5% of subjects'
+p1089
+S'SUBJECTS'
+p1090
+sS'a the difference'
+p1091
+S'DIFFERENCE'
+p1092
+sS'this subgroup receiving placebo '
+p1093
+S'GROUP'
+p1094
+sS'the mean panss total score'
+p1095
+S'SCORE'
+p1096
+sS'the mood stabilizers only'
+p1097
+S'TREATMENT'
+p1098
+sS'a total of 627 subjects'
+p1099
+S'SUBJECTS'
+p1100
+sS'paliperidone er high/flexible dose'
+p1101
+S'DRUG'
+p1102
+sS'52 of the 93 subjects'
+p1103
+S'SUBJECTS'
+p1104
+sS'3 subjects'
+p1105
+S'SUBJECTS'
+p1106
+sS'a similar analysis of the primary efficacy variable'
+p1107
+S'ANALYSIS'
+p1108
+sS'analysis of efficacy'
+p1109
+S'ANALYSIS'
+p1110
+sS'mania symptoms'
+p1111
+S'SYMPTOM'
+p1112
+sS'the paliperidone er low dose'
+p1113
+S'DRUG'
+p1114
+sS'subjects with prominent baseline depressive or manic symptoms'
+p1115
+S'SUBJECTS'
+p1116
+sS'total paliperidone er group'
+p1117
+S'GROUP'
+p1118
+sS'ls mean changes'
+p1119
+S'DIFFERENCE'
+p1120
+sS'paliperidone er high dose groups'
+p1121
+S'GROUP'
+p1122
+sS'a post-hoc sensitivity analysis'
+p1123
+S'ANALYSIS'
+p1124
+sS'paliperidone er high/flexible'
+p1125
+S'GROUP'
+p1126
+sS'the paliperidone er high/flexible dose'
+p1127
+S'DRUG'
+p1128
+sS'46% of subjects'
+p1129
+S'SUBJECTS'
+p1130
+sS'ham-d-21 total'
+p1131
+S'SCORE'
+p1132
+sS'the mood stabilizers only subgroup'
+p1133
+S'GROUP'
+p1134
+sS'overall score'
+p1135
+S'SCORE'
+p1136
+sS'r076477-sca-3001'
+p1137
+S'STUDY'
+p1138
+sS'subjects without prominent depressive symptoms'
+p1139
+S'SUBJECTS'
+p1140
+sS'the 10 subjects'
+p1141
+S'SUBJECTS'
+p1142
+sS'42% of all subjects'
+p1143
+S'SUBJECTS'
+p1144
+sS'the mean cgi-c-sca scores'
+p1145
+S'SCORE'
+p1146
+sS'analysis of these studies'
+p1147
+S'ANALYSIS'
+p1148
+sS'mood stabilizers treatment'
+p1149
+S'TREATMENT'
+p1150
+sS'the panss subscale scores'
+p1151
+S'SCORE'
+p1152
+sS'the paliperidone er groups'
+p1153
+S'GROUP'
+p1154
+sS'the range of 3 to 12 mg/d'
+p1155
+S'RANGE'
+p1156
+sS'the high dose group'
+p1157
+S'GROUP'
+p1158
+sS'mean change'
+p1159
+S'DIFFERENCE'
+p1160
+sS'the week 6 locf'
+p1161
+S'Endpoint'
+p1162
+sS'starting dose 6 mg/d'
+p1163
+S'DOSE'
+p1164
+sS'3 mg'
+p1165
+S'DOSE'
+p1166
+sS'\x95 anxiety/somatization subscale'
+p1167
+S'SUBSCALE'
+p1168
+sS'subjects who had a baseline score of 16 or greater'
+p1169
+S'SUBJECTS'
+p1170
+sS'this group'
+p1171
+S'GROUP'
+p1172
+sS'marder factors - change'
+p1173
+S'DIFFERENCE'
+p1174
+sS'range 64-126'
+p1175
+S'RANGE'
+p1176
+sS'the ymrs total score'
+p1177
+S'SCORE'
+p1178
+sS'total paliperidone er'
+p1179
+S'GROUP'
+p1180
+sS'the positive subscale'
+p1181
+S'SUBSCALE'
+p1182
+sS'any of the panss factor scores'
+p1183
+S'SCORE'
+p1184
+sS'the individual paliperidone er treatment groups'
+p1185
+S'GROUP'
+p1186
+sS'more days of double-blind therapy'
+p1187
+S'PERIOD'
+p1188
+sS'study medication'
+p1189
+S'Formal_drug'
+p1190
+sS'dose-response analysis'
+p1191
+S'ANALYSIS'
+p1192
+sS'subjects with prominent manic symptoms'
+p1193
+S'SUBJECTS'
+p1194
+sS'subjects with acute mania'
+p1195
+S'SUBJECTS'
+p1196
+sS'affective symptoms'
+p1197
+S'SYMPTOM'
+p1198
+sS'the intent-to-treat analysis set'
+p1199
+S'Analytical_set'
+p1200
+sS'cgi-c-sca scores'
+p1201
+S'SCORE'
+p1202
+sS'week 4 locf'
+p1203
+S'Endpoint'
+p1204
+sS'panss 24-item scores'
+p1205
+S'SCORE'
+p1206
+sS'paliperidone er low dose'
+p1207
+S'DRUG'
+p1208
+sS'week 1 locf'
+p1209
+S'Endpoint'
+p1210
+sS'the ham-d-21 total'
+p1211
+S'SCORE'
+p1212
+sS'the end of the double-blind period'
+p1213
+S'PERIOD'
+p1214
+sS'the paliperidone er high dose/flexible dose group'
+p1215
+S'GROUP'
+p1216
+sS'94% of subjects'
+p1217
+S'SUBJECTS'
+p1218
+sS'218 of the 339 subjects'
+p1219
+S'SUBJECTS'
+p1220
+sS'68% of subjects'
+p1221
+S'SUBJECTS'
+p1222
+sS'45% of subjects'
+p1223
+S'SUBJECTS'
+p1224
+sS'final dose groups'
+p1225
+S'GROUP'
+p1226
+sS'possible outlier data points'
+p1227
+S'DATA'
+p1228
+sS'the cgi-c-sca negative'
+p1229
+S'SCORE'
+p1230
+sS'concomitant medication stratum'
+p1231
+S'STRATUM'
+p1232
+sS'efficacy data'
+p1233
+S'DATA'
+p1234
+sS'subjects receiving paliperidone er treatment remaining'
+p1235
+S'SUBJECTS'
+p1236
+sS'212 of the 310 subjects'
+p1237
+S'SUBJECTS'
+p1238
+sS'differences of ls means'
+p1239
+S'DIFFERENCE'
+p1240
+sS'the first 3 treatment groups'
+p1241
+S'GROUP'
+p1242
+sS'these phase 3 studies'
+p1243
+S'STUDY'
+p1244
+sS'an analysis of medicaid claims data'
+p1245
+S'ANALYSIS'
+p1246
+sS'a small minority of subjects'
+p1247
+S'SUBJECTS'
+p1248
+sS'the cgi-s-sca manic domain score'
+p1249
+S'SCORE'
+p1250
+sS'the treatment of schizoaffective disorder'
+p1251
+S'TREATMENT'
+p1252
+sS'a mode dose of 12 mg'
+p1253
+S'DOSE'
+p1254
+sS'the paliperidone er high dose'
+p1255
+S'DRUG'
+p1256
+sS'subjects who received paliperidone er in combination with antidepressants and/or mood stabilizers'
+p1257
+S'SUBJECTS'
+p1258
+sS'analyses of the change'
+p1259
+S'ANALYSIS'
+p1260
+sS'the treatment group difference'
+p1261
+S'DIFFERENCE'
+p1262
+sS'mean cgi-c-sca domain scores'
+p1263
+S'SCORE'
+p1264
+sS'11% of subjects'
+p1265
+S'SUBJECTS'
+p1266
+sS'\x95 positive symptoms'
+p1267
+S'SYMPTOM'
+p1268
+sS'the two phase 3 clinical studies'
+p1269
+S'STUDY'
+p1270
+sS'of subjects who received a mode or final dose , respectively , of paliperidone er 3 mg'
+p1271
+S'SUBJECTS'
+p1272
+sS'paliperidone er high/flexible dose ( 47% )'
+p1273
+S'GROUP'
+p1274
+sS'the 6-week double-blind treatment period'
+p1275
+S'PERIOD'
+p1276
+sS'positive subscale'
+p1277
+S'SUBSCALE'
+p1278
+sS'the mean change'
+p1279
+S'DIFFERENCE'
+p1280
+sS'and high dose ( p<0.001 ) groups'
+p1281
+S'GROUP'
+p1282
+sS'9.4 mg'
+p1283
+S'DOSE'
+p1284
+sS'15 of 30 subjects'
+p1285
+S'SUBJECTS'
+p1286
+sS'prominent affective symptoms consistent'
+p1287
+S'SYMPTOM'
+p1288
+sS'the cgi-c-sca measures overall change'
+p1289
+S'DIFFERENCE'
+p1290
+sS'subjects with a previously demonstrated lack of response to antipsychotic medication'
+p1291
+S'SUBJECTS'
+p1292
+sS'the mean cgi-c-sca overall scores'
+p1293
+S'SCORE'
+p1294
+sS'week 6 locf'
+p1295
+S'Endpoint'
+p1296
+sS'subjects who received a mode dose of 6 mg/d ( corresponding to the starting dose )'
+p1297
+S'SUBJECTS'
+p1298
+sS'subjects aged 18 to 25 years'
+p1299
+S'SUBJECTS'
+p1300
+s.

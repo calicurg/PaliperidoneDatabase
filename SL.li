@@ -1,0 +1,9199 @@
+(dp0
+S''
+p1
+(dp2
+S'11%'
+p3
+(dp4
+S'name'
+p5
+g3
+ssS'13%'
+p6
+(dp7
+g5
+g6
+ssS'23%'
+p8
+(dp9
+g5
+g8
+ssS'bocf'
+p10
+(dp11
+S'name'
+p12
+g10
+ssS'25%'
+p13
+(dp14
+g5
+g13
+ssS'15%'
+p15
+(dp16
+g5
+g15
+ssS'62%'
+p17
+(dp18
+g5
+S'62%'
+p19
+ssS'70%'
+p20
+(dp21
+g5
+g20
+ssS'45%'
+p22
+(dp23
+g5
+g22
+ssS'57%'
+p24
+(dp25
+g5
+g24
+ssS'12%'
+p26
+(dp27
+g5
+g26
+ssS'61.5%'
+p28
+(dp29
+g5
+g28
+ssS'54%'
+p30
+(dp31
+g5
+g30
+ssS'50%'
+p32
+(dp33
+g5
+g32
+ssS'42%'
+p34
+(dp35
+g5
+g34
+ssS'81%'
+p36
+(dp37
+g5
+g36
+ssS'51.7%'
+p38
+(dp39
+g5
+g38
+ssS'31%'
+p40
+(dp41
+g5
+g40
+ssS'49%'
+p42
+(dp43
+g5
+g42
+ssS'4%'
+p44
+(dp45
+g5
+g44
+ssS'95%'
+p46
+(dp47
+g5
+g46
+ssS'49.5%'
+p48
+(dp49
+g5
+g48
+ssS'38%'
+p50
+(dp51
+g5
+g50
+ssS'48%'
+p52
+(dp53
+g5
+g52
+ssS'69%'
+p54
+(dp55
+g5
+g54
+ssS'85%'
+p56
+(dp57
+g5
+g56
+ssS'10%'
+p58
+(dp59
+g5
+g58
+ssS'99%'
+p60
+(dp61
+g5
+g60
+ssS'58%'
+p62
+(dp63
+g5
+g62
+ssS'75%'
+p64
+(dp65
+g5
+g64
+ssS'46%'
+p66
+(dp67
+g5
+g66
+ssS'71%'
+p68
+(dp69
+g5
+g68
+ssS'44%'
+p70
+(dp71
+g5
+g70
+ssS'61%'
+p72
+(dp73
+g5
+g72
+ssS'53%'
+p74
+(dp75
+g5
+g74
+ssS'41.9%'
+p76
+(dp77
+g5
+g76
+ssS'47%'
+p78
+(dp79
+g5
+g78
+ssS'68%'
+p80
+(dp81
+g5
+S'68%'
+p82
+ssS'51%'
+p83
+(dp84
+g5
+g83
+ssS'92%'
+p85
+(dp86
+g5
+g85
+ssS'.30%'
+p87
+(dp88
+g5
+S'.30%'
+p89
+ssS'96%'
+p90
+(dp91
+g5
+g90
+ssS'73.5%'
+p92
+(dp93
+g5
+g92
+ssS'90%'
+p94
+(dp95
+g5
+g94
+ssS'5%'
+p96
+(dp97
+g5
+S'5%'
+p98
+ssS'94%'
+p99
+(dp100
+g5
+g99
+sssS'Severity'
+p101
+(dp102
+S'prominent'
+p103
+(dp104
+S'name'
+p105
+g103
+sssS'WeightUnit'
+p106
+(dp107
+S'mg'
+p108
+(dp109
+S'name'
+p110
+g108
+ssS'mg/d'
+p111
+(dp112
+S'name'
+p113
+g111
+sssS'Drug_TradeName'
+p114
+(dp115
+S'paliperidone er'
+p116
+(dp117
+S'name'
+p118
+g116
+ssS'placebo'
+p119
+(dp120
+S'name'
+p121
+g119
+sssS'SUBJECTS'
+p122
+(dp123
+S'90% of subjects'
+p124
+(dp125
+S'Percent'
+p126
+S'90%'
+p127
+ssS'approximately 15% of subjects'
+p128
+(dp129
+S'Approximation'
+p130
+S'approximately'
+p131
+sS'Percent'
+p132
+S'15%'
+p133
+ssS'4% of subjects'
+p134
+(dp135
+S'Percent'
+p136
+S'4%'
+p137
+ssS'96% of subjects'
+p138
+(dp139
+S'Percent'
+p140
+S'96%'
+p141
+ssS'subjects receiving study drug in combination with antidepressants and/or mood stabilizers'
+p142
+(dp143
+S'Formal_drug'
+p144
+(lp145
+S'antidepressants and/or mood stabilizers'
+p146
+aS'study drug'
+p147
+asS'mult'
+p148
+S'ok'
+p149
+ssS'69% of the 275 subjects receiving study drug'
+p150
+(dp151
+S'Amount'
+p152
+S'275'
+p153
+sS'Percent'
+p154
+S'69%'
+p155
+sS'Formal_drug'
+p156
+S'study drug'
+p157
+sS'mult'
+p158
+S'ok'
+p159
+ssS'black subjects'
+p160
+(dp161
+S'Subject_race'
+p162
+S'black'
+p163
+sS'mult'
+p164
+S'ok'
+p165
+ssS'25% of subjects'
+p166
+(dp167
+S'Percent'
+p168
+(lp169
+S'25%'
+p170
+aS'5%'
+p171
+assS'who received study drug in combination with antidepressants only ( 48% )'
+p172
+(dp173
+S'name'
+p174
+g172
+ssS'subjects aged 18 to 25 years'
+p175
+(dp176
+S'mult'
+p177
+S'ok'
+p178
+sS'Subject_age'
+p179
+S'18 to 25 years'
+p180
+ssS'47% of subjects'
+p181
+(dp182
+S'Percent'
+p183
+S'47%'
+p184
+ssS'subjects with schizoaffective disorder'
+p185
+(dp186
+S'DISEASE'
+p187
+S'schizoaffective disorder'
+p188
+sS'mult'
+p189
+S'ok'
+p190
+ssS'white subjects'
+p191
+(dp192
+S'Subject_race'
+p193
+S'white'
+p194
+sS'mult'
+p195
+S'ok'
+p196
+ssS'subjects with prominent depressive symptoms ( ham-d-21 total score .16 )'
+p197
+(dp198
+S'SCORE'
+p199
+S'ham-d-21 total score .16'
+p200
+sS'SYMPTOM'
+p201
+S'prominent depressive symptoms'
+p202
+sS'mult'
+p203
+S'ok'
+p204
+ssS'50 subjects who had received study drug in combination with both antidepressants and mood stabilizers'
+p205
+(dp206
+g174
+g205
+ssS'95% of subjects'
+p207
+(dp208
+S'Percent'
+p209
+(lp210
+S'5%'
+p211
+aS'95%'
+p212
+assS'50% of subjects'
+p213
+(dp214
+S'Percent'
+p215
+S'50%'
+p216
+ssS'subjects without prominent manic symptoms'
+p217
+(dp218
+S'SYMPTOM'
+p219
+S'prominent manic symptoms'
+p220
+sS'mult'
+p221
+S'ok'
+p222
+ssS'subjects with schizophrenia and other psychotic disorders'
+p223
+(dp224
+S'DISEASE'
+p225
+(lp226
+S'other psychotic disorders'
+p227
+aS'schizophrenia'
+p228
+asS'mult'
+p229
+S'ok'
+p230
+ssS'of subjects who received a mode or final dose , respectively , of paliperidone er 6 mg'
+p231
+(dp232
+S'DRUG'
+p233
+S'of paliperidone er 6 mg'
+p234
+sS'mult'
+p235
+S'ok'
+p236
+sS'DOSE'
+p237
+(lp238
+S'final dose'
+p239
+aS'mode dose'
+p240
+assS'31% of subjects'
+p241
+(dp242
+S'Percent'
+p243
+S'31%'
+p244
+ssS'subjects had been diagnosed with schizoaffective disorder ,'
+p245
+(dp246
+S'DISEASE'
+p247
+S'schizoaffective disorder'
+p248
+sS'mult'
+p249
+S'ok'
+p250
+ssS'randomly assigned subjects'
+p251
+(dp252
+S'Randomized'
+p253
+S'randomly assigned'
+p254
+sS'mult'
+p255
+S'ok'
+p256
+ssS'62% of subjects'
+p257
+(dp258
+S'Percent'
+p259
+S'62%'
+p260
+ssS'three subjects'
+p261
+(dp262
+S'Amount'
+p263
+S'3'
+p264
+sS'mult'
+p265
+S'ok'
+p266
+ssS'54% of subjects'
+p267
+(dp268
+S'Percent'
+p269
+(lp270
+S'4%'
+p271
+aS'54%'
+p272
+assS'subjects with a baseline score of 16 or greater'
+p273
+(dp274
+S'SCORE'
+p275
+S'baseline score of 16 or greater'
+p276
+ssS'of subjects who received a mode or final dose'
+p277
+(dp278
+S'mult'
+p279
+S'ok'
+p280
+sS'DOSE'
+p281
+(lp282
+S'final dose'
+p283
+aS'mode dose'
+p284
+assS'subjects who met dsm-iv criteria'
+p285
+(dp286
+S'Subject_criterion'
+p287
+S'dsm-iv criteria'
+p288
+sS'mult'
+p289
+S'ok'
+p290
+ssS'200 subjects who were treated with placebo'
+p291
+(dp292
+S'Amount'
+p293
+S'200'
+p294
+sS'Formal_drug'
+p295
+S'placebo'
+p296
+sS'mult'
+p297
+S'ok'
+p298
+ssS'subjects who discontinued the study for any reason'
+p299
+(dp300
+S'Subject_withdr_reason'
+p301
+S'any reason'
+p302
+sS'Subject_participation_status'
+p303
+S'discontinued'
+p304
+sS'mult'
+p305
+S'ok'
+p306
+ssS'asian subjects'
+p307
+(dp308
+S'Subject_race'
+p309
+S'asian'
+p310
+sS'mult'
+p311
+S'ok'
+p312
+ssS'subjects who had received a stable dose of a mood stabilizer ( lithium , valproate , or lamotrigine ) and/or antidepressant ( except monoamine oxidase inhibitors ) for at least 30 days prior to screening'
+p313
+(dp314
+S'Formal_drug'
+p315
+(lp316
+S'and/or antidepressant'
+p317
+aS'stable dose of a mood stabilizer'
+p318
+asS'DRUG'
+p319
+(lp320
+S'lamotrigine'
+p321
+aS'lithium'
+p322
+aS'valproate'
+p323
+assS'subjects who responded to treatment'
+p324
+(dp325
+S'Responce'
+p326
+S'responded to treatment'
+p327
+ssS'least 5% of subjects'
+p328
+(dp329
+S'LogicalKvantor'
+p330
+S'least'
+p331
+sS'Percent'
+p332
+S'5%'
+p333
+sS'mult'
+p334
+S'ok'
+p335
+ssS'subjects who discontinued'
+p336
+(dp337
+S'Subject_participation_status'
+p338
+S'discontinued'
+p339
+sS'mult'
+p340
+S'ok'
+p341
+ssS'23% of subjects'
+p342
+(dp343
+S'Percent'
+p344
+S'23%'
+p345
+ssS'44% of subjects'
+p346
+(dp347
+S'Percent'
+p348
+S'44%'
+p349
+ssS'subjects who received paliperidone er in combination with antidepressants and/or mood stabilizers'
+p350
+(dp351
+S'Formal_drug'
+p352
+S'antidepressants and/or mood stabilizers'
+p353
+sS'DRUG'
+p354
+S'paliperidone er'
+p355
+ssS'71% of subjects'
+p356
+(dp357
+S'Percent'
+p358
+S'71%'
+p359
+ssS'subjects receiving the study drug'
+p360
+(dp361
+S'Formal_drug'
+p362
+S'study drug'
+p363
+sS'mult'
+p364
+S'ok'
+p365
+ssS'subjects with pre-existing conditions or risk factors'
+p366
+(dp367
+S'Subject_pre-existing_conditions '
+p368
+S'with pre-existing conditions'
+p369
+sS'mult'
+p370
+S'ok'
+p371
+sS'Subject_risk_factors'
+p372
+S'risk factors'
+p373
+ssS'12% of subjects'
+p374
+(dp375
+S'Percent'
+p376
+S'12%'
+p377
+ssS'398 of the 614 subjects'
+p378
+(dp379
+S'Amount'
+p380
+S'398 of the 614'
+p381
+sS'mult'
+p382
+S'ok'
+p383
+ssS'subjects with a baseline score at least 16'
+p384
+(dp385
+S'SCORE'
+p386
+S'baseline score at least 16'
+p387
+ssS'41.9% of subjects'
+p388
+(dp389
+S'Percent'
+p390
+(lp391
+S'41.9%'
+p392
+aS'9%'
+p393
+assS'51% of the subjects'
+p394
+(dp395
+S'Percent'
+p396
+S'51%'
+p397
+ssS'5% of subjects'
+p398
+(dp399
+S'Percent'
+p400
+S'5%'
+p401
+ssS'99% of subjects'
+p402
+(dp403
+S'Percent'
+p404
+(lp405
+S'9%'
+p406
+aS'99%'
+p407
+assS'a total of 627 subjects'
+p408
+(dp409
+S'LogicalKvantor'
+p410
+S'total'
+p411
+sS'Amount'
+p412
+S'627'
+p413
+sS'mult'
+p414
+S'ok'
+p415
+ssS'subjects with prominent mood symptoms of mania or depression'
+p416
+(dp417
+S'SYMPTOM'
+p418
+S'prominent mood symptoms of mania'
+p419
+sS'mult'
+p420
+S'ok'
+p421
+ssS'subjects with a baseline total score of 16 or greater'
+p422
+(dp423
+S'SCORE'
+p424
+S'baseline total score of 16 or greater'
+p425
+ssS'57% of subjects'
+p426
+(dp427
+S'Percent'
+p428
+S'57%'
+p429
+ssS'52 of the 93 subjects'
+p430
+(dp431
+S'Amount'
+p432
+S'52 of the 93'
+p433
+sS'mult'
+p434
+S'ok'
+p435
+ssS'3 subjects'
+p436
+(dp437
+S'Amount'
+p438
+S'3'
+p439
+sS'mult'
+p440
+S'ok'
+p441
+ssS'81% of subjects'
+p442
+(dp443
+S'Percent'
+p444
+S'81%'
+p445
+ssS'62% of subjects in study r076477-sca-3001'
+p446
+(dp447
+S'STUDY'
+p448
+S'r076477-sca-3001'
+p449
+sS'Percent'
+p450
+S'62%'
+p451
+sS'mult'
+p452
+S'ok'
+p453
+ssS'58% of subjects'
+p454
+(dp455
+S'Percent'
+p456
+S'58%'
+p457
+ssS'414 subjects who'
+p458
+(dp459
+S'Amount'
+p460
+S'414'
+p461
+sS'mult'
+p462
+S'ok'
+p463
+ssS'61% of subjects'
+p464
+(dp465
+S'Percent'
+p466
+S'61%'
+p467
+ssS'subjects with chronic illness'
+p468
+(dp469
+S'DISEASE'
+p470
+S'chronic illness'
+p471
+sS'mult'
+p472
+S'ok'
+p473
+ssS'male subjects'
+p474
+(dp475
+S'Subject_gender'
+p476
+S'male'
+p477
+sS'mult'
+p478
+S'ok'
+p479
+ssS'316 subjects'
+p480
+(dp481
+S'Amount'
+p482
+S'316'
+p483
+sS'mult'
+p484
+S'ok'
+p485
+ssS'a substantial number of subjects'
+p486
+(dp487
+S'LogicalKvantor'
+p488
+S'substantial number'
+p489
+ssS'two-thirds of subjects'
+p490
+(dp491
+S'mult'
+p492
+S'ok'
+p493
+ssS'49.5% of subjects'
+p494
+(dp495
+S'Percent'
+p496
+S'49.5%'
+p497
+ssS'46% of subjects'
+p498
+(dp499
+S'Percent'
+p500
+S'46%'
+p501
+ssS'subjects without prominent depressive symptoms'
+p502
+(dp503
+S'SYMPTOM'
+p504
+S'prominent depressive symptoms'
+p505
+sS'mult'
+p506
+S'ok'
+p507
+ssS'the 10 subjects'
+p508
+(dp509
+S'mult'
+p510
+S'ok'
+p511
+ssS'42% of all subjects'
+p512
+(dp513
+S'Percent'
+p514
+S'42%'
+p515
+ssS'49% of subjects'
+p516
+(dp517
+S'Percent'
+p518
+S'49%'
+p519
+ssS'68% of the 339 subjects'
+p520
+(dp521
+S'Amount'
+p522
+S'339'
+p523
+sS'Percent'
+p524
+S'68%'
+p525
+sS'mult'
+p526
+S'ok'
+p527
+ssS'92% of subjects'
+p528
+(dp529
+S'Percent'
+p530
+S'92%'
+p531
+ssS'subjects with .30% reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p532
+(dp533
+S'Result'
+p534
+S'.30% reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p535
+ssS'subjects with prominent manic and depressive symptoms'
+p536
+(dp537
+S'SYMPTOM'
+p538
+S'depressive symptoms'
+p539
+sS'mult'
+p540
+S'ok'
+p541
+ssS'38% of subjects'
+p542
+(dp543
+S'Percent'
+p544
+S'38%'
+p545
+ssS'the subjects'
+p546
+(dp547
+S'mult'
+p548
+S'ok'
+p549
+ssS'subjects who had a baseline score of 16 or greater'
+p550
+(dp551
+S'SCORE'
+p552
+S'a baseline score of 16'
+p553
+sS'mult'
+p554
+S'ok'
+p555
+ssS'51.7% of subjects'
+p556
+(dp557
+S'Percent'
+p558
+S'51.7%'
+p559
+ssS'subjects with any non-psychotropic medication'
+p560
+(dp561
+S'Formal_drug'
+p562
+S'any non-psychotropic medication'
+p563
+sS'mult'
+p564
+S'ok'
+p565
+ssS'53% of subjects'
+p566
+(dp567
+S'Percent'
+p568
+S'53%'
+p569
+ssS'adult subjects'
+p570
+(dp571
+S'Age_category'
+p572
+S'adult'
+p573
+ssS'134 of the 211 subjects'
+p574
+(dp575
+S'Amount'
+p576
+S'134 of the 211'
+p577
+ssS'414 subjects who received paliperidone er'
+p578
+(dp579
+S'DRUG'
+p580
+S'paliperidone er'
+p581
+ssS'subjects who received study drug in combination with mood stabilizers only'
+p582
+(dp583
+S'Formal_drug'
+p584
+S'study drug'
+p585
+sS'TREATMENT'
+p586
+S'mood stabilizers only'
+p587
+ssS'subjects with a previously demonstrated lack of response to antipsychotic medication'
+p588
+(dp589
+S'Responce'
+p590
+S'previously demonstrated lack of response to antipsychotic medication'
+p591
+ssS'eligible subjects'
+p592
+(dp593
+S'Subject_eligibility'
+p594
+S'eligible'
+p595
+sS'mult'
+p596
+S'ok'
+p597
+ssS'61.5% of subjects'
+p598
+(dp599
+S'Percent'
+p600
+(lp601
+S'5%'
+p602
+aS'61.5%'
+p603
+assS'subjects with an established diagnosis of schizoaffective disorder'
+p604
+(dp605
+S'Diagnosis'
+p606
+S'established diagnosis of schizoaffective disorder'
+p607
+sS'mult'
+p608
+S'ok'
+p609
+ssS'subjects with any psychotropic medication'
+p610
+(dp611
+S'Formal_drug'
+p612
+S'any psychotropic medication'
+p613
+sS'mult'
+p614
+S'ok'
+p615
+ssS'subjects receiving study drug as monotherapy'
+p616
+(dp617
+S'Formal_drug'
+p618
+S'study drug'
+p619
+sS'mult'
+p620
+S'ok'
+p621
+sS'TREATMENT'
+p622
+S'monotherapy'
+p623
+ssS'the majority of subjects'
+p624
+(dp625
+S'LogicalKvantor'
+p626
+S'majority'
+p627
+sS'mult'
+p628
+S'ok'
+p629
+ssS'subjects with psychosis'
+p630
+(dp631
+S'DISEASE'
+p632
+S'psychosis'
+p633
+sS'mult'
+p634
+S'ok'
+p635
+ssS'\x95 subjects'
+p636
+(dp637
+S'mult'
+p638
+S'ok'
+p639
+ssS'subjects with prominent manic symptoms'
+p640
+(dp641
+S'SYMPTOM'
+p642
+S'prominent manic symptoms'
+p643
+sS'mult'
+p644
+S'ok'
+p645
+ssS'subjects with acute mania'
+p646
+(dp647
+S'DISEASE'
+p648
+S'mania'
+p649
+sS'mult'
+p650
+S'ok'
+p651
+sS'Symptom_chronic'
+p652
+S'acute'
+p653
+ssS'200 subjects who'
+p654
+(dp655
+S'Amount'
+p656
+S'200'
+p657
+ssS'62 subjects'
+p658
+(dp659
+S'Amount'
+p660
+S'62'
+p661
+sS'mult'
+p662
+S'ok'
+p663
+ssS'subjects receiving concomitant treatment'
+p664
+(dp665
+S'TREATMENT'
+p666
+S'concomitant treatment'
+p667
+sS'mult'
+p668
+S'ok'
+p669
+ssS'subjects who received concomitant therapy with a mood stabilizer or antidepressant for at least 75% of the double-blind period'
+p670
+(dp671
+S'TREATMENT'
+p672
+S'concomitant therapy'
+p673
+sS'Formal_drug'
+p674
+S'a mood stabilizer'
+p675
+sS'PERIOD'
+p676
+S'least 75% of the double-blind period'
+p677
+ssS'a total of 180 of the 275 subjects'
+p678
+(dp679
+S'LogicalKvantor'
+p680
+S'total'
+p681
+sS'Amount'
+p682
+S'180 of the 275'
+p683
+sS'mult'
+p684
+S'ok'
+p685
+ssS'subjects who had a baseline ham-d-21 score of 16 or greater'
+p686
+(dp687
+S'SCORE'
+p688
+S'a baseline ham-d-21 score of 16'
+p689
+sS'mult'
+p690
+S'ok'
+p691
+ssS'13% of subjects'
+p692
+(dp693
+S'Percent'
+p694
+S'13%'
+p695
+ssS'94% of subjects'
+p696
+(dp697
+S'Percent'
+p698
+(lp699
+S'4%'
+p700
+aS'94%'
+p701
+assS'218 of the 339 subjects'
+p702
+(dp703
+S'mult'
+p704
+S'ok'
+p705
+ssS'68% of subjects'
+p706
+(dp707
+S'Percent'
+p708
+S'68%'
+p709
+ssS'45% of subjects'
+p710
+(dp711
+S'Percent'
+p712
+S'45%'
+p713
+ssS'and 48% in study r076477-sca-3002 )'
+p714
+(dp715
+S'STUDY'
+p716
+S'r076477-sca-3002'
+p717
+sS'Percent'
+p718
+S'48%'
+p719
+sS'mult'
+p720
+S'ok'
+p721
+ssS'of the 627 subjects randomly assigned to study treatment'
+p722
+(dp723
+S'Randomized'
+p724
+S'randomly assigned'
+p725
+sS'Amount'
+p726
+S'627'
+p727
+sS'mult'
+p728
+S'ok'
+p729
+ssS'subjects receiving paliperidone er treatment remaining'
+p730
+(dp731
+S'DRUG'
+p732
+S'paliperidone er'
+p733
+sS'mult'
+p734
+S'ok'
+p735
+ssS'212 of the 310 subjects'
+p736
+(dp737
+S'Amount'
+p738
+S'212 of the 310'
+p739
+sS'mult'
+p740
+S'ok'
+p741
+ssS'subjects who had a decrease in the panss total score of .30% and a cgi-c-sca score of .2 at week 6 locf )'
+p742
+(dp743
+S'Result'
+p744
+S'decrease in the panss total score of .30% and a cgi-c-sca score of .2 at week 6 locf )'
+p745
+sS'mult'
+p746
+S'ok'
+p747
+ssS'a small minority of subjects'
+p748
+(dp749
+S'LogicalKvantor'
+p750
+S'small minority'
+p751
+ssS'and those aged more than 50 years'
+p752
+(dp753
+S'mult'
+p754
+S'ok'
+p755
+sS'Subject_age'
+p756
+S'than 50 years'
+p757
+ssS'subjects who received study drug in combination with antidepressants and/or mood stabilizers'
+p758
+(dp759
+S'Formal_drug'
+p760
+(lp761
+S'antidepressants and/or mood stabilizers'
+p762
+aS'study drug'
+p763
+assS'11% of subjects'
+p764
+(dp765
+S'Percent'
+p766
+S'11%'
+p767
+ssS'12 of 20 subjects'
+p768
+(dp769
+S'Amount'
+p770
+S'12 of 20'
+p771
+ssS'non-european subjects'
+p772
+(dp773
+S'Subject_GeographicLocation'
+p774
+S'non-european'
+p775
+sS'mult'
+p776
+S'ok'
+p777
+ssS'subjects who had a baseline ymrs total score of 16 or greater'
+p778
+(dp779
+S'SCORE'
+p780
+S'baseline ymrs total score of 16'
+p781
+sS'mult'
+p782
+S'ok'
+p783
+ssS'subjects with this disorder'
+p784
+(dp785
+S'DISEASE'
+p786
+S'this disorder'
+p787
+sS'mult'
+p788
+S'ok'
+p789
+ssS'of subjects who received a mode or final dose , respectively , of paliperidone er 3 mg'
+p790
+(dp791
+S'DRUG'
+p792
+S'of paliperidone er 3 mg'
+p793
+sS'mult'
+p794
+S'ok'
+p795
+sS'DOSE'
+p796
+(lp797
+S'3 mg'
+p798
+aS'final dose'
+p799
+aS'mode dose'
+p800
+assS'85% of subjects'
+p801
+(dp802
+S'Percent'
+p803
+(lp804
+S'5%'
+p805
+aS'85%'
+p806
+assS'the 14 subjects'
+p807
+(dp808
+S'mult'
+p809
+S'ok'
+p810
+ssS'311 subjects'
+p811
+(dp812
+S'Amount'
+p813
+S'311'
+p814
+sS'mult'
+p815
+S'ok'
+p816
+ssS'15 of 30 subjects'
+p817
+(dp818
+S'Amount'
+p819
+S'15 of 30'
+p820
+ssS'70% of subjects'
+p821
+(dp822
+S'Percent'
+p823
+S'70%'
+p824
+ssS'10% of subjects'
+p825
+(dp826
+S'Percent'
+p827
+S'10%'
+p828
+ssS'approximately one-half of subjects'
+p829
+(dp830
+S'Approximation'
+p831
+S'approximately'
+p832
+sS'LogicalKvantor'
+p833
+S'one-half'
+p834
+ssS'subjects who received study drug as monotherapy'
+p835
+(dp836
+S'Formal_drug'
+p837
+S'study drug'
+p838
+sS'TREATMENT'
+p839
+S'monotherapy'
+p840
+ssS'73.5% of subjects'
+p841
+(dp842
+S'Percent'
+p843
+(lp844
+S'5%'
+p845
+aS'73.5%'
+p846
+assS'614 subjects'
+p847
+(dp848
+S'Amount'
+p849
+S'614'
+p850
+sS'mult'
+p851
+S'ok'
+p852
+ssS'female subjects who were 18 to 65 years'
+p853
+(dp854
+S'mult'
+p855
+S'ok'
+p856
+sS'Subject_gender'
+p857
+S'female'
+p858
+sS'Subject_age'
+p859
+S'18 to 65 years'
+p860
+ssS'subjects who received a mode dose of 6 mg/d ( corresponding to the starting dose )'
+p861
+(dp862
+S'DOSE'
+p863
+S'a mode dose of 6 mg'
+p864
+ssS'subjects with prominent baseline depressive or manic symptoms'
+p865
+(dp866
+S'SYMPTOM'
+p867
+S'prominent baseline depressive or manic symptoms'
+p868
+sS'mult'
+p869
+S'ok'
+p870
+sssS'Analysis_feature'
+p871
+(dp872
+S'post-hoc'
+p873
+(dp874
+S'name'
+p875
+g873
+sssS'DrugIntakeMode'
+p876
+(dp877
+S'concomitant'
+p878
+(dp879
+S'name'
+p880
+g878
+sssS'Value'
+p881
+(dp882
+S'62'
+p883
+(dp884
+S'name'
+p885
+g883
+ssS'2'
+p886
+(dp887
+g885
+g886
+ssS'<16'
+p888
+(dp889
+S'name'
+p890
+g888
+ssS'16'
+p891
+(dp892
+g885
+S'16'
+p893
+sssS'Amount'
+p894
+(dp895
+S'134 of the 211'
+p896
+(dp897
+S'name'
+p898
+g896
+ssS'200'
+p899
+(dp900
+g898
+g899
+ssS'627'
+p901
+(dp902
+g898
+g901
+ssS'398 of the 614'
+p903
+(dp904
+g898
+g903
+ssS'3'
+p905
+(dp906
+g898
+g905
+ssS'212 of the 310'
+p907
+(dp908
+g898
+g907
+ssS'12 of 20'
+p909
+(dp910
+g898
+g909
+ssS'316'
+p911
+(dp912
+g898
+g911
+ssS'614'
+p913
+(dp914
+g898
+g913
+ssS'218 of the 339'
+p915
+(dp916
+g898
+g915
+ssS'62'
+p917
+(dp918
+g898
+g917
+ssS'15 of 30'
+p919
+(dp920
+g898
+g919
+ssS'311'
+p921
+(dp922
+g898
+g921
+ssS'414'
+p923
+(dp924
+g898
+g923
+ssS'180 of the 275'
+p925
+(dp926
+g898
+g925
+ssS'52 of the 93'
+p927
+(dp928
+g898
+g927
+sssS'Subject_result'
+p929
+(dp930
+sS'name'
+p931
+(dp932
+sS'Scale_NumberOfQuestions'
+p933
+(dp934
+S'24-item'
+p935
+(dp936
+g885
+g935
+sssS'Subject_age'
+p937
+(dp938
+S'18 to 25 years'
+p939
+(dp940
+g174
+g939
+ssS'than 50 years'
+p941
+(dp942
+g174
+g941
+ssS'18 to 65 years'
+p943
+(dp944
+S'name'
+p945
+g943
+sssS'Randomized'
+p946
+(dp947
+S'randomly assigned'
+p948
+(dp949
+g945
+g948
+sssS'StatAnalitycalMethod'
+p950
+(dp951
+S'bocf'
+p952
+(dp953
+g121
+g952
+ssS'locf'
+p954
+(dp955
+g121
+S'locf'
+p956
+sssS'Study_timepoint'
+p957
+(dp958
+S'baseline'
+p959
+(dp960
+g885
+g959
+ssS'week 2'
+p961
+(dp962
+g121
+S'week 2'
+p963
+ssS'week 3'
+p964
+(dp965
+g121
+g964
+ssS'week 1'
+p966
+(dp967
+g121
+g966
+ssS'week 6'
+p968
+(dp969
+g121
+g968
+ssS'week 4'
+p970
+(dp971
+g121
+g970
+ssS'day 8'
+p972
+(dp973
+g113
+g972
+ssS'day 4'
+p974
+(dp975
+g113
+g974
+sssS'Scale'
+p976
+(dp977
+S'cgi-c-sca'
+p978
+(dp979
+S'name'
+p980
+g978
+sssS'GROUP'
+p981
+(dp982
+S'9 mg treatment groups'
+p983
+(dp984
+S'DOSE'
+p985
+S'9 mg'
+p986
+ssS'flexible dose groups'
+p987
+(dp988
+S'DOSE'
+p989
+S'flexible dose'
+p990
+ssS'all paliperidone er treatment groups'
+p991
+(dp992
+S'LogicalKvantor'
+p993
+S'all'
+p994
+sS'DRUG'
+p995
+S'paliperidone er'
+p996
+ssS'the paliperidone er high/flexible'
+p997
+(dp998
+S'DRUG'
+p999
+S'paliperidone er'
+p1000
+sS'DOSE'
+p1001
+S'the high/flexible dose'
+p1002
+ssS'the placebo group'
+p1003
+(dp1004
+S'Formal_drug'
+p1005
+S'placebo'
+p1006
+ssS'antidepressants only subgroups'
+p1007
+(dp1008
+S'TreatmentMode'
+p1009
+S'only'
+p1010
+sS'Formal_drug'
+p1011
+S'antidepressants'
+p1012
+sS'mult'
+p1013
+S'ok'
+p1014
+ssS'the paliperidone er treatment group'
+p1015
+(dp1016
+S'DRUG'
+p1017
+S'paliperidone er'
+p1018
+ssS'the respective placebo group'
+p1019
+(dp1020
+S'LogicalKvantor'
+p1021
+S'respective'
+p1022
+sS'Formal_drug'
+p1023
+S'placebo'
+p1024
+ssS'both of these paliperidone er treatment groups'
+p1025
+(dp1026
+S'LogicalKvantor'
+p1027
+S'both'
+p1028
+sS'this'
+p1029
+S'ok'
+p1030
+sS'mult'
+p1031
+S'ok'
+p1032
+sS'DRUG'
+p1033
+S'paliperidone er'
+p1034
+ssS'the paliperidone er treatment groups'
+p1035
+(dp1036
+S'DRUG'
+p1037
+S'paliperidone er'
+p1038
+ssS'paliperidone er high/flexible dose ( 24% ) ,'
+p1039
+(dp1040
+S'Percent'
+p1041
+S'24%'
+p1042
+sS'DRUG'
+p1043
+S'paliperidone er high/flexible dose'
+p1044
+sS'DOSE'
+p1045
+S'high/flexible dose'
+p1046
+ssS'and high dose ( 80% ) groups'
+p1047
+(dp1048
+S'Conjunction'
+p1049
+S'and'
+p1050
+sS'Percent'
+p1051
+S'80%'
+p1052
+sS'DOSE'
+p1053
+S'high dose'
+p1054
+ssS'and paliperidone er high dose ( 92.7 ; range 63-121 ) groups'
+p1055
+(dp1056
+S'RANGE'
+p1057
+S'range 63-121'
+p1058
+sS'Conjunction'
+p1059
+S'and'
+p1060
+sS'DRUG'
+p1061
+S'paliperidone er high dose'
+p1062
+ssS'total paliperidone er groups'
+p1063
+(dp1064
+S'mult'
+p1065
+S'ok'
+p1066
+sS'Totality'
+p1067
+S'total'
+p1068
+sS'DRUG'
+p1069
+S'paliperidone er'
+p1070
+ssS'the paliperidone er high/flexible group'
+p1071
+(dp1072
+S'DRUG'
+p1073
+S'paliperidone er'
+p1074
+sS'DOSE'
+p1075
+S'high/flexible group'
+p1076
+ssS'the antidepressants only'
+p1077
+(dp1078
+S'TreatmentMode'
+p1079
+S'only'
+p1080
+sS'Formal_drug'
+p1081
+S'antidepressants'
+p1082
+ssS'the 2 treatment groups'
+p1083
+(dp1084
+S'Amount'
+p1085
+S'2'
+p1086
+sS'mult'
+p1087
+S'ok'
+p1088
+ssS'any treatment group'
+p1089
+(dp1090
+S'LogicalKvantor'
+p1091
+S'any'
+p1092
+sS'mult'
+p1093
+S'ok'
+p1094
+ssS'the antidepressants only subgroup'
+p1095
+(dp1096
+S'TreatmentMode'
+p1097
+S'only'
+p1098
+sS'Formal_drug'
+p1099
+S'antidepressants'
+p1100
+ssS'low dose groups'
+p1101
+(dp1102
+S'DOSE'
+p1103
+S'low dose'
+p1104
+ssS'paliperidone er high/flexible dose group'
+p1105
+(dp1106
+S'DRUG'
+p1107
+S'paliperidone er'
+p1108
+sS'DOSE'
+p1109
+S'high/flexible dose'
+p1110
+ssS'the subgroups receiving mood stabilizers only'
+p1111
+(dp1112
+S'TreatmentMode'
+p1113
+S'only'
+p1114
+sS'Formal_drug'
+p1115
+S'mood stabilizers'
+p1116
+ssS'the paliperidone er total group'
+p1117
+(dp1118
+S'DRUG'
+p1119
+S'paliperidone er'
+p1120
+sS'Totality'
+p1121
+S'total'
+p1122
+ssS'the paliperidone er flexible dose group'
+p1123
+(dp1124
+S'DRUG'
+p1125
+S'paliperidone er'
+p1126
+sS'DOSE'
+p1127
+S'flexible dose'
+p1128
+ssS'the total paliperidone er treatment group'
+p1129
+(dp1130
+S'Totality'
+p1131
+S'total'
+p1132
+sS'DRUG'
+p1133
+S'paliperidone er'
+p1134
+ssS'9 mg dose groups'
+p1135
+(dp1136
+S'DOSE'
+p1137
+S'9 mg'
+p1138
+ssS'the total paliperidone er groups'
+p1139
+(dp1140
+S'mult'
+p1141
+S'ok'
+p1142
+sS'Totality'
+p1143
+S'total'
+p1144
+sS'DRUG'
+p1145
+S'paliperidone er'
+p1146
+ssS'paliperidone er groups'
+p1147
+(dp1148
+S'mult'
+p1149
+S'ok'
+p1150
+sS'DRUG'
+p1151
+S'paliperidone er'
+p1152
+ssS'the 3 treatment groups'
+p1153
+(dp1154
+S'this'
+p1155
+S'ok'
+p1156
+sS'Amount'
+p1157
+S'3'
+p1158
+sS'mult'
+p1159
+S'ok'
+p1160
+ssS'for the paliperidone er low dose ( 70% )'
+p1161
+(dp1162
+S'Percent'
+p1163
+S'70%'
+p1164
+sS'DRUG'
+p1165
+S'paliperidone er low dose'
+p1166
+ssS'the total paliperidone er'
+p1167
+(dp1168
+S'Totality'
+p1169
+S'total'
+p1170
+sS'DRUG'
+p1171
+S'paliperidone er'
+p1172
+ssS'both groups'
+p1173
+(dp1174
+S'LogicalKvantor'
+p1175
+S'both'
+p1176
+sS'mult'
+p1177
+S'ok'
+p1178
+ssS'total paliperidone er group'
+p1179
+(dp1180
+S'Totality'
+p1181
+S'total'
+p1182
+sS'DRUG'
+p1183
+S'paliperidone er'
+p1184
+ssS'the paliperidone er dose groups'
+p1185
+(dp1186
+S'DRUG'
+p1187
+S'paliperidone er'
+p1188
+sS'mult'
+p1189
+S'ok'
+p1190
+ssS'the subgroup who received study drug in combination with antidepressants only ( 48% )'
+p1191
+(dp1192
+S'SUBJECTS'
+p1193
+S'who received study drug in combination with antidepressants only ( 48% )'
+p1194
+ssS'and high dose ( p=0.032 ) groups'
+p1195
+(dp1196
+S'P_value'
+p1197
+S'p=0.032'
+p1198
+sS'Conjunction'
+p1199
+S'and'
+p1200
+sS'DOSE'
+p1201
+S'high dose'
+p1202
+ssS'all groups'
+p1203
+(dp1204
+S'LogicalKvantor'
+p1205
+S'all'
+p1206
+ssS'groups receiving a concomitant atypical antipsychotic'
+p1207
+(dp1208
+S'TreatmentMode'
+p1209
+S'concomitant'
+p1210
+sS'Formal_drug'
+p1211
+S'atypical antipsychotic'
+p1212
+sS'mult'
+p1213
+S'ok'
+p1214
+ssS'the treatment groups'
+p1215
+(dp1216
+S'this'
+p1217
+S'ok'
+p1218
+sS'mult'
+p1219
+S'ok'
+p1220
+ssS'the total paliperidone er group'
+p1221
+(dp1222
+S'Totality'
+p1223
+S'total'
+p1224
+sS'DRUG'
+p1225
+S'paliperidone er'
+p1226
+ssS'or paliperidone er high dose ( 44% ) groups'
+p1227
+(dp1228
+S'Percent'
+p1229
+S'44%'
+p1230
+sS'DRUG'
+p1231
+S'paliperidone er high dose'
+p1232
+ssS'this subgroup receiving placebo '
+p1233
+(dp1234
+S'this'
+p1235
+S'ok'
+p1236
+sS'Formal_drug'
+p1237
+S'placebo'
+p1238
+ssS'and paliperidone er flexible dose ( 98% ) groups'
+p1239
+(dp1240
+S'Conjunction'
+p1241
+S'and'
+p1242
+sS'Percent'
+p1243
+S'98%'
+p1244
+sS'DRUG'
+p1245
+S'paliperidone er'
+p1246
+sS'DOSE'
+p1247
+S'flexible dose'
+p1248
+ssS'the subgroup receiving both antidepressants'
+p1249
+(dp1250
+S'LogicalKvantor'
+p1251
+S'both'
+p1252
+sS'Formal_drug'
+p1253
+S'antidepressants'
+p1254
+ssS'the small subgroup of 50 subjects who had received study drug in combination with both antidepressants and mood stabilizers'
+p1255
+(dp1256
+S'SUBJECTS'
+p1257
+S'50 subjects who had received study drug in combination with both antidepressants and mood stabilizers'
+p1258
+sS'Size'
+p1259
+S'small'
+p1260
+ssS'placebo ( 91.6 ; range 64-126 )'
+p1261
+(dp1262
+S'RANGE'
+p1263
+S'range 64-126'
+p1264
+sS'Amount'
+p1265
+S'91.6'
+p1266
+sS'Formal_drug'
+p1267
+S'placebo'
+p1268
+ssS'the paliperidone er low dose group'
+p1269
+(dp1270
+S'DRUG'
+p1271
+S'paliperidone er'
+p1272
+sS'DOSE'
+p1273
+S'low dose'
+p1274
+ssS'these other 2 groups'
+p1275
+(dp1276
+S'LogicalKvantor'
+p1277
+S'other'
+p1278
+sS'this'
+p1279
+S'ok'
+p1280
+sS'Amount'
+p1281
+S'2'
+p1282
+sS'mult'
+p1283
+S'ok'
+p1284
+ssS'paliperidone er high dose groups'
+p1285
+(dp1286
+S'mult'
+p1287
+S'ok'
+p1288
+sS'DRUG'
+p1289
+S'paliperidone er'
+p1290
+sS'DOSE'
+p1291
+S'high dose'
+p1292
+ssS'and total paliperidone er ( 50% ) groups'
+p1293
+(dp1294
+S'LogicalKvantor'
+p1295
+S'total'
+p1296
+sS'Conjunction'
+p1297
+S'and'
+p1298
+sS'Percent'
+p1299
+S'50%'
+p1300
+sS'Totality'
+p1301
+S'total'
+p1302
+sS'DRUG'
+p1303
+S'paliperidone er'
+p1304
+ssS'paliperidone er high/flexible'
+p1305
+(dp1306
+S'mult'
+p1307
+S'ok'
+p1308
+sS'DRUG'
+p1309
+S'paliperidone er'
+p1310
+ssS'the subgroup receiving mood stabilizers only'
+p1311
+(dp1312
+S'TreatmentMode'
+p1313
+S'only'
+p1314
+sS'Formal_drug'
+p1315
+S'mood stabilizers'
+p1316
+ssS'or total paliperidone er ( 27% ) groups'
+p1317
+(dp1318
+S'LogicalKvantor'
+p1319
+S'total'
+p1320
+sS'Percent'
+p1321
+S'27%'
+p1322
+sS'DRUG'
+p1323
+S'paliperidone er'
+p1324
+ssS'the remaining treatment groups'
+p1325
+(dp1326
+S'LogicalKvantor'
+p1327
+S'remaining'
+p1328
+sS'mult'
+p1329
+S'ok'
+p1330
+ssS'the mood stabilizers only subgroup'
+p1331
+(dp1332
+S'TreatmentMode'
+p1333
+S'only'
+p1334
+sS'Formal_drug'
+p1335
+S'mood stabilizers'
+p1336
+ssS'the paliperidone er groups'
+p1337
+(dp1338
+S'DRUG'
+p1339
+S'paliperidone er'
+p1340
+sS'mult'
+p1341
+S'ok'
+p1342
+ssS'the high dose group'
+p1343
+(dp1344
+S'DOSE'
+p1345
+S'high dose'
+p1346
+ssS'each treatment group'
+p1347
+(dp1348
+S'LogicalKvantor'
+p1349
+S'each'
+p1350
+ssS'the paliperidone er high dose group'
+p1351
+(dp1352
+S'DRUG'
+p1353
+S'paliperidone er'
+p1354
+sS'mult'
+p1355
+S'ok'
+p1356
+sS'DOSE'
+p1357
+S'high dose'
+p1358
+ssS'each group'
+p1359
+(dp1360
+S'LogicalKvantor'
+p1361
+S'each'
+p1362
+ssS'in the paliperidone er low dose ( 11% )'
+p1363
+(dp1364
+S'Percent'
+p1365
+S'11%'
+p1366
+sS'DRUG'
+p1367
+S'paliperidone er low dose'
+p1368
+ssS'total paliperidone er'
+p1369
+(dp1370
+S'Totality'
+p1371
+S'total'
+p1372
+sS'DRUG'
+p1373
+S'paliperidone er'
+p1374
+ssS'the small subgroup of subjects'
+p1375
+(dp1376
+S'Size'
+p1377
+S'small'
+p1378
+ssS'total groups'
+p1379
+(dp1380
+S'this'
+p1381
+S'ok'
+p1382
+sS'mult'
+p1383
+S'ok'
+p1384
+sS'Totality'
+p1385
+S'total'
+p1386
+ssS'the corresponding placebo group'
+p1387
+(dp1388
+S'LogicalKvantor'
+p1389
+S'corresponding'
+p1390
+sS'Formal_drug'
+p1391
+S'placebo'
+p1392
+ssS'placebo ( 95% )'
+p1393
+(dp1394
+S'Percent'
+p1395
+S'95%'
+p1396
+sS'Formal_drug'
+p1397
+S'placebo'
+p1398
+ssS'or paliperidone er high dose ( 9% ) groups'
+p1399
+(dp1400
+S'Percent'
+p1401
+S'9%'
+p1402
+sS'DRUG'
+p1403
+S'paliperidone er high dose'
+p1404
+ssS'the individual paliperidone er treatment groups'
+p1405
+(dp1406
+S'LogicalKvantor'
+p1407
+S'individual'
+p1408
+sS'DRUG'
+p1409
+S'paliperidone er'
+p1410
+sS'mult'
+p1411
+S'ok'
+p1412
+ssS'pali er total'
+p1413
+(dp1414
+S'LogicalKvantor'
+p1415
+S'total'
+p1416
+sS'DRUG'
+p1417
+S'pali er'
+p1418
+ssS'paliperidone er treatment groups'
+p1419
+(dp1420
+S'mult'
+p1421
+S'ok'
+p1422
+sS'DRUG'
+p1423
+S'paliperidone er'
+p1424
+ssS'both the paliperidone er low dose ( 57% ; p=0.008 )'
+p1425
+(dp1426
+S'LogicalKvantor'
+p1427
+S'both'
+p1428
+sS'P_value'
+p1429
+S'p=0.008'
+p1430
+sS'Percent'
+p1431
+S'57%'
+p1432
+sS'DRUG'
+p1433
+S'paliperidone er low dose'
+p1434
+ssS'the 2 groups'
+p1435
+(dp1436
+S'Amount'
+p1437
+g1086
+sS'mult'
+p1438
+S'ok'
+p1439
+ssS'each paliperidone er group'
+p1440
+(dp1441
+S'LogicalKvantor'
+p1442
+S'each'
+p1443
+sS'DRUG'
+p1444
+S'paliperidone er'
+p1445
+ssS'the high/flexible dose group'
+p1446
+(dp1447
+S'DOSE'
+p1448
+S'high/flexible dose'
+p1449
+ssS'in both the paliperidone er low dose ( p=0.013 )'
+p1450
+(dp1451
+S'LogicalKvantor'
+p1452
+S'both'
+p1453
+sS'P_value'
+p1454
+S'p=0.013'
+p1455
+sS'Amount'
+p1456
+S'3'
+p1457
+sS'DRUG'
+p1458
+S'paliperidone er low dose'
+p1459
+ssS'all treatment groups'
+p1460
+(dp1461
+S'LogicalKvantor'
+p1462
+S'all'
+p1463
+ssS'both paliperidone er groups'
+p1464
+(dp1465
+S'LogicalKvantor'
+p1466
+S'both'
+p1467
+sS'mult'
+p1468
+S'ok'
+p1469
+sS'DRUG'
+p1470
+S'paliperidone er'
+p1471
+ssS'placebo group'
+p1472
+(dp1473
+S'Formal_drug'
+p1474
+S'placebo'
+p1475
+ssS'the paliperidone er high dose/flexible dose group'
+p1476
+(dp1477
+S'DRUG'
+p1478
+S'paliperidone er'
+p1479
+sS'DOSE'
+p1480
+(lp1481
+S'flexible dose'
+p1482
+aS'high dose'
+p1483
+assS'the low dose group'
+p1484
+(dp1485
+S'DOSE'
+p1486
+S'low dose'
+p1487
+ssS'the 3 groups taking more than 2 concomitant psychotropic medications'
+p1488
+(dp1489
+S'Amount'
+p1490
+g1457
+sS'Formal_drug'
+p1491
+S'psychotropic medication'
+p1492
+ssS'the paliperidone er group'
+p1493
+(dp1494
+S'DRUG'
+p1495
+S'paliperidone er'
+p1496
+ssS'paliperidone er flexible dose groups'
+p1497
+(dp1498
+S'DRUG'
+p1499
+S'paliperidone er'
+p1500
+sS'DOSE'
+p1501
+S'flexible dose'
+p1502
+ssS'final dose groups'
+p1503
+(dp1504
+S'DOSE'
+p1505
+S'final dose'
+p1506
+ssS'this antidepressant/mood stabilizer subgroup'
+p1507
+(dp1508
+S'Formal_drug'
+p1509
+S'antidepressant/mood stabilizer'
+p1510
+ssS'both treatment groups'
+p1511
+(dp1512
+S'LogicalKvantor'
+p1513
+S'both'
+p1514
+sS'mult'
+p1515
+S'ok'
+p1516
+ssS'each paliperidone er treatment group'
+p1517
+(dp1518
+S'LogicalKvantor'
+p1519
+S'each'
+p1520
+sS'DRUG'
+p1521
+S'paliperidone er'
+p1522
+ssS'the first 3 treatment groups'
+p1523
+(dp1524
+S'LogicalKvantor'
+p1525
+S'first'
+p1526
+sS'Amount'
+p1527
+S'3'
+p1528
+ssS'placebo groups'
+p1529
+(dp1530
+S'Formal_drug'
+p1531
+S'placebo'
+p1532
+sS'mult'
+p1533
+S'ok'
+p1534
+ssS'and high dose ( 62% ; p=0.001 ) groups'
+p1535
+(dp1536
+S'P_value'
+p1537
+S'p=0.001'
+p1538
+sS'Conjunction'
+p1539
+S'and'
+p1540
+sS'Percent'
+p1541
+S'62%'
+p1542
+sS'DOSE'
+p1543
+S'high dose'
+p1544
+ssS'the paliperidone high/flexible dose group'
+p1545
+(dp1546
+S'DOSE'
+p1547
+S'high/flexible dose'
+p1548
+ssS'all 3 treatment groups'
+p1549
+(dp1550
+S'LogicalKvantor'
+p1551
+S'all'
+p1552
+sS'Amount'
+p1553
+S'3'
+p1554
+ssS'paliperidone er low dose ( p=0.079 )'
+p1555
+(dp1556
+S'P_value'
+p1557
+S'p=0.079'
+p1558
+sS'DRUG'
+p1559
+S'paliperidone er low dose'
+p1560
+ssS'paliperidone er low dose ( 55% )'
+p1561
+(dp1562
+S'Percent'
+p1563
+S'55%'
+p1564
+sS'DRUG'
+p1565
+S'paliperidone er low dose'
+p1566
+ssS'paliperidone er high/flexible dose ( 47% )'
+p1567
+(dp1568
+S'Percent'
+p1569
+S'47%'
+p1570
+sS'DRUG'
+p1571
+S'paliperidone er high/flexible dose'
+p1572
+ssS'high dose groups'
+p1573
+(dp1574
+S'DOSE'
+p1575
+S'high dose'
+p1576
+ssS'this group'
+p1577
+(dp1578
+S'this'
+p1579
+S'ok'
+p1580
+ssS'and high dose ( p<0.001 ) groups'
+p1581
+(dp1582
+S'P_value'
+p1583
+S'p<0.001'
+p1584
+sS'Conjunction'
+p1585
+S'and'
+p1586
+sS'DOSE'
+p1587
+S'high dose'
+p1588
+ssS'the paliperidone er high/flexible dose group'
+p1589
+(dp1590
+S'DRUG'
+p1591
+S'paliperidone er'
+p1592
+sS'DOSE'
+p1593
+S'high/flexible dose'
+p1594
+ssS'1 of 3 groups'
+p1595
+(dp1596
+S'TotalAmount'
+p1597
+S'3'
+p1598
+sS'Amount'
+p1599
+S'1'
+p1600
+sssS'Percent'
+p1601
+(dp1602
+S'11%'
+p1603
+(dp1604
+g5
+S'11%'
+p1605
+ssS'27%'
+p1606
+(dp1607
+S'name'
+p1608
+g1606
+ssS'13%'
+p1609
+(dp1610
+g5
+g1609
+ssS'23%'
+p1611
+(dp1612
+g5
+g1611
+ssS'25%'
+p1613
+(dp1614
+g5
+g1613
+ssS'15%'
+p1615
+(dp1616
+g5
+g1615
+ssS'62%'
+p1617
+(dp1618
+g5
+S'62%'
+p1619
+ssS'55%'
+p1620
+(dp1621
+g1608
+g1620
+ssS'70%'
+p1622
+(dp1623
+g5
+S'70%'
+p1624
+ssS'45%'
+p1625
+(dp1626
+g5
+g1625
+ssS'57%'
+p1627
+(dp1628
+g5
+S'57%'
+p1629
+ssS'98%'
+p1630
+(dp1631
+g1608
+g1630
+ssS'61.5%'
+p1632
+(dp1633
+g5
+g1632
+ssS'54%'
+p1634
+(dp1635
+g5
+g1634
+ssS'50%'
+p1636
+(dp1637
+g5
+S'50%'
+p1638
+ssS'42%'
+p1639
+(dp1640
+g5
+g1639
+ssS'81%'
+p1641
+(dp1642
+g5
+g1641
+ssS'51.7%'
+p1643
+(dp1644
+g5
+g1643
+ssS'31%'
+p1645
+(dp1646
+g5
+g1645
+ssS'49%'
+p1647
+(dp1648
+g5
+g1647
+ssS'4%'
+p1649
+(dp1650
+g5
+g1649
+ssS'95%'
+p1651
+(dp1652
+g5
+S'95%'
+p1653
+ssS'24%'
+p1654
+(dp1655
+g1608
+g1654
+ssS'49.5%'
+p1656
+(dp1657
+g5
+g1656
+ssS'38%'
+p1658
+(dp1659
+g5
+g1658
+ssS'48%'
+p1660
+(dp1661
+g5
+S'48%'
+p1662
+ssS'69%'
+p1663
+(dp1664
+g5
+g1663
+ssS'9%'
+p1665
+(dp1666
+g1608
+g1665
+ssS'85%'
+p1667
+(dp1668
+g5
+g1667
+ssS'10%'
+p1669
+(dp1670
+g5
+g1669
+ssS'99%'
+p1671
+(dp1672
+g5
+g1671
+ssS'58%'
+p1673
+(dp1674
+g5
+g1673
+ssS'75%'
+p1675
+(dp1676
+g5
+g1675
+ssS'46%'
+p1677
+(dp1678
+g5
+g1677
+ssS'71%'
+p1679
+(dp1680
+g5
+g1679
+ssS'44%'
+p1681
+(dp1682
+g5
+S'44%'
+p1683
+ssS'61%'
+p1684
+(dp1685
+g5
+g1684
+ssS'53%'
+p1686
+(dp1687
+g5
+g1686
+ssS'41.9%'
+p1688
+(dp1689
+g5
+g1688
+ssS'47%'
+p1690
+(dp1691
+g5
+S'47%'
+p1692
+ssS'68%'
+p1693
+(dp1694
+g5
+S'68%'
+p1695
+ssS'51%'
+p1696
+(dp1697
+g5
+g1696
+ssS'92%'
+p1698
+(dp1699
+g5
+g1698
+ssS'80%'
+p1700
+(dp1701
+g1608
+g1700
+ssS'.30%'
+p1702
+(dp1703
+g5
+S'.30%'
+p1704
+ssS'96%'
+p1705
+(dp1706
+g5
+g1705
+ssS'73.5%'
+p1707
+(dp1708
+g5
+g1707
+ssS'90%'
+p1709
+(dp1710
+g5
+g1709
+ssS'5%'
+p1711
+(dp1712
+g5
+S'5%'
+p1713
+ssS'94%'
+p1714
+(dp1715
+g5
+g1714
+ssS'12%'
+p1716
+(dp1717
+g5
+g1716
+sssS'Study_name'
+p1718
+(dp1719
+S'r076477-sca-3002'
+p1720
+(dp1721
+g105
+g1720
+ssS'r076477-sca-3001'
+p1722
+(dp1723
+g105
+g1722
+ssS'r074677-sca-3001'
+p1724
+(dp1725
+g105
+g1724
+sssS'StudyTimePoints'
+p1726
+(dp1727
+S'baseline'
+p1728
+(dp1729
+g105
+g1728
+sssS'Endpoint'
+p1730
+(dp1731
+S'the primary efficacy variable'
+p1732
+(dp1733
+S'ef_saf'
+p1734
+S'efficacy'
+p1735
+sS'Primarity'
+p1736
+S'primary'
+p1737
+ssS'the primary endpoint'
+p1738
+(dp1739
+S'Primarity'
+p1740
+S'primary'
+p1741
+ssS'the week 6 locf end point'
+p1742
+(dp1743
+S'Study_timepoint'
+p1744
+S'week 6'
+p1745
+sS'StatAnalitycalMethod'
+p1746
+S'locf'
+p1747
+ssS'week 6 locf end point'
+p1748
+(dp1749
+S'Study_timepoint'
+p1750
+S'week 6'
+p1751
+sS'StatAnalitycalMethod'
+p1752
+S'locf'
+p1753
+ssS'the primary efficacy endpoint'
+p1754
+(dp1755
+S'ef_saf'
+p1756
+S'efficacy'
+p1757
+sS'Primarity'
+p1758
+S'primary'
+p1759
+ssS'week 1 locf'
+p1760
+(dp1761
+S'Study_timepoint'
+p1762
+S'week 1'
+p1763
+sS'StatAnalitycalMethod'
+p1764
+S'locf'
+p1765
+ssS'week 6 locf'
+p1766
+(dp1767
+S'Study_timepoint'
+p1768
+S'week 6'
+p1769
+sS'StatAnalitycalMethod'
+p1770
+S'locf'
+p1771
+ssS'week 2 locf'
+p1772
+(dp1773
+S'Study_timepoint'
+p1774
+S'week 2'
+p1775
+sS'StatAnalitycalMethod'
+p1776
+S'locf'
+p1777
+ssS'the day 4 locf time point'
+p1778
+(dp1779
+S'Study_timepoint'
+p1780
+S'day 4'
+p1781
+sS'StatAnalitycalMethod'
+p1782
+S'locf'
+p1783
+ssS'day 4 locf'
+p1784
+(dp1785
+S'Study_timepoint'
+p1786
+S'day 4'
+p1787
+sS'StatAnalitycalMethod'
+p1788
+S'locf'
+p1789
+ssS'locf data'
+p1790
+(dp1791
+S'StatAnalitycalMethod'
+p1792
+S'locf'
+p1793
+ssS'the week 6 bocf end point'
+p1794
+(dp1795
+S'Study_timepoint'
+p1796
+S'week 6'
+p1797
+sS'StatAnalitycalMethod'
+p1798
+S'bocf'
+p1799
+ssS'the week 2 locf time point'
+p1800
+(dp1801
+S'Study_timepoint'
+p1802
+S'week 2'
+p1803
+sS'StatAnalitycalMethod'
+p1804
+S'locf'
+p1805
+ssS'a secondary efficacy variable'
+p1806
+(dp1807
+S'ef_saf'
+p1808
+S'efficacy'
+p1809
+sS'Primarity'
+p1810
+S'secondary'
+p1811
+ssS'week 4 locf'
+p1812
+(dp1813
+S'Study_timepoint'
+p1814
+S'week 4'
+p1815
+sS'StatAnalitycalMethod'
+p1816
+S'locf'
+p1817
+ssS'the week 6 locf'
+p1818
+(dp1819
+S'Study_timepoint'
+p1820
+S'week 6'
+p1821
+sS'StatAnalitycalMethod'
+p1822
+S'locf'
+p1823
+ssS'primary efficacy variable'
+p1824
+(dp1825
+S'ef_saf'
+p1826
+S'efficacy'
+p1827
+sS'Primarity'
+p1828
+S'primary'
+p1829
+sssS'Difference_feature'
+p1830
+(dp1831
+S'racial'
+p1832
+(dp1833
+S'name'
+p1834
+g1832
+ssS'pairwise'
+p1835
+(dp1836
+g1834
+g1835
+sssS'STRATUM'
+p1837
+(dp1838
+S'either concomitant medication stratum'
+p1839
+(dp1840
+S'LogicalKvantor'
+p1841
+S'either'
+p1842
+sS'TREATMENT'
+p1843
+S'concomitant medication'
+p1844
+ssS'concomitant medication stratum'
+p1845
+(dp1846
+S'TREATMENT'
+p1847
+S'concomitant medication'
+p1848
+ssS'the combination therapy stratum'
+p1849
+(dp1850
+S'TREATMENT'
+p1851
+S'combination therapy'
+p1852
+ssS'both concomitant medication strata'
+p1853
+(dp1854
+S'LogicalKvantor'
+p1855
+S'both'
+p1856
+sS'TREATMENT'
+p1857
+S'concomitant medication'
+p1858
+sS'mult'
+p1859
+S'ok'
+p1860
+ssS'both the monotherapy and combination therapy strata'
+p1861
+(dp1862
+S'LogicalKvantor'
+p1863
+S'both'
+p1864
+sS'TREATMENT'
+p1865
+(lp1866
+S'combination therapy'
+p1867
+aS'monotherapy'
+p1868
+assS'this stratum'
+p1869
+(dp1870
+S'this'
+p1871
+S'ok'
+p1872
+ssS'the monotherapy stratum'
+p1873
+(dp1874
+S'LogicalKvantor'
+p1875
+S'other'
+p1876
+sS'TREATMENT'
+p1877
+S'monotherapy'
+p1878
+ssS'monotherapy stratum'
+p1879
+(dp1880
+S'TREATMENT'
+p1881
+S'monotherapy'
+p1882
+ssS'the concomitant medication stratum'
+p1883
+(dp1884
+S'TREATMENT'
+p1885
+S'concomitant medication'
+p1886
+ssS'concomitant medication stratum n'
+p1887
+(dp1888
+S'TREATMENT'
+p1889
+S'concomitant medication'
+p1890
+ssS'each stratum'
+p1891
+(dp1892
+S'LogicalKvantor'
+p1893
+S'each'
+p1894
+ssS'combination therapy stratum'
+p1895
+(dp1896
+S'TREATMENT'
+p1897
+S'combination therapy'
+p1898
+ssS'treatment-by-concomitant medication stratum'
+p1899
+(dp1900
+S'TREATMENT'
+p1901
+S'concomitant medication'
+p1902
+ssS'the 2 concomitant medication stratum subgroups'
+p1903
+(dp1904
+S'Amount'
+p1905
+S'2'
+p1906
+sS'TREATMENT'
+p1907
+S'concomitant medication'
+p1908
+sssS'up_value'
+p1909
+(dp1910
+S'12'
+p1911
+(dp1912
+S'name'
+p1913
+g1911
+sssS'Study_drug'
+p1914
+(dp1915
+sS'ObservationForward'
+p1916
+(dp1917
+S'bocf'
+p1918
+(dp1919
+g12
+g1918
+ssS'locf'
+p1920
+(dp1921
+g12
+g1920
+sssS'Data_feature'
+p1922
+(dp1923
+S'available'
+p1924
+(dp1925
+g1913
+g1924
+ssS'pooled'
+p1926
+(dp1927
+g1913
+g1926
+ssS'cumulative'
+p1928
+(dp1929
+g1913
+g1928
+ssS'demographic'
+p1930
+(dp1931
+g1913
+g1930
+ssS'outlying'
+p1932
+(dp1933
+g1913
+g1932
+ssS'integrated'
+p1934
+(dp1935
+g1913
+g1934
+sssS'Average'
+p1936
+(dp1937
+S'ls means'
+p1938
+(dp1939
+g1834
+g1938
+ssS'median'
+p1940
+(dp1941
+g890
+g1940
+ssS'ls mean'
+p1942
+(dp1943
+g1834
+g1942
+ssS'mean'
+p1944
+(dp1945
+g890
+g1944
+sssS'Population'
+p1946
+(dp1947
+S'itt'
+p1948
+(dp1949
+S'name'
+p1950
+g1948
+ssS'intent-to-treat'
+p1951
+(dp1952
+g1950
+g1951
+sssS'PERIOD'
+p1953
+(dp1954
+S'4 weeks of the double-blind period'
+p1955
+(dp1956
+S'Treatment_phase'
+p1957
+S'double-blind'
+p1958
+sS'Study_period_duration'
+p1959
+S'4 weeks'
+p1960
+ssS'the end of 6 weeks of double-blind treatment'
+p1961
+(dp1962
+S'Treatment_phase'
+p1963
+S'double-blind'
+p1964
+sS'Study_period_duration'
+p1965
+S'6 weeks'
+p1966
+sS'Study_period_interval'
+p1967
+S'the end'
+p1968
+ssS'more days of double-blind treatment'
+p1969
+(dp1970
+S'LogicalKvantor'
+p1971
+S'more days'
+p1972
+sS'Treatment_phase'
+p1973
+S'double-blind'
+p1974
+ssS'least 75% of the double-blind period'
+p1975
+(dp1976
+S'LogicalKvantor'
+p1977
+S'least'
+p1978
+sS'Treatment_phase'
+p1979
+S'double-blind'
+p1980
+sS'Percent'
+p1981
+S'75% '
+p1982
+ssS'the double-blind period'
+p1983
+(dp1984
+S'Treatment_phase'
+p1985
+S'double-blind'
+p1986
+ssS'double-blind treatment'
+p1987
+(dp1988
+S'Treatment_phase'
+p1989
+S'double-blind'
+p1990
+ssS'least 36 days of double-blind treatment'
+p1991
+(dp1992
+S'LogicalKvantor'
+p1993
+S'least'
+p1994
+sS'Treatment_phase'
+p1995
+S'double-blind'
+p1996
+sS'Study_period_duration'
+p1997
+S'36 days'
+p1998
+ssS'at least 30 days'
+p1999
+(dp2000
+g945
+g1999
+ssS'the double-blind treatment phase'
+p2001
+(dp2002
+S'Treatment_phase'
+p2003
+S'double-blind'
+p2004
+ssS'the 6-week double-blind period'
+p2005
+(dp2006
+S'Treatment_phase'
+p2007
+S'double-blind'
+p2008
+sS'Study_period_duration'
+p2009
+S'6-week'
+p2010
+ssS'6 week double-blind treatment period'
+p2011
+(dp2012
+S'Treatment_phase'
+p2013
+S'double-blind'
+p2014
+sS'Study_period_duration'
+p2015
+S'6 week'
+p2016
+ssS'the end of the double-blind period'
+p2017
+(dp2018
+S'Treatment_phase'
+p2019
+S'double-blind'
+p2020
+sS'Study_period_interval'
+p2021
+S'the end'
+p2022
+ssS'the double-blind treatment period of studies r076477-sca-3001'
+p2023
+(dp2024
+S'STUDY'
+p2025
+S'studies r076477-sca-3001'
+p2026
+sS'Treatment_phase'
+p2027
+S'double-blind'
+p2028
+ssS'the end of the double-blind treatment phase'
+p2029
+(dp2030
+S'Treatment_phase'
+p2031
+S'double-blind'
+p2032
+sS'Study_period_interval'
+p2033
+S'the end'
+p2034
+ssS'the remainder of the double-blind period'
+p2035
+(dp2036
+S'LogicalKvantor'
+p2037
+S'the remainder'
+p2038
+sS'Treatment_phase'
+p2039
+S'double-blind'
+p2040
+ssS'the 6-week double-blind treatment period'
+p2041
+(dp2042
+S'Treatment_phase'
+p2043
+S'double-blind'
+p2044
+sS'Study_period_duration'
+p2045
+S'6-week'
+p2046
+ssS'the double-blind treatment period'
+p2047
+(dp2048
+S'Treatment_phase'
+p2049
+S'double-blind'
+p2050
+ssS'more days of double-blind therapy'
+p2051
+(dp2052
+S'LogicalKvantor'
+p2053
+S'more days'
+p2054
+sS'Treatment_phase'
+p2055
+S'double-blind'
+p2056
+ssS'the start of double-blind treatment'
+p2057
+(dp2058
+S'LogicalKvantor'
+p2059
+S'the start'
+p2060
+sS'Treatment_phase'
+p2061
+S'double-blind'
+p2062
+sssS'LogicalKvantor'
+p2063
+(dp2064
+S'all'
+p2065
+(dp2066
+g885
+g2065
+ssS'more days'
+p2067
+(dp2068
+g1913
+g2067
+ssS'the remainder'
+p2069
+(dp2070
+g1913
+g2069
+ssS'individual'
+p2071
+(dp2072
+S'name'
+p2073
+g2071
+ssS'total'
+p2074
+(dp2075
+g945
+g2074
+ssS'any'
+p2076
+(dp2077
+g885
+g2076
+ssS'one-half'
+p2078
+(dp2079
+g5
+g2078
+ssS'least'
+p2080
+(dp2081
+g1913
+g2080
+ssS'majority'
+p2082
+(dp2083
+g2073
+g2082
+ssS'other'
+p2084
+(dp2085
+S'name'
+p2086
+g2084
+ssS'small minority'
+p2087
+(dp2088
+g5
+g2087
+ssS'numerous'
+p2089
+(dp2090
+g105
+g2089
+ssS'remaining'
+p2091
+(dp2092
+S'name'
+p2093
+g2091
+ssS'more'
+p2094
+(dp2095
+g1913
+g2094
+ssS'substantial number'
+p2096
+(dp2097
+g5
+g2096
+ssS'corresponding'
+p2098
+(dp2099
+g2093
+S'corresponding'
+p2100
+ssS'respective'
+p2101
+(dp2102
+g2093
+g2101
+ssS'both'
+p2103
+(dp2104
+g885
+g2103
+ssS'the start'
+p2105
+(dp2106
+g1913
+g2105
+ssS'either'
+p2107
+(dp2108
+g2073
+g2107
+ssS'each'
+p2109
+(dp2110
+g890
+g2109
+ssS'first'
+p2111
+(dp2112
+g2093
+g2111
+sssS'Subscale_parameter'
+p2113
+(dp2114
+S'psychopathology'
+p2115
+(dp2116
+g1834
+g2115
+ssS'retardation'
+p2117
+(dp2118
+g1834
+g2117
+ssS'anxiety'
+p2119
+(dp2120
+g1834
+g2119
+ssS'sleep disturbance'
+p2121
+(dp2122
+g1834
+g2121
+ssS'anxiety/somatization'
+p2123
+(dp2124
+g1834
+g2123
+sssS'Study_phase'
+p2125
+(dp2126
+S'phase 3'
+p2127
+(dp2128
+g105
+g2127
+sssS'Study_period_duration'
+p2129
+(dp2130
+S'6 week'
+p2131
+(dp2132
+g1913
+g2131
+ssS'6-week'
+p2133
+(dp2134
+g1913
+g2133
+ssS'4 weeks'
+p2135
+(dp2136
+g1913
+g2135
+ssS'6 weeks'
+p2137
+(dp2138
+g1913
+g2137
+ssS'36 days'
+p2139
+(dp2140
+g1913
+g2139
+sssS'TotalAmount'
+p2141
+(dp2142
+S'5'
+p2143
+(dp2144
+g885
+g2143
+sssS'EV'
+p2145
+(dp2146
+S'bmi'
+p2147
+(dp2148
+g1913
+g2147
+sssS'RANGE'
+p2149
+(dp2150
+S'a dose range of 3 to 12 mg daily'
+p2151
+(dp2152
+S'DrugIntakeFrequency'
+p2153
+S'daily'
+p2154
+sS'Range_parameter'
+p2155
+S'dose'
+p2156
+sS'up_value'
+p2157
+S'12'
+p2158
+sS'lower_value'
+p2159
+g1457
+sS'Diapasone'
+p2160
+S'3 to 12'
+p2161
+ssS'range 19-61 years'
+p2162
+(dp2163
+S'Unit'
+p2164
+S'years'
+p2165
+sS'Diapasone'
+p2166
+S'19-61'
+p2167
+ssS'range 70-135'
+p2168
+(dp2169
+S'Diapasone'
+p2170
+S'70-135'
+p2171
+ssS'range 63-121'
+p2172
+(dp2173
+S'Diapasone'
+p2174
+S'63-121'
+p2175
+ssS'the dose range of 3 to 12 mg/d'
+p2176
+(dp2177
+S'up_value'
+p2178
+S'12'
+p2179
+sS'Range_parameter'
+p2180
+S'dose'
+p2181
+sS'lower_value'
+p2182
+g1457
+sS'Unit'
+p2183
+S'mg/d'
+p2184
+sS'Diapasone'
+p2185
+S'3 to 12'
+p2186
+ssS'range 64-126'
+p2187
+(dp2188
+S'Diapasone'
+p2189
+S'64-126'
+p2190
+ssS'range 62-121'
+p2191
+(dp2192
+S'Diapasone'
+p2193
+S'62-121'
+p2194
+ssS'the range of 3 to 12 mg/d'
+p2195
+(dp2196
+S'up_value'
+p2197
+S'12'
+p2198
+sS'lower_value'
+p2199
+g1457
+sS'Unit'
+p2200
+S'mg/d'
+p2201
+sS'Diapasone'
+p2202
+S'3 to 12'
+p2203
+ssS'a flexible dose range of 3 to 12 mg/d'
+p2204
+(dp2205
+S'up_value'
+p2206
+S'12'
+p2207
+sS'Range_parameter'
+p2208
+S'dose'
+p2209
+sS'lower_value'
+p2210
+g1457
+sS'Unit'
+p2211
+S'mg/d'
+p2212
+sS'Diapasone'
+p2213
+S'3 to 12'
+p2214
+ssS'range 63-149'
+p2215
+(dp2216
+S'Diapasone'
+p2217
+S'63-149'
+p2218
+sssS'ef_saf'
+p2219
+(dp2220
+S'efficacy'
+p2221
+(dp2222
+g121
+g2221
+sssS'Result'
+p2223
+(dp2224
+S'.30% reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p2225
+(dp2226
+g945
+g2225
+ssS'reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p2227
+(dp2228
+g945
+g2227
+ssS'decrease in the panss total score of .30% and a cgi-c-sca score of .2 at week 6 locf )'
+p2229
+(dp2230
+g945
+g2229
+sssS'Subject_pre-existing_conditions '
+p2231
+(dp2232
+S'with pre-existing conditions'
+p2233
+(dp2234
+g5
+g2233
+sssS'Pharm_class'
+p2235
+(dp2236
+S'antiepileptics'
+p2237
+(dp2238
+g880
+g2237
+ssS'antidepressants'
+p2239
+(dp2240
+S'name'
+p2241
+g2239
+ssS'psychotropic'
+p2242
+(dp2243
+g880
+g2242
+ssS'mood stabilizer'
+p2244
+(dp2245
+g2241
+g2244
+sssS'Symptom_parameter'
+p2246
+(dp2247
+S'mood'
+p2248
+(dp2249
+g105
+g2248
+sssS'Study_design'
+p2250
+(dp2251
+S'parallel-group'
+p2252
+(dp2253
+g105
+g2252
+sssS'Treatment_regimen'
+p2254
+(dp2255
+sS'Statistical_significance'
+p2256
+(dp2257
+S'statistically significant'
+p2258
+(dp2259
+g1834
+g2258
+sssS'Analytical_set'
+p2260
+(dp2261
+S'the intent-to-treat analysis set of study r076477-sca-3001'
+p2262
+(dp2263
+S'STUDY'
+p2264
+S'study r076477-sca-3001'
+p2265
+sS'Population'
+p2266
+S'intent-to-treat'
+p2267
+ssS'the primary analysis set'
+p2268
+(dp2269
+S'Primarity'
+p2270
+S'primary'
+p2271
+ssS'the intent-to-treat analysis set of study r076477-sca-3002'
+p2272
+(dp2273
+S'STUDY'
+p2274
+S'study r076477-sca-3002'
+p2275
+sS'Population'
+p2276
+S'intent-to-treat'
+p2277
+ssS'the intent-to-treat analysis sets'
+p2278
+(dp2279
+S'Population'
+p2280
+S'intent-to-treat'
+p2281
+ssS'intent-to-treat analysis set'
+p2282
+(dp2283
+S'Population'
+p2284
+S'intent-to-treat'
+p2285
+ssS'the intent-to-treat analysis set'
+p2286
+(dp2287
+S'Population'
+p2288
+S'intent-to-treat'
+p2289
+ssS'itt analysis set'
+p2290
+(dp2291
+S'Population'
+p2292
+S'itt'
+p2293
+sssS'TREATMENT'
+p2294
+(dp2295
+S'concomitant therapy'
+p2296
+(dp2297
+g945
+g2296
+ssS'concomitant treatment with mood stabilizers only'
+p2298
+(dp2299
+S'TreatmentMode'
+p2300
+S'only'
+p2301
+sS'DrugIntakeMode'
+p2302
+S'concomitant'
+p2303
+sS'Formal_drug'
+p2304
+S'mood stabilizers'
+p2305
+ssS'combination therapy'
+p2306
+(dp2307
+g2073
+g2306
+ssS'antidepressants only'
+p2308
+(dp2309
+S'TreatmentMode'
+p2310
+S'only'
+p2311
+sS'Formal_drug'
+p2312
+S'antidepressants'
+p2313
+ssS'concomitant medication'
+p2314
+(dp2315
+g2073
+g2314
+ssS'the mood stabilizers only'
+p2316
+(dp2317
+S'TreatmentMode'
+p2318
+S'only'
+p2319
+sS'Formal_drug'
+p2320
+S'mood stabilizers'
+p2321
+ssS'mood stabilizers only'
+p2322
+(dp2323
+S'TreatmentMode'
+p2324
+S'only'
+p2325
+sS'Formal_drug'
+p2326
+S'mood stabilizers'
+p2327
+ssS'concomitant treatment'
+p2328
+(dp2329
+g5
+g2328
+ssS'concomitant treatment with antidepressants only'
+p2330
+(dp2331
+S'TreatmentMode'
+p2332
+S'only'
+p2333
+sS'DrugIntakeMode'
+p2334
+S'concomitant'
+p2335
+sS'Formal_drug'
+p2336
+S'antidepressants'
+p2337
+ssS'monotherapy'
+p2338
+(dp2339
+S'TreatmentMode'
+p2340
+S'monotherapy'
+p2341
+ssS'mood stabilizers treatment'
+p2342
+(dp2343
+S'Formal_drug'
+p2344
+S'mood stabilizers'
+p2345
+ssS'the treatment of schizoaffective disorder'
+p2346
+(dp2347
+S'DISEASE'
+p2348
+S'schizoaffective disorder'
+p2349
+sssS'StudyOrComapatorDrug'
+p2350
+(dp2351
+S'study'
+p2352
+(dp2353
+g880
+g2352
+sssS'Formal_drug'
+p2354
+(dp2355
+S'atypical antipsychotic'
+p2356
+(dp2357
+g174
+g2356
+ssS'study drug'
+p2358
+(dp2359
+g5
+g2358
+ssS'antidepressants'
+p2360
+(dp2361
+S'Pharm_class'
+p2362
+S'antidepressants'
+p2363
+ssS'mood stabilizers'
+p2364
+(dp2365
+S'Pharm_class'
+p2366
+S'mood stabilizer'
+p2367
+ssS'mood stabilizers & antiepileptics 63'
+p2368
+(dp2369
+S'Pharm_class'
+p2370
+S'mood stabilizer'
+p2371
+ssS'concomitant psychotropic medication use'
+p2372
+(dp2373
+S'Pharm_class'
+p2374
+S'psychotropic'
+p2375
+sS'DrugIntakeMode'
+p2376
+S'concomitant'
+p2377
+ssS'study medication'
+p2378
+(dp2379
+S'StudyOrComapatorDrug'
+p2380
+S'study'
+p2381
+ssS'antidepressants and/or mood stabilizers'
+p2382
+(dp2383
+S'Pharm_class'
+p2384
+S'mood stabilizer'
+p2385
+ssS'concomitant medications'
+p2386
+(dp2387
+S'DrugIntakeMode'
+p2388
+S'concomitant'
+p2389
+ssS'both antidepressants'
+p2390
+(dp2391
+S'LogicalKvantor'
+p2392
+S'both'
+p2393
+sS'Pharm_class'
+p2394
+S'antidepressants'
+p2395
+ssS'concomitant medication'
+p2396
+(dp2397
+S'DrugIntakeMode'
+p2398
+S'concomitant'
+p2399
+ssS'more than 2 concomitant psychotropic medications'
+p2400
+(dp2401
+g174
+g2400
+ssS'mood stabilizers & antiepileptics 82'
+p2402
+(dp2403
+S'Pharm_class'
+p2404
+S'mood stabilizer'
+p2405
+ssS'antidepressant/mood stabilizer'
+p2406
+(dp2407
+g174
+g2406
+ssS'psychotropic medication'
+p2408
+(dp2409
+S'Pharm_class'
+p2410
+S'psychotropic'
+p2411
+ssS'a mood stabilizer'
+p2412
+(dp2413
+S'Pharm_class'
+p2414
+S'mood stabilizer'
+p2415
+ssS'and/or antidepressant'
+p2416
+(dp2417
+g945
+g2416
+ssS'placebo'
+p2418
+(dp2419
+S'name'
+p2420
+g2418
+ssS'any psychotropic medication'
+p2421
+(dp2422
+g5
+g2421
+ssS'stable dose of a mood stabilizer'
+p2423
+(dp2424
+g945
+g2423
+ssS'any non-psychotropic medication'
+p2425
+(dp2426
+g5
+g2425
+sssS'Subject_GeographicLocation'
+p2427
+(dp2428
+S'non-european'
+p2429
+(dp2430
+g5
+g2429
+sssS'TreatmentMode'
+p2431
+(dp2432
+S'only'
+p2433
+(dp2434
+g880
+g2433
+ssS'monotherapy'
+p2435
+(dp2436
+g880
+g2435
+ssS'concomitant'
+p2437
+(dp2438
+g174
+g2437
+sssS'Subject_eligibility'
+p2439
+(dp2440
+S'eligible'
+p2441
+(dp2442
+g5
+g2441
+sssS'Conjunction'
+p2443
+(dp2444
+S'and'
+p2445
+(dp2446
+g174
+g2445
+sssS'Difference_parameter'
+p2447
+(dp2448
+S'mood stabilizers'
+p2449
+(dp2450
+g980
+g2449
+ssS'marder factors'
+p2451
+(dp2452
+g980
+g2451
+ssS'treatment group'
+p2453
+(dp2454
+g1834
+g2453
+ssS'between-group'
+p2455
+(dp2456
+g980
+g2455
+ssS'dose'
+p2457
+(dp2458
+g980
+g2457
+ssS'treatment'
+p2459
+(dp2460
+g1834
+g2459
+ssS'within-group'
+p2461
+(dp2462
+g980
+g2461
+ssS'overall score'
+p2463
+(dp2464
+g980
+g2463
+ssS'panss'
+p2465
+(dp2466
+g980
+g2465
+sssS'Study_period_interval'
+p2467
+(dp2468
+S'the end'
+p2469
+(dp2470
+g1913
+g2469
+sssS'Symptom_chronic'
+p2471
+(dp2472
+S'chronic'
+p2473
+(dp2474
+g105
+g2473
+ssS'acute'
+p2475
+(dp2476
+g5
+g2475
+sssS'Magnitude'
+p2477
+(dp2478
+S'high'
+p2479
+(dp2480
+g113
+g2479
+ssS'lower'
+p2481
+(dp2482
+g113
+g2481
+ssS'high/flexible'
+p2483
+(dp2484
+g113
+g2483
+ssS'low'
+p2485
+(dp2486
+g113
+g2485
+sssS'DIFFERENCE'
+p2487
+(dp2488
+S'the ls mean change'
+p2489
+(dp2490
+S'Average'
+p2491
+S'ls mean'
+p2492
+ssS'panss total score change'
+p2493
+(dp2494
+S'Difference_parameter'
+p2495
+S'panss'
+p2496
+sS'Feature'
+p2497
+S'total'
+p2498
+ssS'the pairwise differences'
+p2499
+(dp2500
+S'Difference_feature'
+p2501
+S'pairwise'
+p2502
+ssS'all differences'
+p2503
+(dp2504
+S'LogicalKvantor'
+p2505
+S'all'
+p2506
+ssS'marder factors - change'
+p2507
+(dp2508
+S'Difference_parameter'
+p2509
+S'marder factors'
+p2510
+ssS'this difference'
+p2511
+(dp2512
+S'this'
+p2513
+S'ok'
+p2514
+ssS'mean change'
+p2515
+(dp2516
+S'Average'
+p2517
+S'mean'
+p2518
+ssS'mood stabilizers the mean change'
+p2519
+(dp2520
+S'Average'
+p2521
+S'mean'
+p2522
+sS'Difference_parameter'
+p2523
+S'mood stabilizers'
+p2524
+ssS'ls mean differences'
+p2525
+(dp2526
+S'Average'
+p2527
+S'mean'
+p2528
+ssS'racial differences'
+p2529
+(dp2530
+S'Difference_feature'
+p2531
+S'racial'
+p2532
+ssS'mean changes'
+p2533
+(dp2534
+S'Average'
+p2535
+S'mean'
+p2536
+ssS'statistically significant difference'
+p2537
+(dp2538
+S'Statistical_significance'
+p2539
+S'statistically significant'
+p2540
+ssS'the treatment group difference'
+p2541
+(dp2542
+S'Difference_parameter'
+p2543
+S'treatment group'
+p2544
+ssS'corresponding differences'
+p2545
+(dp2546
+S'LogicalKvantor'
+p2547
+S'corresponding'
+p2548
+ssS'between-group differences'
+p2549
+(dp2550
+S'Difference_parameter'
+p2551
+S'between-group'
+p2552
+ssS'differences of ls means'
+p2553
+(dp2554
+S'Average'
+p2555
+S'ls means'
+p2556
+ssS'negative change'
+p2557
+(dp2558
+S'Feature'
+p2559
+S'negative'
+p2560
+ssS'a the difference'
+p2561
+(dp2562
+S'this'
+p2563
+S'ok'
+p2564
+ssS'treatment group differences'
+p2565
+(dp2566
+S'Difference_parameter'
+p2567
+S'treatment group'
+p2568
+ssS'the treatment difference'
+p2569
+(dp2570
+S'Difference_parameter'
+p2571
+S'treatment'
+p2572
+ssS'these differences'
+p2573
+(dp2574
+S'this'
+p2575
+S'ok'
+p2576
+sS'mult'
+p2577
+S'ok'
+p2578
+ssS'ls mean change'
+p2579
+(dp2580
+S'Average'
+p2581
+S'ls mean'
+p2582
+ssS'overall score - change'
+p2583
+(dp2584
+S'Difference_parameter'
+p2585
+S'overall score'
+p2586
+ssS'the mean change'
+p2587
+(dp2588
+S'Average'
+p2589
+S'mean'
+p2590
+ssS'within-group changes'
+p2591
+(dp2592
+S'Difference_parameter'
+p2593
+S'within-group'
+p2594
+sS'mult'
+p2595
+S'ok'
+p2596
+ssS'the cgi-c-sca measures overall change'
+p2597
+(dp2598
+S'Scale'
+p2599
+S'cgi-c-sca'
+p2600
+sS'Feature'
+p2601
+S'overall'
+p2602
+ssS'dose changes'
+p2603
+(dp2604
+S'Difference_parameter'
+p2605
+S'dose'
+p2606
+ssS'treatment difference'
+p2607
+(dp2608
+S'Difference_parameter'
+p2609
+S'treatment'
+p2610
+ssS'ls mean estimates of the differences'
+p2611
+(dp2612
+S'Average'
+p2613
+S'mean'
+p2614
+ssS'the mean changes'
+p2615
+(dp2616
+S'Average'
+p2617
+S'mean'
+p2618
+sS'mult'
+p2619
+S'ok'
+p2620
+ssS'a statistically significant difference'
+p2621
+(dp2622
+S'Statistical_significance'
+p2623
+S'statistically significant'
+p2624
+ssS'the ls mean differences'
+p2625
+(dp2626
+S'Average'
+p2627
+S'ls mean'
+p2628
+ssS'ls mean changes'
+p2629
+(dp2630
+S'Average'
+p2631
+S'ls mean'
+p2632
+ssS'the major differences'
+p2633
+(dp2634
+S'Feature'
+p2635
+S'major'
+p2636
+sssS'Subject_gender'
+p2637
+(dp2638
+S'male'
+p2639
+(dp2640
+g5
+g2639
+ssS'female'
+p2641
+(dp2642
+g5
+g2641
+sssS'Subject_criterion'
+p2643
+(dp2644
+S'dsm-iv criteria'
+p2645
+(dp2646
+g5
+g2645
+sssS'Study_clin_preclin'
+p2647
+(dp2648
+S'clinical'
+p2649
+(dp2650
+g105
+g2649
+sssS'Subject_risk_factors'
+p2651
+(dp2652
+S'risk factors'
+p2653
+(dp2654
+g5
+g2653
+sssS'Stat_test'
+p2655
+(dp2656
+S'ancova'
+p2657
+(dp2658
+g875
+g2657
+ssS'of variance'
+p2659
+(dp2660
+g875
+g2659
+ssS'trend test'
+p2661
+(dp2662
+g875
+g2661
+ssS'of covariance'
+p2663
+(dp2664
+g875
+g2663
+sssS'ANALYSIS'
+p2665
+(dp2666
+S'the analysis of the change'
+p2667
+(dp2668
+S'Analysis_parameter'
+p2669
+S'change'
+p2670
+ssS'the primary efficacy analysis'
+p2671
+(dp2672
+S'Analysis_parameter'
+p2673
+S'primary efficacy'
+p2674
+ssS'dose-response analysis'
+p2675
+(dp2676
+S'Analysis_parameter'
+p2677
+S'dose-response'
+p2678
+ssS'analysis of clinical information relevant'
+p2679
+(dp2680
+S'Analysis_parameter'
+p2681
+S'clinical information relevant'
+p2682
+ssS'analysis of efficacy'
+p2683
+(dp2684
+S'Analysis_parameter'
+p2685
+S'efficacy'
+p2686
+ssS'the analysis of the primary endpoint'
+p2687
+(dp2688
+S'Analysis_parameter'
+p2689
+S'primary endpoint'
+p2690
+ssS'analysis of these studies'
+p2691
+(dp2692
+S'Analysis_parameter'
+p2693
+S'these studies'
+p2694
+ssS'analysis of the change'
+p2695
+(dp2696
+S'Analysis_parameter'
+p2697
+S'change'
+p2698
+ssS'a post-hoc analysis'
+p2699
+(dp2700
+S'Analysis_feature'
+p2701
+S'post-hoc'
+p2702
+ssS'an analysis of medicaid claims data'
+p2703
+(dp2704
+S'Analysis_parameter'
+p2705
+S'medicaid claims data'
+p2706
+ssS'the primary locf analysis'
+p2707
+(dp2708
+S'Analysis_parameter'
+p2709
+S'locf'
+p2710
+sS'Primarity'
+p2711
+S'primary'
+p2712
+ssS'analyses of the change'
+p2713
+(dp2714
+S'Analysis_parameter'
+p2715
+S'change'
+p2716
+ssS'this analysis'
+p2717
+(dp2718
+S'this'
+p2719
+S'ok'
+p2720
+ssS'using an analysis of covariance'
+p2721
+(dp2722
+S'Stat_test'
+p2723
+S'of covariance'
+p2724
+ssS'this descriptive analysis'
+p2725
+(dp2726
+S'this'
+p2727
+S'ok'
+p2728
+sS'Feature'
+p2729
+S'descriptive'
+p2730
+ssS'dose-response analysis using trend test'
+p2731
+(dp2732
+S'Analysis_parameter'
+p2733
+S'dose-response'
+p2734
+sS'Stat_test'
+p2735
+S'trend test'
+p2736
+ssS'the ancova analysis'
+p2737
+(dp2738
+S'Stat_test'
+p2739
+S'ancova'
+p2740
+ssS'a supportive analysis'
+p2741
+(dp2742
+S'Feature'
+p2743
+S'supportive'
+p2744
+ssS'data analysis'
+p2745
+(dp2746
+S'Analysis_parameter'
+p2747
+S'data'
+p2748
+ssS'analysis of mode'
+p2749
+(dp2750
+S'Analysis_parameter'
+p2751
+S'mode'
+p2752
+ssS'\x95 responder analysis'
+p2753
+(dp2754
+S'Analysis_parameter'
+p2755
+S'responder'
+p2756
+ssS'using an analysis of variance'
+p2757
+(dp2758
+S'Stat_test'
+p2759
+S'of variance'
+p2760
+ssS'the analysis of change'
+p2761
+(dp2762
+S'Analysis_parameter'
+p2763
+S'change'
+p2764
+ssS'the analysis of the primary efficacy variable'
+p2765
+(dp2766
+S'Analysis_parameter'
+p2767
+S'primary efficacy variable'
+p2768
+ssS'an analysis of covariance'
+p2769
+(dp2770
+S'Analysis_parameter'
+p2771
+S'covariance'
+p2772
+ssS'analysis of panss total score'
+p2773
+(dp2774
+S'Analysis_parameter'
+p2775
+S'panss total score'
+p2776
+ssS'a similar analysis of the primary efficacy variable'
+p2777
+(dp2778
+S'Analysis_parameter'
+p2779
+S'primary efficacy variable'
+p2780
+sS'Feature'
+p2781
+S'similar'
+p2782
+ssS'analysis of dose-response relationship'
+p2783
+(dp2784
+S'Analysis_parameter'
+p2785
+S'dose-response relationship'
+p2786
+ssS'additional analysis of efficacy'
+p2787
+(dp2788
+S'Analysis_parameter'
+p2789
+S'efficacy'
+p2790
+sS'Feature'
+p2791
+S'additional'
+p2792
+ssS'a supportive analysis of the primary efficacy variable'
+p2793
+(dp2794
+S'Analysis_parameter'
+p2795
+S'primary efficacy variable'
+p2796
+sS'Feature'
+p2797
+S'supportive'
+p2798
+ssS'a post-hoc sensitivity analysis'
+p2799
+(dp2800
+S'Analysis_parameter'
+p2801
+S'sensitivity'
+p2802
+sS'Analysis_feature'
+p2803
+S'post-hoc'
+p2804
+ssS'the original primary efficacy analysis'
+p2805
+(dp2806
+S'Analysis_parameter'
+p2807
+S'primary efficacy'
+p2808
+sS'Feature'
+p2809
+S'original'
+p2810
+ssS'analysis of the primary efficacy variable'
+p2811
+(dp2812
+S'Analysis_parameter'
+p2813
+S'primary efficacy variable'
+p2814
+sssS'Approximation'
+p2815
+(dp2816
+S'approximately'
+p2817
+(dp2818
+g5
+g2817
+sssS'Unit'
+p2819
+(dp2820
+S'mg/d'
+p2821
+(dp2822
+g174
+g2821
+ssS'years'
+p2823
+(dp2824
+g174
+g2823
+sssS'Size'
+p2825
+(dp2826
+S'small'
+p2827
+(dp2828
+g2093
+g2827
+sssS'Age_category'
+p2829
+(dp2830
+S'adult'
+p2831
+(dp2832
+g5
+g2831
+sssS'P_value'
+p2833
+(dp2834
+S'p=0.079'
+p2835
+(dp2836
+g1608
+g2835
+ssS'p<0.001'
+p2837
+(dp2838
+g174
+g2837
+ssS'p=0.013'
+p2839
+(dp2840
+g1608
+g2839
+ssS'p=0.032'
+p2841
+(dp2842
+g1608
+g2841
+ssS'p=0.008'
+p2843
+(dp2844
+g1608
+g2843
+ssS'p=0.001'
+p2845
+(dp2846
+g1608
+g2845
+sssS'Subject_participation_status'
+p2847
+(dp2848
+S'discontinued'
+p2849
+(dp2850
+g5
+g2849
+sssS'Inclusiveness'
+p2851
+(dp2852
+S'total'
+p2853
+(dp2854
+g885
+g2853
+ssS'overall'
+p2855
+(dp2856
+g890
+g2855
+sssS'Feature'
+p2857
+(dp2858
+S'major'
+p2859
+(dp2860
+g1834
+g2859
+ssS'supportive'
+p2861
+(dp2862
+g875
+g2861
+ssS'additional'
+p2863
+(dp2864
+g875
+g2863
+ssS'positive'
+p2865
+(dp2866
+g1834
+g2865
+ssS'overall'
+p2867
+(dp2868
+g980
+g2867
+ssS'negative'
+p2869
+(dp2870
+g1834
+g2869
+ssS'general'
+p2871
+(dp2872
+g1834
+g2871
+ssS'key'
+p2873
+(dp2874
+g105
+g2873
+ssS'total'
+p2875
+(dp2876
+g980
+g2875
+ssS'similar'
+p2877
+(dp2878
+g875
+g2877
+ssS'original'
+p2879
+(dp2880
+g875
+g2879
+ssS'descriptive'
+p2881
+(dp2882
+g875
+g2881
+sssS'DOSE'
+p2883
+(dp2884
+S'a mode dose of 6 mg'
+p2885
+(dp2886
+S'WeightUnit'
+p2887
+S'mg'
+p2888
+sS'Amount'
+p2889
+S'6'
+p2890
+sS'Order'
+p2891
+S'mode'
+p2892
+ssS'high dose'
+p2893
+(dp2894
+S'Magnitude'
+p2895
+S'high'
+p2896
+sS'name'
+p2897
+S'dose'
+p2898
+ssS'9 mg'
+p2899
+(dp2900
+S'WeightUnit'
+p2901
+S'mg'
+p2902
+sS'Amount'
+p2903
+S'9'
+p2904
+ssS'mode doses of 3 mg'
+p2905
+(dp2906
+S'WeightUnit'
+p2907
+S'mg'
+p2908
+sS'Amount'
+p2909
+S'3'
+p2910
+sS'Order'
+p2911
+S'mode'
+p2912
+ssS'3-12 mg'
+p2913
+(dp2914
+S'WeightUnit'
+p2915
+S'mg'
+p2916
+sS'Amount'
+p2917
+S'3-12'
+p2918
+ssS'high/flexible dose'
+p2919
+(dp2920
+S'Magnitude'
+p2921
+S'high/flexible'
+p2922
+ssS'the initial dose'
+p2923
+(dp2924
+S'Order'
+p2925
+S'initial'
+p2926
+sS'name'
+p2927
+S'dose'
+p2928
+ssS'a mode dose of 9 mg'
+p2929
+(dp2930
+S'WeightUnit'
+p2931
+S'mg'
+p2932
+sS'Amount'
+p2933
+S'9'
+p2934
+sS'Order'
+p2935
+S'mode'
+p2936
+ssS'the dose of paliperidone er'
+p2937
+(dp2938
+S'name'
+p2939
+S'dose'
+p2940
+sS'DRUG'
+p2941
+S'paliperidone er'
+p2942
+ssS'starting dose 6 mg/d'
+p2943
+(dp2944
+S'WeightUnit'
+p2945
+S'mg/d'
+p2946
+sS'Amount'
+p2947
+S'6'
+p2948
+sS'Order'
+p2949
+S'starting'
+p2950
+sS'name'
+p2951
+S'dose'
+p2952
+ssS'3 mg'
+p2953
+(dp2954
+S'WeightUnit'
+p2955
+S'mg'
+p2956
+sS'Amount'
+p2957
+S'3'
+p2958
+ssS'a mode dose of 12 mg'
+p2959
+(dp2960
+S'WeightUnit'
+p2961
+S'mg'
+p2962
+sS'Amount'
+p2963
+S'12'
+p2964
+sS'Order'
+p2965
+S'mode'
+p2966
+ssS'the high/flexible dose'
+p2967
+(dp2968
+S'Magnitude'
+p2969
+S'high/flexible'
+p2970
+sS'name'
+p2971
+S'dose'
+p2972
+ssS'a final dose of 3 mg'
+p2973
+(dp2974
+S'WeightUnit'
+p2975
+S'mg'
+p2976
+sS'Amount'
+p2977
+S'3'
+p2978
+sS'Order'
+p2979
+S'final'
+p2980
+ssS'final dose'
+p2981
+(dp2982
+S'Order'
+p2983
+S'final'
+p2984
+sS'name'
+p2985
+S'dose'
+p2986
+ssS'the 3 mg'
+p2987
+(dp2988
+S'WeightUnit'
+p2989
+S'mg'
+p2990
+sS'Amount'
+p2991
+g2910
+sS'name'
+p2992
+S'dose'
+p2993
+ssS'12 mg'
+p2994
+(dp2995
+S'WeightUnit'
+p2996
+S'mg'
+p2997
+sS'Amount'
+p2998
+S'12'
+p2999
+ssS'starting dose of 6 mg'
+p3000
+(dp3001
+S'WeightUnit'
+p3002
+S'mg'
+p3003
+sS'Amount'
+p3004
+g2948
+sS'Order'
+p3005
+S'starting'
+p3006
+sS'name'
+p3007
+S'dose'
+p3008
+ssS'mode doses of 9 mg'
+p3009
+(dp3010
+S'WeightUnit'
+p3011
+S'mg'
+p3012
+sS'Amount'
+p3013
+S'9'
+p3014
+sS'Order'
+p3015
+S'mode'
+p3016
+ssS'0 mg'
+p3017
+(dp3018
+S'WeightUnit'
+p3019
+S'mg'
+p3020
+sS'Amount'
+p3021
+S'0'
+p3022
+ssS'low dose'
+p3023
+(dp3024
+S'Magnitude'
+p3025
+S'low'
+p3026
+sS'name'
+p3027
+S'dose'
+p3028
+ssS'flexible dose'
+p3029
+(dp3030
+S'Flexibility'
+p3031
+S'flexible'
+p3032
+sS'name'
+p3033
+S'dose'
+p3034
+ssS'the high dose'
+p3035
+(dp3036
+S'Magnitude'
+p3037
+S'high'
+p3038
+sS'name'
+p3039
+S'dose'
+p3040
+ssS'daily dose of paliperidone er 6 mg'
+p3041
+(dp3042
+S'WeightUnit'
+p3043
+S'mg'
+p3044
+sS'Amount'
+p3045
+S'6'
+p3046
+sS'DRUG'
+p3047
+S'paliperidone er'
+p3048
+sS'DrugIntakeFrequency'
+p3049
+S'daily'
+p3050
+ssS'6 mg'
+p3051
+(dp3052
+S'WeightUnit'
+p3053
+S'mg'
+p3054
+sS'Amount'
+p3055
+S'6'
+p3056
+ssS'the high dose of paliperidone er'
+p3057
+(dp3058
+S'Magnitude'
+p3059
+S'high'
+p3060
+sS'name'
+p3061
+S'dose'
+p3062
+sS'DRUG'
+p3063
+S'paliperidone er'
+p3064
+ssS'the lower dose'
+p3065
+(dp3066
+S'Magnitude'
+p3067
+S'lower'
+p3068
+sS'name'
+p3069
+S'dose'
+p3070
+ssS'a starting dose of 6 mg'
+p3071
+(dp3072
+S'WeightUnit'
+p3073
+S'mg'
+p3074
+sS'Amount'
+p3075
+g2890
+sS'Order'
+p3076
+S'starting'
+p3077
+ssS'the day 4 dose'
+p3078
+(dp3079
+S'Study_timepoint'
+p3080
+S'day 4'
+p3081
+sS'name'
+p3082
+S'dose'
+p3083
+ssS'the day 8 dose'
+p3084
+(dp3085
+S'Study_timepoint'
+p3086
+S'day 8'
+p3087
+sS'name'
+p3088
+S'dose'
+p3089
+ssS'a mode dose of 3 mg'
+p3090
+(dp3091
+S'WeightUnit'
+p3092
+S'mg'
+p3093
+sS'Amount'
+p3094
+g2978
+sS'Order'
+p3095
+S'mode'
+p3096
+ssS'9.4 mg'
+p3097
+(dp3098
+S'WeightUnit'
+p3099
+S'mg'
+p3100
+sS'Amount'
+p3101
+S'9.4'
+p3102
+sssS'Totality'
+p3103
+(dp3104
+S'total'
+p3105
+(dp3106
+g2093
+g3105
+sssS'DATA'
+p3107
+(dp3108
+S'modeling of the panss data'
+p3109
+(dp3110
+S'Data_parameter'
+p3111
+S'panss'
+p3112
+ssS'pooled data'
+p3113
+(dp3114
+S'Data_feature'
+p3115
+S'pooled'
+p3116
+ssS'outlying data points'
+p3117
+(dp3118
+S'Data_feature'
+p3119
+S'outlying'
+p3120
+ssS'efficacy data'
+p3121
+(dp3122
+S'Data_parameter'
+p3123
+S'efficacy'
+p3124
+ssS'subpopulations efficacy data'
+p3125
+(dp3126
+S'Data_parameter'
+p3127
+S'subpopulations efficacy'
+p3128
+ssS'case data'
+p3129
+(dp3130
+S'Data_parameter'
+p3131
+S'case'
+p3132
+ssS'possible outlier data points'
+p3133
+(dp3134
+S'Data_parameter'
+p3135
+S'possible outlier'
+p3136
+ssS'integrated data'
+p3137
+(dp3138
+S'Data_feature'
+p3139
+S'integrated'
+p3140
+ssS'the data'
+p3141
+(dp3142
+S'this'
+p3143
+S'ok'
+p3144
+ssS'the available data'
+p3145
+(dp3146
+S'Data_feature'
+p3147
+S'available'
+p3148
+ssS'\x95 cumulative efficacy data'
+p3149
+(dp3150
+S'this'
+p3151
+S'ok'
+p3152
+sS'Data_feature'
+p3153
+S'cumulative'
+p3154
+sS'Data_parameter'
+p3155
+S'efficacy'
+p3156
+ssS'bmi data'
+p3157
+(dp3158
+S'EV'
+p3159
+S'bmi'
+p3160
+ssS'all data'
+p3161
+(dp3162
+S'LogicalKvantor'
+p3163
+S'all'
+p3164
+ssS'demographic data'
+p3165
+(dp3166
+S'Data_feature'
+p3167
+S'demographic'
+p3168
+sssS'Data_parameter'
+p3169
+(dp3170
+S'case'
+p3171
+(dp3172
+g1913
+g3171
+ssS'panss'
+p3173
+(dp3174
+g1913
+g3173
+ssS'possible outlier'
+p3175
+(dp3176
+g1913
+g3175
+ssS'efficacy'
+p3177
+(dp3178
+g1913
+g3177
+ssS'subpopulations efficacy'
+p3179
+(dp3180
+g1913
+g3179
+sssS'Subscale_feature'
+p3181
+(dp3182
+sS'SUBSCALE'
+p3183
+(dp3184
+S'general psychopathology'
+p3185
+(dp3186
+g890
+g3185
+ssS'the panss general psychopathology subscale'
+p3187
+(dp3188
+S'Subscale_parameter'
+p3189
+S'psychopathology'
+p3190
+sS'Scale'
+p3191
+S'panss'
+p3192
+sS'Feature'
+p3193
+S'general'
+p3194
+ssS'this subscale'
+p3195
+(dp3196
+sS'depressive'
+p3197
+(dp3198
+g890
+g3197
+ssS'the panss positive subscale'
+p3199
+(dp3200
+S'Scale'
+p3201
+S'panss'
+p3202
+sS'Feature'
+p3203
+S'positive'
+p3204
+ssS'positive'
+p3205
+(dp3206
+g890
+g3205
+ssS'\x95 retardation subscale'
+p3207
+(dp3208
+S'Subscale_parameter'
+p3209
+S'retardation'
+p3210
+ssS'negative'
+p3211
+(dp3212
+g890
+g3211
+ssS'\x95 anxiety/somatization subscale'
+p3213
+(dp3214
+S'Subscale_parameter'
+p3215
+S'anxiety/somatization'
+p3216
+ssS'\x95 sleep disturbance subscale'
+p3217
+(dp3218
+S'Subscale_parameter'
+p3219
+S'sleep disturbance'
+p3220
+ssS'negative subscale'
+p3221
+(dp3222
+S'Feature'
+p3223
+S'negative'
+p3224
+ssS'the three ham-d-21 subscales'
+p3225
+(dp3226
+S'Amount'
+p3227
+S'3'
+p3228
+sS'Scale'
+p3229
+S'ham-d-21'
+p3230
+ssS'the general psychopathology subscale'
+p3231
+(dp3232
+S'Subscale_parameter'
+p3233
+S'psychopathology'
+p3234
+sS'Feature'
+p3235
+S'general'
+p3236
+ssS'general psychopathology subscale'
+p3237
+(dp3238
+S'Subscale_parameter'
+p3239
+S'psychopathology'
+p3240
+sS'Feature'
+p3241
+S'general'
+p3242
+ssS'the anxiety subscale'
+p3243
+(dp3244
+S'Subscale_parameter'
+p3245
+S'anxiety'
+p3246
+ssS'manic'
+p3247
+(dp3248
+g890
+g3247
+ssS'the positive subscale'
+p3249
+(dp3250
+S'Feature'
+p3251
+S'positive'
+p3252
+ssS'the retardation subscale'
+p3253
+(dp3254
+S'Subscale_parameter'
+p3255
+S'retardation'
+p3256
+ssS'anxiety/depression'
+p3257
+(dp3258
+g890
+g3257
+ssS'positive subscale'
+p3259
+(dp3260
+S'Feature'
+p3261
+S'positive'
+p3262
+ssS'the panss negative subscale'
+p3263
+(dp3264
+S'Scale'
+p3265
+S'panss'
+p3266
+sS'Feature'
+p3267
+S'negative'
+p3268
+ssS'the sleep disturbance subscale'
+p3269
+(dp3270
+sS'the negative subscale'
+p3271
+(dp3272
+S'Feature'
+p3273
+S'negative'
+p3274
+ssS'panss subscale'
+p3275
+(dp3276
+S'Scale'
+p3277
+S'panss'
+p3278
+sssS'Symptom_tendency'
+p3279
+(dp3280
+S'exacerbation'
+p3281
+(dp3282
+g105
+g3281
+sssS'DRUG'
+p3283
+(dp3284
+S'paliperidone er low dose'
+p3285
+(dp3286
+S'Drug_TradeName'
+p3287
+S'paliperidone er'
+p3288
+sS'DOSE'
+p3289
+S'low dose'
+p3290
+ssS'both the paliperidone er low dose'
+p3291
+(dp3292
+S'LogicalKvantor'
+p3293
+S'both'
+p3294
+sS'Drug_TradeName'
+p3295
+S'paliperidone er'
+p3296
+sS'DOSE'
+p3297
+S'low dose'
+p3298
+ssS'\x95 paliperidone er high dose'
+p3299
+(dp3300
+S'Drug_TradeName'
+p3301
+S'paliperidone er'
+p3302
+sS'DOSE'
+p3303
+S'high dose'
+p3304
+ssS'the paliperidone er high/flexible dose'
+p3305
+(dp3306
+S'Drug_TradeName'
+p3307
+S'paliperidone er'
+p3308
+sS'DOSE'
+p3309
+S'high/flexible dose'
+p3310
+ssS'the paliperidone er flexible dose'
+p3311
+(dp3312
+S'Drug_TradeName'
+p3313
+S'paliperidone er'
+p3314
+sS'DOSE'
+p3315
+S'flexible dose'
+p3316
+ssS'\x95 paliperidone er low dose'
+p3317
+(dp3318
+S'Drug_TradeName'
+p3319
+S'paliperidone er'
+p3320
+sS'DOSE'
+p3321
+S'low dose'
+p3322
+ssS'12 mg paliperidone er'
+p3323
+(dp3324
+S'Drug_TradeName'
+p3325
+S'paliperidone er'
+p3326
+sS'DOSE'
+p3327
+S'12 mg'
+p3328
+ssS'paliperidone'
+p3329
+(dp3330
+S'Drug_TradeName'
+p3331
+S'paliperidone'
+p3332
+ssS'paliperidone er 9 mg'
+p3333
+(dp3334
+S'Drug_TradeName'
+p3335
+S'paliperidone er'
+p3336
+sS'DOSE'
+p3337
+S'9 mg'
+p3338
+ssS'pali er'
+p3339
+(dp3340
+g174
+g3339
+ssS'of paliperidone er 6 mg'
+p3341
+(dp3342
+S'Drug_TradeName'
+p3343
+S'paliperidone er'
+p3344
+sS'DOSE'
+p3345
+S'6 mg'
+p3346
+ssS'the paliperidone er high dose'
+p3347
+(dp3348
+S'Drug_TradeName'
+p3349
+S'paliperidone er'
+p3350
+sS'DOSE'
+p3351
+S'high dose'
+p3352
+ssS'pali er low dose'
+p3353
+(dp3354
+S'DOSE'
+p3355
+S'low dose'
+p3356
+ssS'lithium'
+p3357
+(dp3358
+g945
+g3357
+ssS'paliperidone er'
+p3359
+(dp3360
+S'Drug_TradeName'
+p3361
+S'paliperidone er'
+p3362
+ssS'valproate'
+p3363
+(dp3364
+g945
+g3363
+ssS'pali er high dose'
+p3365
+(dp3366
+S'DOSE'
+p3367
+S'high dose'
+p3368
+ssS'lamotrigine'
+p3369
+(dp3370
+g945
+g3369
+ssS'paliperidone er high dose'
+p3371
+(dp3372
+S'Drug_TradeName'
+p3373
+S'paliperidone er'
+p3374
+sS'DOSE'
+p3375
+S'high dose'
+p3376
+ssS'of paliperidone er 3 mg'
+p3377
+(dp3378
+S'Drug_TradeName'
+p3379
+S'paliperidone er'
+p3380
+sS'DOSE'
+p3381
+S'3 mg'
+p3382
+ssS'paliperidone er flexible dose and placebo'
+p3383
+(dp3384
+S'Drug_TradeName'
+p3385
+(lp3386
+S'paliperidone er'
+p3387
+aS'placebo'
+p3388
+asS'DOSE'
+p3389
+S'flexible dose'
+p3390
+ssS'the paliperidone er low dose'
+p3391
+(dp3392
+S'Drug_TradeName'
+p3393
+S'paliperidone er'
+p3394
+sS'DOSE'
+p3395
+S'low dose'
+p3396
+ssS'paliperidone er high/flexible dose'
+p3397
+(dp3398
+S'Drug_TradeName'
+p3399
+S'paliperidone er'
+p3400
+sS'DOSE'
+p3401
+S'high/flexible dose'
+p3402
+sssS'Primarity'
+p3403
+(dp3404
+S'primary'
+p3405
+(dp3406
+g2073
+g3405
+ssS'secondary'
+p3407
+(dp3408
+g121
+g3407
+sssS'DrugIntakeFrequency'
+p3409
+(dp3410
+S'daily'
+p3411
+(dp3412
+S'name'
+p3413
+g3411
+sssS'Study_Aim'
+p3414
+(dp3415
+S'treatment interventions'
+p3416
+(dp3417
+g105
+g3416
+ssS'evaluating therapeutic interventions'
+p3418
+(dp3419
+g105
+g3418
+sssS'Treatment_phase'
+p3420
+(dp3421
+S'double-blind'
+p3422
+(dp3423
+g1913
+g3422
+sssS'Subject_race'
+p3424
+(dp3425
+S'white'
+p3426
+(dp3427
+g5
+g3426
+ssS'black'
+p3428
+(dp3429
+g5
+g3428
+ssS'asian'
+p3430
+(dp3431
+g5
+g3430
+sssS'Stat_model'
+p3432
+(dp3433
+S'ancova model'
+p3434
+(dp3435
+g105
+g3434
+sssS'STUDY'
+p3436
+(dp3437
+S'the individual phase 3 studies'
+p3438
+(dp3439
+S'LogicalKvantor'
+p3440
+S'individual'
+p3441
+sS'Study_phase'
+p3442
+S'phase 3'
+p3443
+ssS'each study'
+p3444
+(dp3445
+S'LogicalKvantor'
+p3446
+S'each'
+p3447
+sS'mult'
+p3448
+S'ok'
+p3449
+ssS'clinical studies'
+p3450
+(dp3451
+S'mult'
+p3452
+S'ok'
+p3453
+sS'Study_clin_preclin'
+p3454
+S'clinical'
+p3455
+ssS'clinical studies of treatment interventions'
+p3456
+(dp3457
+S'Study_Aim'
+p3458
+S'treatment interventions'
+p3459
+sS'mult'
+p3460
+S'ok'
+p3461
+sS'Study_clin_preclin'
+p3462
+S'clinical'
+p3463
+ssS'r076477-sca-3002'
+p3464
+(dp3465
+sS'r076477-sca-3001'
+p3466
+(dp3467
+S'Study_name'
+p3468
+S'r076477-sca-3001'
+p3469
+ssS'the clinical studies'
+p3470
+(dp3471
+S'Study_clin_preclin'
+p3472
+S'clinical'
+p3473
+ssS'each phase 3 study'
+p3474
+(dp3475
+S'LogicalKvantor'
+p3476
+S'each'
+p3477
+sS'Study_phase'
+p3478
+S'phase 3'
+p3479
+sS'mult'
+p3480
+S'ok'
+p3481
+ssS'the two phase 3 studies'
+p3482
+(dp3483
+S'Amount'
+p3484
+S'2'
+p3485
+sS'Study_phase'
+p3486
+S'phase 3'
+p3487
+ssS'the phase 3 studies'
+p3488
+(dp3489
+S'Study_phase'
+p3490
+S'phase 3'
+p3491
+ssS'both phase 3 studies'
+p3492
+(dp3493
+S'LogicalKvantor'
+p3494
+S'both'
+p3495
+sS'Study_phase'
+p3496
+S'phase 3'
+p3497
+ssS'parallel-group studies'
+p3498
+(dp3499
+S'Study_design'
+p3500
+S'parallel-group'
+p3501
+sS'mult'
+p3502
+S'ok'
+p3503
+ssS'studies r076477-sca-3001'
+p3504
+(dp3505
+g1913
+g3504
+ssS'these phase 3 studies'
+p3506
+(dp3507
+S'this'
+p3508
+S'ok'
+p3509
+sS'Study_phase'
+p3510
+S'phase 3'
+p3511
+sS'mult'
+p3512
+S'ok'
+p3513
+ssS'phase 3 studies'
+p3514
+(dp3515
+S'Study_phase'
+p3516
+S'phase 3'
+p3517
+sS'mult'
+p3518
+S'ok'
+p3519
+ssS'studies of paliperidone er'
+p3520
+(dp3521
+S'mult'
+p3522
+S'ok'
+p3523
+sS'DRUG'
+p3524
+S'paliperidone er'
+p3525
+ssS'individual phase 3 studies'
+p3526
+(dp3527
+S'LogicalKvantor'
+p3528
+S'individual'
+p3529
+sS'Study_phase'
+p3530
+S'phase 3'
+p3531
+sS'mult'
+p3532
+S'ok'
+p3533
+ssS'studies of paliperidone er 6'
+p3534
+(dp3535
+S'mult'
+p3536
+S'ok'
+p3537
+sS'DRUG'
+p3538
+S'paliperidone er'
+p3539
+ssS'numerous studies'
+p3540
+(dp3541
+S'LogicalKvantor'
+p3542
+S'numerous'
+p3543
+sS'mult'
+p3544
+S'ok'
+p3545
+ssS'study r076477-sca-3001'
+p3546
+(dp3547
+g2073
+g3546
+ssS'study r076477-sca-3002'
+p3548
+(dp3549
+g2073
+g3548
+ssS'each of the individual phase 3 studies'
+p3550
+(dp3551
+S'LogicalKvantor'
+p3552
+(lp3553
+S'each'
+p3554
+aS'individual'
+p3555
+asS'Study_phase'
+p3556
+S'phase 3'
+p3557
+sS'mult'
+p3558
+S'ok'
+p3559
+ssS'numerous clinical studies'
+p3560
+(dp3561
+S'LogicalKvantor'
+p3562
+S'numerous'
+p3563
+sS'mult'
+p3564
+S'ok'
+p3565
+sS'Study_clin_preclin'
+p3566
+S'clinical'
+p3567
+ssS'the two phase 3 clinical studies'
+p3568
+(dp3569
+S'Amount'
+p3570
+g3485
+sS'Study_phase'
+p3571
+S'phase 3'
+p3572
+sS'Study_clin_preclin'
+p3573
+S'clinical'
+p3574
+ssS'the 6-week phase 3 study r076477-sca-3001'
+p3575
+(dp3576
+S'Study_phase'
+p3577
+S'phase 3'
+p3578
+sS'Study_name'
+p3579
+S'r076477-sca-3001'
+p3580
+sS'Study_period_duration'
+p3581
+S'6-week'
+p3582
+ssS'studies using the ancova model'
+p3583
+(dp3584
+S'mult'
+p3585
+S'ok'
+p3586
+sS'Stat_model'
+p3587
+S'ancova model'
+p3588
+ssS'phase 3 clinical studies'
+p3589
+(dp3590
+S'Study_phase'
+p3591
+S'phase 3'
+p3592
+sS'mult'
+p3593
+S'ok'
+p3594
+sS'Study_clin_preclin'
+p3595
+S'clinical'
+p3596
+ssS'clinical studies evaluating therapeutic interventions'
+p3597
+(dp3598
+S'Study_Aim'
+p3599
+S'evaluating therapeutic interventions'
+p3600
+sS'mult'
+p3601
+S'ok'
+p3602
+sS'Study_clin_preclin'
+p3603
+S'clinical'
+p3604
+ssS'individual studies r076477-sca-3001'
+p3605
+(dp3606
+S'LogicalKvantor'
+p3607
+S'individual'
+p3608
+sS'Study_name'
+p3609
+S'r076477-sca-3001'
+p3610
+sS'mult'
+p3611
+S'ok'
+p3612
+ssS'studies r074677-sca-3001'
+p3613
+(dp3614
+S'Study_name'
+p3615
+S'r074677-sca-3001'
+p3616
+sS'mult'
+p3617
+S'ok'
+p3618
+sssS'DISEASE'
+p3619
+(dp3620
+S'psychosis'
+p3621
+(dp3622
+g5
+g3621
+ssS'other psychotic disorders'
+p3623
+(dp3624
+g5
+g3623
+ssS'schizophrenia'
+p3625
+(dp3626
+g105
+g3625
+ssS'mania'
+p3627
+(dp3628
+g105
+g3627
+ssS'psychotic disorders'
+p3629
+(dp3630
+g5
+g3629
+ssS'this disorder'
+p3631
+(dp3632
+S'name'
+p3633
+S'disorder'
+p3634
+ssS'chronic illness'
+p3635
+(dp3636
+g5
+g3635
+ssS'schizoaffective disorder'
+p3637
+(dp3638
+S'name'
+p3639
+S'schizoaffective disorder'
+p3640
+ssS'depression'
+p3641
+(dp3642
+g105
+g3641
+sssS'lower_value'
+p3643
+(dp3644
+S'3'
+p3645
+(dp3646
+g1913
+g3645
+sssS'Responce'
+p3647
+(dp3648
+S'previously demonstrated lack of response to antipsychotic medication'
+p3649
+(dp3650
+g945
+g3649
+ssS'responded to treatment'
+p3651
+(dp3652
+g945
+g3651
+sssS'Analysis_parameter'
+p3653
+(dp3654
+S'locf'
+p3655
+(dp3656
+g875
+g3655
+ssS'efficacy'
+p3657
+(dp3658
+g875
+g3657
+ssS'dose-response relationship'
+p3659
+(dp3660
+g875
+g3659
+ssS'sensitivity'
+p3661
+(dp3662
+g875
+g3661
+ssS'responder'
+p3663
+(dp3664
+g875
+g3663
+ssS'dose-response'
+p3665
+(dp3666
+g875
+g3665
+ssS'mode'
+p3667
+(dp3668
+g875
+g3667
+ssS'panss total score'
+p3669
+(dp3670
+g875
+g3669
+ssS'primary efficacy'
+p3671
+(dp3672
+g875
+g3671
+ssS'medicaid claims data'
+p3673
+(dp3674
+g875
+g3673
+ssS'primary endpoint'
+p3675
+(dp3676
+g875
+g3675
+ssS'these studies'
+p3677
+(dp3678
+g875
+g3677
+ssS'data'
+p3679
+(dp3680
+g875
+g3679
+ssS'primary efficacy variable'
+p3681
+(dp3682
+g875
+g3681
+ssS'change'
+p3683
+(dp3684
+g875
+g3683
+ssS'clinical information relevant'
+p3685
+(dp3686
+g875
+g3685
+sssS'Subject_withdr_reason'
+p3687
+(dp3688
+S'any reason'
+p3689
+(dp3690
+g5
+g3689
+sssS'SCORE'
+p3691
+(dp3692
+S'\x95 positive factor score'
+p3693
+(dp3694
+S'SUBSCALE'
+p3695
+S'positive'
+p3696
+ssS'the cgi-c-sca positive'
+p3697
+(dp3698
+S'SUBSCALE'
+p3699
+S'positive'
+p3700
+sS'Scale'
+p3701
+S'cgi-c-sca'
+p3702
+sS'name'
+p3703
+S'score'
+p3704
+ssS'cgi-c-sca domain scores'
+p3705
+(dp3706
+S'Scale'
+p3707
+S'cgi-c-sca'
+p3708
+sS'name'
+p3709
+S'scores'
+p3710
+ssS'the median cgi-s-sca total score'
+p3711
+(dp3712
+S'Average'
+p3713
+S'median'
+p3714
+sS'Scale'
+p3715
+S'cgi-s-sca'
+p3716
+sS'Inclusiveness'
+p3717
+S'total'
+p3718
+ssS'the overall score'
+p3719
+(dp3720
+S'Inclusiveness'
+p3721
+S'overall'
+p3722
+ssS'the depressive domain scores'
+p3723
+(dp3724
+S'SUBSCALE'
+p3725
+S'depressive'
+p3726
+sS'name'
+p3727
+S'scores'
+p3728
+ssS'each of the three ham-d-21 subscale scores'
+p3729
+(dp3730
+S'LogicalKvantor'
+p3731
+S'each'
+p3732
+sS'Scale'
+p3733
+S'ham-d-21'
+p3734
+sS'name'
+p3735
+S'subscale scores'
+p3736
+ssS'manic domain score'
+p3737
+(dp3738
+S'SUBSCALE'
+p3739
+S'manic'
+p3740
+sS'name'
+p3741
+S'score'
+p3742
+ssS'baseline score at least 16'
+p3743
+(dp3744
+g945
+g3743
+ssS'each of the 3 panss subscale scores'
+p3745
+(dp3746
+S'LogicalKvantor'
+p3747
+S'each'
+p3748
+sS'Amount'
+p3749
+S'3'
+p3750
+sS'Scale'
+p3751
+S'panss'
+p3752
+ssS'the manic domain scores'
+p3753
+(dp3754
+S'SUBSCALE'
+p3755
+S'manic'
+p3756
+ssS'mean cgi-c-sca overall scores'
+p3757
+(dp3758
+S'Average'
+p3759
+S'mean'
+p3760
+sS'Scale'
+p3761
+S'cgi-c-sca'
+p3762
+sS'Inclusiveness'
+p3763
+S'overall'
+p3764
+ssS'the negative domain scores'
+p3765
+(dp3766
+S'SUBSCALE'
+p3767
+S'negative'
+p3768
+ssS'ham-d-21 total score .16'
+p3769
+(dp3770
+S'Scale'
+p3771
+S'ham-d-21'
+p3772
+sS'Inclusiveness'
+p3773
+S'total'
+p3774
+sS'Value'
+p3775
+S'16'
+p3776
+ssS'the baseline panss total scores'
+p3777
+(dp3778
+S'Study_timepoint'
+p3779
+S'baseline'
+p3780
+sS'Scale'
+p3781
+S'panss'
+p3782
+sS'name'
+p3783
+S'scores'
+p3784
+sS'Inclusiveness'
+p3785
+S'total'
+p3786
+ssS'panss total scores of 62'
+p3787
+(dp3788
+S'Scale'
+p3789
+S'panss'
+p3790
+sS'Inclusiveness'
+p3791
+S'total'
+p3792
+sS'Value'
+p3793
+S'62'
+p3794
+sS'name'
+p3795
+S'scores'
+p3796
+ssS'baseline panss total score'
+p3797
+(dp3798
+S'Study_timepoint'
+p3799
+S'baseline'
+p3800
+sS'Scale'
+p3801
+S'panss'
+p3802
+sS'Inclusiveness'
+p3803
+S'total'
+p3804
+ssS'cgi-s-sca domain scores'
+p3805
+(dp3806
+S'Scale'
+p3807
+S'cgi-s-sca'
+p3808
+sS'name'
+p3809
+S'scores'
+p3810
+ssS'ymrs scores'
+p3811
+(dp3812
+S'Scale'
+p3813
+S'ymrs'
+p3814
+ssS'ham-d-21 subscale scores'
+p3815
+(dp3816
+S'Scale'
+p3817
+S'ham-d-21'
+p3818
+sS'name'
+p3819
+S'subscale scores'
+p3820
+ssS'manic domain scores'
+p3821
+(dp3822
+S'SUBSCALE'
+p3823
+S'manic'
+p3824
+sS'name'
+p3825
+S'scores'
+p3826
+ssS'ham-d-21 total scores <16'
+p3827
+(dp3828
+S'Amount'
+p3829
+S'<16'
+p3830
+sS'Scale'
+p3831
+S'ham-d-21'
+p3832
+sS'Inclusiveness'
+p3833
+S'total'
+p3834
+ssS'depressive domain scores'
+p3835
+(dp3836
+S'SUBSCALE'
+p3837
+S'depressive'
+p3838
+sS'name'
+p3839
+S'scores'
+p3840
+ssS'cgi-c-sca score'
+p3841
+(dp3842
+S'Scale'
+p3843
+S'cgi-c-sca'
+p3844
+sS'name'
+p3845
+S'score'
+p3846
+ssS'ymrs total score .16'
+p3847
+(dp3848
+S'Scale'
+p3849
+S'ymrs'
+p3850
+sS'Inclusiveness'
+p3851
+S'total'
+p3852
+sS'Value'
+p3853
+S'16'
+p3854
+ssS'ham-d-21 total score'
+p3855
+(dp3856
+S'Scale'
+p3857
+S'ham-d-21'
+p3858
+sS'Inclusiveness'
+p3859
+S'total'
+p3860
+ssS'panss total scores'
+p3861
+(dp3862
+S'Scale'
+p3863
+S'panss'
+p3864
+sS'name'
+p3865
+S'scores'
+p3866
+sS'Inclusiveness'
+p3867
+S'total'
+p3868
+ssS'the panss 24-item total score'
+p3869
+(dp3870
+S'Scale'
+p3871
+S'panss'
+p3872
+sS'Inclusiveness'
+p3873
+S'total'
+p3874
+sS'Scale_NumberOfQuestions'
+p3875
+S'24-item'
+p3876
+ssS'baseline score .16'
+p3877
+(dp3878
+S'Amount'
+p3879
+S'6'
+p3880
+sS'Study_timepoint'
+p3881
+S'baseline'
+p3882
+sS'Value'
+p3883
+S'16'
+p3884
+ssS'ymrs total'
+p3885
+(dp3886
+S'Scale'
+p3887
+S'ymrs'
+p3888
+sS'Inclusiveness'
+p3889
+S'total'
+p3890
+ssS'baseline ham-d-21 total score of 16'
+p3891
+(dp3892
+S'Study_timepoint'
+p3893
+S'baseline'
+p3894
+sS'Scale'
+p3895
+S'ham-d-21'
+p3896
+sS'Inclusiveness'
+p3897
+S'total'
+p3898
+sS'Value'
+p3899
+S'16'
+p3900
+ssS'a cgi-c-sca score of 2'
+p3901
+(dp3902
+S'Scale'
+p3903
+S'cgi-c-sca'
+p3904
+sS'name'
+p3905
+S'score'
+p3906
+sS'Value'
+p3907
+S'2'
+p3908
+ssS'panss 24-item total score'
+p3909
+(dp3910
+S'Scale'
+p3911
+S'panss'
+p3912
+sS'Inclusiveness'
+p3913
+S'total'
+p3914
+sS'Scale_NumberOfQuestions'
+p3915
+S'24-item'
+p3916
+ssS'ham-d-21 scores'
+p3917
+(dp3918
+S'Scale'
+p3919
+S'ham-d-21'
+p3920
+sS'name'
+p3921
+S'scores'
+p3922
+ssS'\x95 anxiety/depression factor score'
+p3923
+(dp3924
+S'SUBSCALE'
+p3925
+S'anxiety/depression'
+p3926
+ssS'panss 24-item total scores'
+p3927
+(dp3928
+S'Scale'
+p3929
+S'panss'
+p3930
+sS'Inclusiveness'
+p3931
+S'total'
+p3932
+sS'Scale_NumberOfQuestions'
+p3933
+S'24-item'
+p3934
+ssS'baseline ymrs total score .16'
+p3935
+(dp3936
+S'Study_timepoint'
+p3937
+S'baseline'
+p3938
+sS'Scale'
+p3939
+S'ymrs'
+p3940
+sS'Inclusiveness'
+p3941
+S'total'
+p3942
+sS'Value'
+p3943
+S'16'
+p3944
+ssS'both the mean cgi-c-sca scores'
+p3945
+(dp3946
+S'LogicalKvantor'
+p3947
+S'both'
+p3948
+sS'Average'
+p3949
+S'mean'
+p3950
+sS'Scale'
+p3951
+S'cgi-c-sca'
+p3952
+sS'name'
+p3953
+S'scores'
+p3954
+ssS'panss factor scores'
+p3955
+(dp3956
+S'Scale'
+p3957
+S'panss'
+p3958
+sS'name'
+p3959
+S'scores'
+p3960
+ssS'the cgi-s-sca overall score'
+p3961
+(dp3962
+S'Scale'
+p3963
+S'cgi-s-sca'
+p3964
+sS'name'
+p3965
+S'score'
+p3966
+sS'Inclusiveness'
+p3967
+S'overall'
+p3968
+ssS'baseline ham-d-21 total score .16'
+p3969
+(dp3970
+S'Study_timepoint'
+p3971
+S'baseline'
+p3972
+sS'Scale'
+p3973
+S'ham-d-21'
+p3974
+sS'Inclusiveness'
+p3975
+S'total'
+p3976
+sS'Value'
+p3977
+S'16'
+p3978
+ssS'the panss general psychopathology subscale score'
+p3979
+(dp3980
+S'SUBSCALE'
+p3981
+S'general psychopathology'
+p3982
+sS'Scale'
+p3983
+S'panss'
+p3984
+ssS'a baseline score'
+p3985
+(dp3986
+S'Study_timepoint'
+p3987
+S'baseline'
+p3988
+sS'name'
+p3989
+S'score'
+p3990
+ssS'the panss total scores'
+p3991
+(dp3992
+S'Scale'
+p3993
+S'panss'
+p3994
+sS'Inclusiveness'
+p3995
+S'total'
+p3996
+ssS'any of the 5 panss factor scores'
+p3997
+(dp3998
+S'LogicalKvantor'
+p3999
+S'any'
+p4000
+sS'TotalAmount'
+p4001
+S'5'
+p4002
+sS'Scale'
+p4003
+S'panss'
+p4004
+sS'name'
+p4005
+S'subscale scores'
+p4006
+ssS'each of the ham-d-21 subscales'
+p4007
+(dp4008
+S'LogicalKvantor'
+p4009
+S'each'
+p4010
+sS'Scale'
+p4011
+S'ham-d-21'
+p4012
+sS'name'
+p4013
+S'scores'
+p4014
+ssS'the ham-d-21 score'
+p4015
+(dp4016
+S'Scale'
+p4017
+S'ham-d-21'
+p4018
+ssS'ham-d-21 total scores .16'
+p4019
+(dp4020
+S'Scale'
+p4021
+S'ham-d-21'
+p4022
+sS'Inclusiveness'
+p4023
+S'total'
+p4024
+sS'Value'
+p4025
+S'16'
+p4026
+ssS'the anxiety/depression factor score'
+p4027
+(dp4028
+S'SUBSCALE'
+p4029
+S'anxiety/depression'
+p4030
+sS'name'
+p4031
+S'score'
+p4032
+ssS'panss subscale scores'
+p4033
+(dp4034
+S'Scale'
+p4035
+S'panss'
+p4036
+sS'name'
+p4037
+S'subscale scores'
+p4038
+ssS'the positive domain scores'
+p4039
+(dp4040
+S'SUBSCALE'
+p4041
+S'positive'
+p4042
+ssS'baseline total scores .16'
+p4043
+(dp4044
+S'Study_timepoint'
+p4045
+S'baseline'
+p4046
+sS'Inclusiveness'
+p4047
+S'total'
+p4048
+sS'Value'
+p4049
+S'16'
+p4050
+ssS'both ymrs'
+p4051
+(dp4052
+S'LogicalKvantor'
+p4053
+S'both'
+p4054
+sS'Scale'
+p4055
+S'ymrs'
+p4056
+sS'name'
+p4057
+S'scores'
+p4058
+ssS'each of the 5 panss factor scores'
+p4059
+(dp4060
+S'LogicalKvantor'
+p4061
+S'each'
+p4062
+sS'TotalAmount'
+p4063
+S'5'
+p4064
+sS'Scale'
+p4065
+S'panss'
+p4066
+ssS'the cgi-s-sca positive domain score'
+p4067
+(dp4068
+S'SUBSCALE'
+p4069
+S'positive'
+p4070
+sS'Scale'
+p4071
+S'cgi-s-sca'
+p4072
+sS'name'
+p4073
+S'score'
+p4074
+ssS'the panss negative subscale score'
+p4075
+(dp4076
+S'SUBSCALE'
+p4077
+S'negative'
+p4078
+sS'Scale'
+p4079
+S'panss'
+p4080
+ssS'cgi-s-sca scores'
+p4081
+(dp4082
+S'Scale'
+p4083
+S'cgi-s-sca'
+p4084
+sS'name'
+p4085
+S'score'
+p4086
+ssS'the mean panss total score'
+p4087
+(dp4088
+S'Average'
+p4089
+S'mean'
+p4090
+sS'Scale'
+p4091
+S'panss'
+p4092
+sS'Inclusiveness'
+p4093
+S'total'
+p4094
+ssS'any of the 3 panss subscale scores'
+p4095
+(dp4096
+S'LogicalKvantor'
+p4097
+S'any'
+p4098
+sS'Amount'
+p4099
+S'3'
+p4100
+sS'Scale'
+p4101
+S'panss'
+p4102
+sS'name'
+p4103
+S'subscale scores'
+p4104
+ssS'panss total score'
+p4105
+(dp4106
+S'Scale'
+p4107
+S'panss'
+p4108
+sS'name'
+p4109
+S'score'
+p4110
+sS'Inclusiveness'
+p4111
+S'total'
+p4112
+ssS'cgi-s-sca negative domain score'
+p4113
+(dp4114
+S'SUBSCALE'
+p4115
+S'negative'
+p4116
+sS'Scale'
+p4117
+S'cgi-s-sca'
+p4118
+sS'name'
+p4119
+S'score'
+p4120
+ssS'the ham-d-21 total score'
+p4121
+(dp4122
+S'Scale'
+p4123
+S'ham-d-21'
+p4124
+sS'Inclusiveness'
+p4125
+S'total'
+p4126
+ssS'each of the cgi-c-sca domain scores'
+p4127
+(dp4128
+S'LogicalKvantor'
+p4129
+S'each'
+p4130
+sS'Scale'
+p4131
+S'cgi-c-sca'
+p4132
+sS'name'
+p4133
+S'scores'
+p4134
+ssS'cgi-c-sca score .2'
+p4135
+(dp4136
+S'Scale'
+p4137
+S'cgi-c-sca'
+p4138
+sS'Value'
+p4139
+S'2'
+p4140
+ssS'the cgi-s-sca score'
+p4141
+(dp4142
+S'Scale'
+p4143
+S'cgi-s-sca'
+p4144
+sS'name'
+p4145
+S'score'
+p4146
+ssS'cgi-s-sca manic domain score'
+p4147
+(dp4148
+S'SUBSCALE'
+p4149
+S'manic'
+p4150
+sS'Scale'
+p4151
+S'cgi-s-sca'
+p4152
+sS'name'
+p4153
+S'score'
+p4154
+ssS'the cgi-s-sca depressive domain score'
+p4155
+(dp4156
+S'SUBSCALE'
+p4157
+S'depressive'
+p4158
+sS'Scale'
+p4159
+S'cgi-s-sca'
+p4160
+sS'name'
+p4161
+S'scores'
+p4162
+ssS'the mean cgi-c-sca score'
+p4163
+(dp4164
+S'Average'
+p4165
+S'mean'
+p4166
+sS'Scale'
+p4167
+S'cgi-c-sca'
+p4168
+ssS'a baseline ham-d-21 score of 16'
+p4169
+(dp4170
+S'Scale'
+p4171
+S'ham-d-21'
+p4172
+sS'name'
+p4173
+S'score'
+p4174
+sS'Value'
+p4175
+S'16'
+p4176
+ssS'the negative symptom factor score'
+p4177
+(dp4178
+S'SUBSCALE'
+p4179
+S'negative'
+p4180
+ssS'ham-d-21 total'
+p4181
+(dp4182
+S'Scale'
+p4183
+S'ham-d-21'
+p4184
+sS'Inclusiveness'
+p4185
+S'total'
+p4186
+ssS'positive domain score'
+p4187
+(dp4188
+S'SUBSCALE'
+p4189
+S'positive'
+p4190
+sS'name'
+p4191
+S'score'
+p4192
+ssS'the mean cgi-c-sca scores'
+p4193
+(dp4194
+S'Average'
+p4195
+S'mean'
+p4196
+sS'Scale'
+p4197
+S'cgi-c-sca'
+p4198
+ssS'the panss subscale scores'
+p4199
+(dp4200
+S'Scale'
+p4201
+S'panss'
+p4202
+sS'name'
+p4203
+S'subscale scores'
+p4204
+ssS'overall cgi-s-sca score'
+p4205
+(dp4206
+S'Scale'
+p4207
+S'cgi-s-sca'
+p4208
+sS'Inclusiveness'
+p4209
+S'overall'
+p4210
+ssS'cgi-s-sca overall scores'
+p4211
+(dp4212
+S'Scale'
+p4213
+S'cgi-s-sca'
+p4214
+sS'name'
+p4215
+S'scores'
+p4216
+sS'Inclusiveness'
+p4217
+S'overall'
+p4218
+ssS'baseline total score of 16 or greater'
+p4219
+(dp4220
+g945
+g4219
+ssS'each of the panss subscale scores'
+p4221
+(dp4222
+S'LogicalKvantor'
+p4223
+S'each'
+p4224
+sS'Scale'
+p4225
+S'panss'
+p4226
+sS'name'
+p4227
+S'subscale scores'
+p4228
+ssS'negative domain score'
+p4229
+(dp4230
+S'SUBSCALE'
+p4231
+S'negative'
+p4232
+sS'name'
+p4233
+S'score'
+p4234
+ssS'each of the cgi-s-sca domain scores'
+p4235
+(dp4236
+S'LogicalKvantor'
+p4237
+S'each'
+p4238
+sS'Scale'
+p4239
+S'cgi-s-sca'
+p4240
+sS'name'
+p4241
+S'scores'
+p4242
+ssS'3 of the 5 panss factor scores'
+p4243
+(dp4244
+S'TotalAmount'
+p4245
+g4002
+sS'Amount'
+p4246
+g4100
+sS'Scale'
+p4247
+S'panss'
+p4248
+ssS'baseline score of 16 or greater'
+p4249
+(dp4250
+g945
+g4249
+ssS'the cgi-s-sca total score'
+p4251
+(dp4252
+S'Scale'
+p4253
+S'cgi-s-sca'
+p4254
+sS'name'
+p4255
+S'score'
+p4256
+sS'Inclusiveness'
+p4257
+S'total'
+p4258
+ssS'5 panss factor scores'
+p4259
+(dp4260
+S'TotalAmount'
+p4261
+g4002
+sS'Scale'
+p4262
+S'panss'
+p4263
+ssS'the ymrs total score'
+p4264
+(dp4265
+S'Scale'
+p4266
+S'ymrs'
+p4267
+sS'Inclusiveness'
+p4268
+S'total'
+p4269
+ssS'overall cgi-c-sca score'
+p4270
+(dp4271
+S'Scale'
+p4272
+S'cgi-c-sca'
+p4273
+sS'name'
+p4274
+S'score'
+p4275
+sS'Inclusiveness'
+p4276
+S'overall'
+p4277
+ssS'the mean ham-d-21 total score'
+p4278
+(dp4279
+S'Average'
+p4280
+S'mean'
+p4281
+sS'Scale'
+p4282
+S'ham-d-21'
+p4283
+sS'Inclusiveness'
+p4284
+S'total'
+p4285
+ssS'\x95 negative factor score'
+p4286
+(dp4287
+S'SUBSCALE'
+p4288
+S'negative'
+p4289
+ssS'baseline scores'
+p4290
+(dp4291
+S'Study_timepoint'
+p4292
+S'baseline'
+p4293
+sS'name'
+p4294
+S'scores'
+p4295
+ssS'cgi-s-sca total score'
+p4296
+(dp4297
+S'Scale'
+p4298
+S'cgi-s-sca'
+p4299
+sS'name'
+p4300
+S'score'
+p4301
+sS'Inclusiveness'
+p4302
+S'total'
+p4303
+ssS'any of the panss factor scores'
+p4304
+(dp4305
+S'LogicalKvantor'
+p4306
+S'any'
+p4307
+sS'Scale'
+p4308
+S'panss'
+p4309
+sS'name'
+p4310
+S'subscale scores'
+p4311
+ssS'the panss positive subscale score'
+p4312
+(dp4313
+S'SUBSCALE'
+p4314
+S'positive'
+p4315
+sS'Scale'
+p4316
+S'panss'
+p4317
+ssS'the mean actual cgi-c-sca overall score'
+p4318
+(dp4319
+S'Average'
+p4320
+S'mean'
+p4321
+sS'Scale'
+p4322
+S'cgi-c-sca'
+p4323
+sS'Inclusiveness'
+p4324
+S'overall'
+p4325
+ssS'the panss factor scores'
+p4326
+(dp4327
+S'Scale'
+p4328
+S'panss'
+p4329
+ssS'the total scores'
+p4330
+(dp4331
+S'Inclusiveness'
+p4332
+S'total'
+p4333
+ssS'the panss total score'
+p4334
+(dp4335
+S'Scale'
+p4336
+S'panss'
+p4337
+sS'Inclusiveness'
+p4338
+S'total'
+p4339
+ssS'cgi-s-sca score'
+p4340
+(dp4341
+S'Scale'
+p4342
+S'cgi-s-sca'
+p4343
+sS'name'
+p4344
+S'score'
+p4345
+ssS'mean scores'
+p4346
+(dp4347
+S'Average'
+p4348
+S'mean'
+p4349
+sS'name'
+p4350
+S'scores'
+p4351
+ssS'cgi-c-sca scores'
+p4352
+(dp4353
+S'Scale'
+p4354
+S'cgi-c-sca'
+p4355
+sS'name'
+p4356
+S'scores'
+p4357
+ssS'baseline ymrs total score of 16'
+p4358
+(dp4359
+S'Study_timepoint'
+p4360
+S'baseline'
+p4361
+sS'Scale'
+p4362
+S'ymrs'
+p4363
+sS'Inclusiveness'
+p4364
+S'total'
+p4365
+sS'Value'
+p4366
+S'16'
+p4367
+ssS'panss 24-item scores'
+p4368
+(dp4369
+S'Scale'
+p4370
+S'panss'
+p4371
+sS'Scale_NumberOfQuestions'
+p4372
+S'24-item'
+p4373
+ssS'ham-d-21 total score <16'
+p4374
+(dp4375
+S'Amount'
+p4376
+S'<16'
+p4377
+sS'Scale'
+p4378
+S'ham-d-21'
+p4379
+sS'Inclusiveness'
+p4380
+S'total'
+p4381
+ssS'24-item scores'
+p4382
+(dp4383
+S'Scale_NumberOfQuestions'
+p4384
+S'24-item'
+p4385
+ssS'the ham-d-21 total'
+p4386
+(dp4387
+S'Scale'
+p4388
+S'ham-d-21'
+p4389
+sS'Inclusiveness'
+p4390
+S'total'
+p4391
+ssS'ymrs total score <16'
+p4392
+(dp4393
+S'Scale'
+p4394
+S'ymrs'
+p4395
+sS'Inclusiveness'
+p4396
+S'total'
+p4397
+sS'Value'
+p4398
+S'<16'
+p4399
+ssS'the cgi-c-sca score'
+p4400
+(dp4401
+S'Scale'
+p4402
+S'cgi-c-sca'
+p4403
+sS'name'
+p4404
+S'score'
+p4405
+ssS'cgi-c-sca score of .2'
+p4406
+(dp4407
+S'Scale'
+p4408
+S'cgi-c-sca'
+p4409
+sS'name'
+p4410
+S'score'
+p4411
+sS'Value'
+p4412
+g4140
+ssS'a baseline score of 16'
+p4413
+(dp4414
+S'Study_timepoint'
+p4415
+S'baseline'
+p4416
+sS'Value'
+p4417
+S'16'
+p4418
+ssS'the cgi-c-sca negative'
+p4419
+(dp4420
+S'SUBSCALE'
+p4421
+S'negative'
+p4422
+sS'Scale'
+p4423
+S'cgi-c-sca'
+p4424
+sS'name'
+p4425
+S'score'
+p4426
+ssS'total score'
+p4427
+(dp4428
+S'Inclusiveness'
+p4429
+S'total'
+p4430
+ssS'the cgi-s-sca manic domain score'
+p4431
+(dp4432
+S'SUBSCALE'
+p4433
+S'manic'
+p4434
+sS'Scale'
+p4435
+S'cgi-s-sca'
+p4436
+sS'name'
+p4437
+S'score'
+p4438
+ssS'the cgi-c-sca scores'
+p4439
+(dp4440
+S'Scale'
+p4441
+S'cgi-c-sca'
+p4442
+sS'name'
+p4443
+S'scores'
+p4444
+ssS'decreasing all 5 panss factor scores'
+p4445
+(dp4446
+S'LogicalKvantor'
+p4447
+S'all'
+p4448
+sS'TotalAmount'
+p4449
+g4064
+sS'Scale'
+p4450
+S'panss'
+p4451
+sS'name'
+p4452
+S'score'
+p4453
+ssS'the total score'
+p4454
+(dp4455
+S'Inclusiveness'
+p4456
+S'total'
+p4457
+ssS'mean cgi-c-sca domain scores'
+p4458
+(dp4459
+S'Average'
+p4460
+S'mean'
+p4461
+sS'Scale'
+p4462
+S'cgi-c-sca'
+p4463
+sS'name'
+p4464
+S'scores'
+p4465
+ssS'negative domain scores'
+p4466
+(dp4467
+S'SUBSCALE'
+p4468
+S'negative'
+p4469
+sS'name'
+p4470
+S'scores'
+p4471
+ssS'the cgi-c-sca overall score'
+p4472
+(dp4473
+S'Scale'
+p4474
+S'cgi-c-sca'
+p4475
+sS'name'
+p4476
+S'score'
+p4477
+sS'Inclusiveness'
+p4478
+S'overall'
+p4479
+ssS'the ymrs scores'
+p4480
+(dp4481
+S'Scale'
+p4482
+S'ymrs'
+p4483
+ssS'all 5 panss factor scores'
+p4484
+(dp4485
+S'LogicalKvantor'
+p4486
+S'all'
+p4487
+sS'TotalAmount'
+p4488
+g4002
+sS'Scale'
+p4489
+S'panss'
+p4490
+sS'name'
+p4491
+S'scores'
+p4492
+ssS'the panss 24-item score'
+p4493
+(dp4494
+S'Scale'
+p4495
+S'panss'
+p4496
+sS'Scale_NumberOfQuestions'
+p4497
+S'24-item'
+p4498
+ssS'overall score'
+p4499
+(dp4500
+S'name'
+p4501
+S'score'
+p4502
+sS'Inclusiveness'
+p4503
+S'overall'
+p4504
+ssS'the cgi-s-sca negative domain score'
+p4505
+(dp4506
+S'SUBSCALE'
+p4507
+S'negative'
+p4508
+sS'Scale'
+p4509
+S'cgi-s-sca'
+p4510
+sS'name'
+p4511
+S'score'
+p4512
+ssS'cgi-s-sca positive domain score'
+p4513
+(dp4514
+S'SUBSCALE'
+p4515
+S'positive'
+p4516
+sS'Scale'
+p4517
+S'cgi-s-sca'
+p4518
+sS'name'
+p4519
+S'score'
+p4520
+ssS'both baseline ymrs'
+p4521
+(dp4522
+S'LogicalKvantor'
+p4523
+S'both'
+p4524
+sS'Study_timepoint'
+p4525
+S'baseline'
+p4526
+sS'Scale'
+p4527
+S'ymrs'
+p4528
+ssS'the ham-d-21 overall'
+p4529
+(dp4530
+S'Scale'
+p4531
+S'ham-d-21'
+p4532
+sS'Inclusiveness'
+p4533
+S'overall'
+p4534
+ssS'ymrs total scores'
+p4535
+(dp4536
+S'Scale'
+p4537
+S'ymrs'
+p4538
+sS'Inclusiveness'
+p4539
+S'total'
+p4540
+ssS'panss subscale scores of positive symptoms'
+p4541
+(dp4542
+S'SUBSCALE'
+p4543
+S'positive'
+p4544
+sS'Scale'
+p4545
+S'panss'
+p4546
+sS'name'
+p4547
+S'subscale scores'
+p4548
+ssS'ymrs total score'
+p4549
+(dp4550
+S'Scale'
+p4551
+S'ymrs'
+p4552
+sS'Inclusiveness'
+p4553
+S'total'
+p4554
+ssS'the mean cgi-c-sca overall scores'
+p4555
+(dp4556
+S'Average'
+p4557
+S'mean'
+p4558
+sS'Scale'
+p4559
+S'cgi-c-sca'
+p4560
+sS'Inclusiveness'
+p4561
+S'overall'
+p4562
+ssS'cgi-s-sca depressive domain score'
+p4563
+(dp4564
+S'SUBSCALE'
+p4565
+S'depressive'
+p4566
+sS'Scale'
+p4567
+S'cgi-s-sca'
+p4568
+ssS'each domain score'
+p4569
+(dp4570
+S'LogicalKvantor'
+p4571
+S'each'
+p4572
+sS'name'
+p4573
+S'score'
+p4574
+sssS'Diagnosis'
+p4575
+(dp4576
+S'established diagnosis of schizoaffective disorder'
+p4577
+(dp4578
+g5
+g4577
+sssS'Study_endpoint'
+p4579
+(dp4580
+sS'Order'
+p4581
+(dp4582
+S'initial'
+p4583
+(dp4584
+g113
+g4583
+ssS'starting'
+p4585
+(dp4586
+S'name'
+p4587
+g4585
+ssS'final'
+p4588
+(dp4589
+S'name'
+p4590
+g4588
+ssS'mode'
+p4591
+(dp4592
+S'name'
+p4593
+g4591
+sssS'Diapasone'
+p4594
+(dp4595
+S'63-149'
+p4596
+(dp4597
+g174
+g4596
+ssS'70-135'
+p4598
+(dp4599
+g174
+g4598
+ssS'64-126'
+p4600
+(dp4601
+g174
+g4600
+ssS'3 to 12'
+p4602
+(dp4603
+g174
+g4602
+ssS'63-121'
+p4604
+(dp4605
+g174
+g4604
+ssS'62-121'
+p4606
+(dp4607
+g174
+g4606
+ssS'19-61'
+p4608
+(dp4609
+g174
+g4608
+sssS'Therapeutic_area'
+p4610
+(dp4611
+S'cognitive'
+p4612
+(dp4613
+g105
+g4612
+ssS'psychotic'
+p4614
+(dp4615
+g105
+g4614
+ssS'psychiatric'
+p4616
+(dp4617
+g105
+g4616
+ssS'manic'
+p4618
+(dp4619
+g105
+g4618
+ssS'affective'
+p4620
+(dp4621
+g105
+g4620
+ssS'behavioral'
+p4622
+(dp4623
+g105
+g4622
+ssS'depressive'
+p4624
+(dp4625
+g105
+g4624
+sssS'Scale_SubscaleCriterion'
+p4626
+(dp4627
+sS'Flexibility'
+p4628
+(dp4629
+S'flexible'
+p4630
+(dp4631
+g113
+g4630
+sssS'Range_parameter'
+p4632
+(dp4633
+S'dose'
+p4634
+(dp4635
+g174
+g4634
+sssS'SYMPTOM'
+p4636
+(dp4637
+S'negative symptoms'
+p4638
+(dp4639
+S'Feature'
+p4640
+S'negative'
+p4641
+sS'mult'
+p4642
+S'ok'
+p4643
+ssS'manic symptoms'
+p4644
+(dp4645
+S'Therapeutic_area'
+p4646
+S'manic'
+p4647
+sS'mult'
+p4648
+S'ok'
+p4649
+ssS'baseline depressive symptoms'
+p4650
+(dp4651
+S'Therapeutic_area'
+p4652
+S'depressive'
+p4653
+sS'mult'
+p4654
+S'ok'
+p4655
+sS'StudyTimePoints'
+p4656
+S'baseline'
+p4657
+ssS'prominent mood symptoms of mania'
+p4658
+(dp4659
+S'Symptom_parameter'
+p4660
+S'mood'
+p4661
+sS'DISEASE'
+p4662
+S'mania'
+p4663
+sS'mult'
+p4664
+S'ok'
+p4665
+sS'Severity'
+p4666
+S'prominent'
+p4667
+ssS'baseline manic symptoms'
+p4668
+(dp4669
+S'Therapeutic_area'
+p4670
+S'manic'
+p4671
+sS'mult'
+p4672
+S'ok'
+p4673
+sS'StudyTimePoints'
+p4674
+S'baseline'
+p4675
+ssS'cognitive symptoms of depression'
+p4676
+(dp4677
+S'Therapeutic_area'
+p4678
+S'cognitive'
+p4679
+sS'DISEASE'
+p4680
+S'depression'
+p4681
+sS'mult'
+p4682
+S'ok'
+p4683
+ssS'prominent affective symptoms consistent'
+p4684
+(dp4685
+S'Therapeutic_area'
+p4686
+S'affective'
+p4687
+sS'Severity'
+p4688
+S'prominent'
+p4689
+sS'mult'
+p4690
+S'ok'
+p4691
+ssS'prominent baseline depressive or manic symptoms'
+p4692
+(dp4693
+g5
+g4692
+ssS'the concurrent presentation of primary symptoms of schizophrenia'
+p4694
+(dp4695
+S'DISEASE'
+p4696
+S'schizophrenia'
+p4697
+sS'mult'
+p4698
+S'ok'
+p4699
+sS'Primarity'
+p4700
+S'primary'
+p4701
+ssS'prominent depressive symptoms'
+p4702
+(dp4703
+S'Therapeutic_area'
+p4704
+S'depressive'
+p4705
+sS'Severity'
+p4706
+S'prominent'
+p4707
+sS'mult'
+p4708
+S'ok'
+p4709
+ssS'depressive symptoms'
+p4710
+(dp4711
+S'Therapeutic_area'
+p4712
+S'depressive'
+p4713
+sS'mult'
+p4714
+S'ok'
+p4715
+ssS'behavioral symptoms'
+p4716
+(dp4717
+S'Therapeutic_area'
+p4718
+S'behavioral'
+p4719
+sS'mult'
+p4720
+S'ok'
+p4721
+ssS'symptoms of schizophrenia'
+p4722
+(dp4723
+S'DISEASE'
+p4724
+S'schizophrenia'
+p4725
+sS'mult'
+p4726
+S'ok'
+p4727
+ssS'\x95 positive symptoms'
+p4728
+(dp4729
+S'Feature'
+p4730
+S'positive'
+p4731
+sS'mult'
+p4732
+S'ok'
+p4733
+ssS'the psychotic symptoms of schizoaffective disorder'
+p4734
+(dp4735
+S'Therapeutic_area'
+p4736
+S'psychotic'
+p4737
+sS'DISEASE'
+p4738
+S'schizoaffective disorder'
+p4739
+sS'mult'
+p4740
+S'ok'
+p4741
+ssS'prominent manic symptoms'
+p4742
+(dp4743
+S'Therapeutic_area'
+p4744
+S'manic'
+p4745
+sS'Severity'
+p4746
+S'prominent'
+p4747
+sS'mult'
+p4748
+S'ok'
+p4749
+ssS'their first psychiatric symptoms approximately 1'
+p4750
+(dp4751
+S'LogicalKvantor'
+p4752
+S'first'
+p4753
+sS'Therapeutic_area'
+p4754
+S'psychiatric'
+p4755
+sS'mult'
+p4756
+S'ok'
+p4757
+ssS'prominent mood symptoms'
+p4758
+(dp4759
+S'Symptom_parameter'
+p4760
+S'mood'
+p4761
+sS'Severity'
+p4762
+S'prominent'
+p4763
+sS'mult'
+p4764
+S'ok'
+p4765
+ssS'positive symptoms'
+p4766
+(dp4767
+S'Feature'
+p4768
+S'positive'
+p4769
+sS'mult'
+p4770
+S'ok'
+p4771
+ssS'key symptoms of schizophrenia'
+p4772
+(dp4773
+S'DISEASE'
+p4774
+S'schizophrenia'
+p4775
+sS'mult'
+p4776
+S'ok'
+p4777
+sS'Feature'
+p4778
+S'key'
+p4779
+ssS'mania symptoms'
+p4780
+(dp4781
+S'DISEASE'
+p4782
+S'mania'
+p4783
+sS'mult'
+p4784
+S'ok'
+p4785
+ssS'their psychiatric symptoms'
+p4786
+(dp4787
+S'Therapeutic_area'
+p4788
+S'psychiatric'
+p4789
+sS'mult'
+p4790
+S'ok'
+p4791
+ssS'affective symptoms'
+p4792
+(dp4793
+S'Therapeutic_area'
+p4794
+S'affective'
+p4795
+sS'mult'
+p4796
+S'ok'
+p4797
+ssS'exacerbation of psychotic symptoms'
+p4798
+(dp4799
+S'Therapeutic_area'
+p4800
+S'psychotic'
+p4801
+sS'Symptom_tendency'
+p4802
+S'exacerbation'
+p4803
+sS'mult'
+p4804
+S'ok'
+p4805
+ssS'chronic psychotic symptoms'
+p4806
+(dp4807
+S'Therapeutic_area'
+p4808
+S'psychotic'
+p4809
+sS'Symptom_chronic'
+p4810
+S'chronic'
+p4811
+sS'mult'
+p4812
+S'ok'
+p4813
+ssS'\x95 negative symptoms'
+p4814
+(dp4815
+S'Feature'
+p4816
+S'negative'
+p4817
+sS'mult'
+p4818
+S'ok'
+p4819
+sss.

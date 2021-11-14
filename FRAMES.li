@@ -1,0 +1,1930 @@
+(dp0
+S'Severity'
+p1
+(lp2
+sS'WeightUnit'
+p3
+(lp4
+sS'Drug_TradeName'
+p5
+(lp6
+sS'Document_section'
+p7
+(lp8
+S'104 table 27'
+p9
+aS'107 table 28'
+p10
+aS'46 table 9'
+p11
+aS'50 table 10'
+p12
+aS'58 table 12'
+p13
+aS'68 table 16'
+p14
+aS'72 table 17'
+p15
+aS'79 table 18'
+p16
+aS'82 table 19'
+p17
+aS'84 table 20'
+p18
+aS'appendix 1.2'
+p19
+aS'appendix 1.3.1'
+p20
+aS'appendix 1.3.2'
+p21
+aS'appendix 1.4.1'
+p22
+aS'appendix 1.4.2'
+p23
+aS'appendix 1.4.3'
+p24
+aS'appendix 1.6.1'
+p25
+aS'appendix 1.6.2'
+p26
+aS'appendix 1.7.1'
+p27
+aS'appendix 1.7.2'
+p28
+aS'appendix 1.8.1'
+p29
+aS'appendix 1.8.3'
+p30
+aS'appendix 1.8.4'
+p31
+aS'appendix 1.8.5'
+p32
+aS'appendix 1.8.6'
+p33
+aS'appendix 1.9.1'
+p34
+aS'appendix 1.9.2.'
+p35
+aS'appendix 1.9.4'
+p36
+aS'appendix 2.1.1'
+p37
+aS'appendix 2.1.10'
+p38
+aS'appendix 2.1.4'
+p39
+aS'appendix 2.1.5'
+p40
+aS'appendix 2.1.6'
+p41
+aS'appendix 2.1.7'
+p42
+aS'appendix 2.1.8'
+p43
+aS'appendix 2.1.9'
+p44
+aS'appendix 2.2.1'
+p45
+aS'appendix 2.2.2'
+p46
+aS'appendix 2.2.3'
+p47
+aS'appendix 2.2.4'
+p48
+aS'appendix 2.2.5'
+p49
+aS'appendix 2.2.6'
+p50
+aS'appendix 2.3.1'
+p51
+aS'appendix 2.3.2'
+p52
+aS'appendix 2.3.3'
+p53
+aS'appendix 2.3.4'
+p54
+aS'appendix 2.3.5'
+p55
+aS'appendix 2.4.1.1'
+p56
+aS'appendix 2.4.2.1'
+p57
+aS'appendix 2.4.2.2'
+p58
+aS'appendix 2.4.3'
+p59
+aS'appendix 2.4.4'
+p60
+aS'appendix 2.4.5.1'
+p61
+aS'appendix 2.4.5.2'
+p62
+aS'appendix 2.4.6'
+p63
+aS'appendix 2.4.7.1'
+p64
+aS'appendix 2.4.7.2'
+p65
+aS'appendix 2.4.8'
+p66
+aS'appendix 2.5.1.1'
+p67
+aS'appendix 2.5.2.1'
+p68
+aS'appendix 2.5.2.2'
+p69
+aS'appendix 2.5.3'
+p70
+aS'appendix 2.5.4'
+p71
+aS'appendix 2.5.5.1'
+p72
+aS'appendix 2.5.6'
+p73
+aS'appendix 2.5.7.1'
+p74
+aS'appendix 2.5.7.2'
+p75
+aS'appendix 2.5.8'
+p76
+aS'appendix 2.6.1'
+p77
+aS'appendix 2.6.2'
+p78
+aS'appendix 2.6.3'
+p79
+aS'appendix 2.6.4'
+p80
+aS'appendix 2.6.5'
+p81
+aS'appendix 2.7.2.2'
+p82
+aS'appendix 2.7.3'
+p83
+aS'appendix 2.7.4'
+p84
+aS'appendix 2.7.5'
+p85
+aS'appendix 2.8.1'
+p86
+aS'appendix 2.8.3'
+p87
+aS'appendix 2.8.4'
+p88
+aS'appendix 2.9.1'
+p89
+aS'appendix 2.9.2'
+p90
+aS'appendix 2.9.3'
+p91
+aS'appendix 2.9.4'
+p92
+aS'appendix 2.9.5'
+p93
+aS'appendix 2.9.6'
+p94
+aS'appendix 2.9.7'
+p95
+aS'appendix 2.9.8'
+p96
+aS'appendix 2.9.9'
+p97
+aS'appendix 3.1'
+p98
+aS'appendix 3.2.1'
+p99
+aS'appendix 3.2.2'
+p100
+aS'appendix 3.3'
+p101
+aS'appendix 3.5.1'
+p102
+aS'appendix 3.5.3 appendix 3.4.1'
+p103
+aS'appendix 4.1'
+p104
+aS'appendix 4.2'
+p105
+aS'appendix 4.3'
+p106
+aS'appendix 4.4'
+p107
+aS'appendix 5.1'
+p108
+aS'appendix 5.2'
+p109
+aS'mod5.3.5.1\\sca3001\\ table 34'
+p110
+aS'mod5.3.5.1\\sca3002\\ table 9'
+p111
+aS'see appendix 6'
+p112
+aS'see table 1'
+p113
+aS'see table 2'
+p114
+aS'summary of clinical efficacy 100 table 26'
+p115
+aS'summary of clinical efficacy 21 table 1'
+p116
+aS'summary of clinical efficacy 48 table 9'
+p117
+aS'summary of clinical efficacy 54 table 11'
+p118
+aS'summary of clinical efficacy 55 table 11'
+p119
+aS'summary of clinical efficacy 62 table 14'
+p120
+aS'summary of clinical efficacy 63 table 14'
+p121
+aS'summary of clinical efficacy 73 table 17'
+p122
+aS'summary of clinical efficacy 85 table 20'
+p123
+aS'summary of clinical efficacy 86 table 21'
+p124
+aS'summary of clinical efficacy 87 table 21'
+p125
+aS'summary of clinical efficacy 91 table 22'
+p126
+aS'summary of clinical efficacy 96 table 24'
+p127
+aS'summary of clinical efficacy 99 table 26'
+p128
+aS'summary of clinical efficacy table 13'
+p129
+aS'summary of clinical efficacy table 25'
+p130
+aS'summary of clinical efficacy table 3'
+p131
+aS'summary of clinical efficacy table 4'
+p132
+aS'summary of clinical efficacy table 5'
+p133
+aS'summary of clinical efficacy table 8'
+p134
+aS'table 1'
+p135
+aS'table 11'
+p136
+aS'table 12'
+p137
+aS'table 13'
+p138
+aS'table 14'
+p139
+aS'table 15'
+p140
+aS'table 16'
+p141
+aS'table 17'
+p142
+aS'table 18'
+p143
+aS'table 19'
+p144
+aS'table 2'
+p145
+aS'table 20'
+p146
+aS'table 21'
+p147
+aS'table 23'
+p148
+aS'table 24'
+p149
+aS'table 25'
+p150
+aS'table 26'
+p151
+aS'table 27'
+p152
+aS'table 28'
+p153
+aS'table 3'
+p154
+aS'table 4'
+p155
+aS'table 5'
+p156
+aS'table 6'
+p157
+aS'table 7'
+p158
+aS'table 8 '
+p159
+asS'SUBJECTS'
+p160
+(lp161
+S'10% of subjects'
+p162
+aS'11% of subjects'
+p163
+aS'12 of 20 subjects'
+p164
+aS'12% of subjects'
+p165
+aS'13% of subjects'
+p166
+aS'134 of the 211 subjects'
+p167
+aS'15 of 30 subjects'
+p168
+aS'200 subjects who'
+p169
+aS'200 subjects who were treated with placebo'
+p170
+aS'212 of the 310 subjects'
+p171
+aS'218 of the 339 subjects'
+p172
+aS'23% of subjects'
+p173
+aS'25% of subjects'
+p174
+aS'3 subjects'
+p175
+aS'31% of subjects'
+p176
+aS'311 subjects'
+p177
+aS'316 subjects'
+p178
+aS'38% of subjects'
+p179
+aS'398 of the 614 subjects'
+p180
+aS'4% of subjects'
+p181
+aS'41.9% of subjects'
+p182
+aS'414 subjects who'
+p183
+aS'414 subjects who received paliperidone er'
+p184
+aS'42% of all subjects'
+p185
+aS'44% of subjects'
+p186
+aS'45% of subjects'
+p187
+aS'46% of subjects'
+p188
+aS'47% of subjects'
+p189
+aS'49% of subjects'
+p190
+aS'49.5% of subjects'
+p191
+aS'5% of subjects'
+p192
+aS'50% of subjects'
+p193
+aS'51% of the subjects'
+p194
+aS'51.7% of subjects'
+p195
+aS'52 of the 93 subjects'
+p196
+aS'53% of subjects'
+p197
+aS'54% of subjects'
+p198
+aS'57% of subjects'
+p199
+aS'58% of subjects'
+p200
+aS'61% of subjects'
+p201
+aS'61.5% of subjects'
+p202
+aS'614 subjects'
+p203
+aS'62 subjects'
+p204
+aS'62% of subjects'
+p205
+aS'62% of subjects in study r076477-sca-3001'
+p206
+aS'68% of subjects'
+p207
+aS'68% of the 339 subjects'
+p208
+aS'69% of the 275 subjects receiving study drug'
+p209
+aS'70% of subjects'
+p210
+aS'71% of subjects'
+p211
+aS'73.5% of subjects'
+p212
+aS'81% of subjects'
+p213
+aS'85% of subjects'
+p214
+aS'90% of subjects'
+p215
+aS'92% of subjects'
+p216
+aS'94% of subjects'
+p217
+aS'95% of subjects'
+p218
+aS'96% of subjects'
+p219
+aS'99% of subjects'
+p220
+aS'a small minority of subjects'
+p221
+aS'a substantial number of subjects'
+p222
+aS'a total of 180 of the 275 subjects'
+p223
+aS'a total of 627 subjects'
+p224
+aS'adult subjects'
+p225
+aS'and 48% in study r076477-sca-3002 )'
+p226
+aS'and those aged more than 50 years'
+p227
+aS'approximately 15% of subjects'
+p228
+aS'approximately one-half of subjects'
+p229
+aS'asian subjects'
+p230
+aS'black subjects'
+p231
+aS'eligible subjects'
+p232
+aS'female subjects who were 18 to 65 years'
+p233
+aS'least 5% of subjects'
+p234
+aS'male subjects'
+p235
+aS'non-european subjects'
+p236
+aS'of subjects who received a mode or final dose'
+p237
+aS'of subjects who received a mode or final dose , respectively , of paliperidone er 3 mg'
+p238
+aS'of subjects who received a mode or final dose , respectively , of paliperidone er 6 mg'
+p239
+aS'of the 627 subjects randomly assigned to study treatment'
+p240
+aS'randomly assigned subjects'
+p241
+aS'subjects aged 18 to 25 years'
+p242
+aVsubjects had been diagnosed with schizoaffective disorder ,
+p243
+aS'subjects receiving concomitant treatment'
+p244
+aS'subjects receiving paliperidone er treatment remaining'
+p245
+aS'subjects receiving study drug as monotherapy'
+p246
+aS'subjects receiving study drug in combination with antidepressants and/or mood stabilizers'
+p247
+aS'subjects receiving the study drug'
+p248
+aS'subjects who discontinued'
+p249
+aS'subjects who discontinued the study for any reason'
+p250
+aS'subjects who had a baseline ham-d-21 score of 16 or greater'
+p251
+aS'subjects who had a baseline score of 16 or greater'
+p252
+aS'subjects who had a baseline ymrs total score of 16 or greater'
+p253
+aS'subjects who had a decrease in the panss total score of .30% and a cgi-c-sca score of .2 at week 6 locf )'
+p254
+aS'subjects who had received a stable dose of a mood stabilizer ( lithium , valproate , or lamotrigine ) and/or antidepressant ( except monoamine oxidase inhibitors ) for at least 30 days prior to screening'
+p255
+aS'subjects who met dsm-iv criteria'
+p256
+aS'subjects who received a mode dose of 6 mg/d ( corresponding to the starting dose )'
+p257
+aS'subjects who received concomitant therapy with a mood stabilizer or antidepressant for at least 75% of the double-blind period'
+p258
+aS'subjects who received paliperidone er in combination with antidepressants and/or mood stabilizers'
+p259
+aS'subjects who received study drug as monotherapy'
+p260
+aS'subjects who received study drug in combination with antidepressants and/or mood stabilizers'
+p261
+aS'subjects who received study drug in combination with mood stabilizers only'
+p262
+aS'subjects who responded to treatment'
+p263
+aS'subjects with .30% reduction ( improvement ) from baseline in panss total score and a cgi-c-sca score of .2'
+p264
+aS'subjects with a baseline score at least 16'
+p265
+aS'subjects with a baseline score of 16 or greater'
+p266
+aS'subjects with a baseline total score of 16 or greater'
+p267
+aS'subjects with a previously demonstrated lack of response to antipsychotic medication'
+p268
+aS'subjects with acute mania'
+p269
+aS'subjects with an established diagnosis of schizoaffective disorder'
+p270
+aS'subjects with any non-psychotropic medication'
+p271
+aS'subjects with any psychotropic medication'
+p272
+aS'subjects with chronic illness'
+p273
+aS'subjects with pre-existing conditions or risk factors'
+p274
+aS'subjects with prominent baseline depressive or manic symptoms'
+p275
+aS'subjects with prominent depressive symptoms ( ham-d-21 total score .16 )'
+p276
+aS'subjects with prominent manic and depressive symptoms'
+p277
+aS'subjects with prominent manic symptoms'
+p278
+aS'subjects with prominent mood symptoms of mania or depression'
+p279
+aS'subjects with psychosis'
+p280
+aS'subjects with schizoaffective disorder'
+p281
+aS'subjects with schizophrenia and other psychotic disorders'
+p282
+aS'subjects with this disorder'
+p283
+aS'subjects without prominent depressive symptoms'
+p284
+aS'subjects without prominent manic symptoms'
+p285
+aS'the 10 subjects'
+p286
+aS'the 14 subjects'
+p287
+aS'the majority of subjects'
+p288
+aS'the subjects'
+p289
+aS'three subjects'
+p290
+aS'two-thirds of subjects'
+p291
+aS'white subjects'
+p292
+aS'\x95 subjects'
+p293
+asS'Analysis_feature'
+p294
+(lp295
+sS'DrugIntakeMode'
+p296
+(lp297
+sS'Value'
+p298
+(lp299
+sS'Amount'
+p300
+(lp301
+sS'Subject_result'
+p302
+(lp303
+sS'Subject_age'
+p304
+(lp305
+sS'Randomized'
+p306
+(lp307
+sS'StatAnalitycalMethod'
+p308
+(lp309
+sS'Study_timepoint'
+p310
+(lp311
+S'the week 1 locf time point'
+p312
+aS'the week 6 bocf end point'
+p313
+aS'week 1'
+p314
+aS'week 2'
+p315
+aS'week 6'
+p316
+asS'Scale'
+p317
+(lp318
+sS'GROUP'
+p319
+(lp320
+S'1 of 3 groups'
+p321
+aS'9 mg dose groups'
+p322
+aS'9 mg treatment groups'
+p323
+aS'all 3 treatment groups'
+p324
+aS'all groups'
+p325
+aS'all paliperidone er treatment groups'
+p326
+aS'all treatment groups'
+p327
+aS'and high dose ( 62% ; p=0.001 ) groups'
+p328
+aS'and high dose ( 80% ) groups'
+p329
+aS'and high dose ( p<0.001 ) groups'
+p330
+aS'and high dose ( p=0.032 ) groups'
+p331
+aS'and paliperidone er flexible dose ( 98% ) groups'
+p332
+aS'and paliperidone er high dose ( 92.7 ; range 63-121 ) groups'
+p333
+aS'and total paliperidone er ( 50% ) groups'
+p334
+aS'antidepressants only subgroups'
+p335
+aS'any treatment group'
+p336
+aS'both groups'
+p337
+aS'both of these paliperidone er treatment groups'
+p338
+aS'both paliperidone er groups'
+p339
+aS'both the paliperidone er low dose ( 57% ; p=0.008 )'
+p340
+aS'both treatment groups'
+p341
+aS'concomitant treatment with antidepressants only'
+p342
+aS'each group'
+p343
+aS'each paliperidone er group'
+p344
+aS'each paliperidone er treatment group'
+p345
+aS'each treatment group'
+p346
+aS'final dose groups'
+p347
+aS'flexible dose groups'
+p348
+aS'for the paliperidone er low dose ( 70% )'
+p349
+aS'groups receiving a concomitant atypical antipsychotic'
+p350
+aS'high dose groups'
+p351
+aS'in both the paliperidone er low dose ( p=0.013 )'
+p352
+aS'in the paliperidone er low dose ( 11% )'
+p353
+aS'low dose groups'
+p354
+aS'or paliperidone er high dose ( 44% ) groups'
+p355
+aS'or paliperidone er high dose ( 9% ) groups'
+p356
+aS'or total paliperidone er ( 27% ) groups'
+p357
+aS'pali er total'
+p358
+aS'paliperidone er flexible dose groups'
+p359
+aS'paliperidone er groups'
+p360
+aS'paliperidone er high dose groups'
+p361
+aS'paliperidone er high/flexible'
+p362
+aS'paliperidone er high/flexible dose ( 24% ) ,'
+p363
+aS'paliperidone er high/flexible dose ( 47% )'
+p364
+aS'paliperidone er high/flexible dose group'
+p365
+aS'paliperidone er low dose ( 55% )'
+p366
+aS'paliperidone er low dose ( p=0.079 )'
+p367
+aS'paliperidone er treatment groups'
+p368
+aS'placebo ( 91.6 ; range 64-126 )'
+p369
+aS'placebo ( 95% )'
+p370
+aS'placebo group'
+p371
+aS'placebo groups'
+p372
+aS'the 2 groups'
+p373
+aS'the 2 treatment groups'
+p374
+aS'the 3 groups taking more than 2 concomitant psychotropic medications'
+p375
+aS'the 3 treatment groups'
+p376
+aS'the antidepressants only'
+p377
+aS'the antidepressants only subgroup'
+p378
+aS'the corresponding placebo group'
+p379
+aS'the first 3 treatment groups'
+p380
+aS'the high dose group'
+p381
+aS'the high/flexible dose group'
+p382
+aS'the individual paliperidone er treatment groups'
+p383
+aS'the low dose group'
+p384
+aS'the mood stabilizers only subgroup'
+p385
+aS'the paliperidone er dose groups'
+p386
+aS'the paliperidone er flexible dose group'
+p387
+aS'the paliperidone er group'
+p388
+aS'the paliperidone er groups'
+p389
+aS'the paliperidone er high dose group'
+p390
+aS'the paliperidone er high dose/flexible dose group'
+p391
+aS'the paliperidone er high/flexible'
+p392
+aS'the paliperidone er high/flexible dose group'
+p393
+aS'the paliperidone er high/flexible group'
+p394
+aS'the paliperidone er low dose group'
+p395
+aS'the paliperidone er total group'
+p396
+aS'the paliperidone er treatment group'
+p397
+aS'the paliperidone er treatment groups'
+p398
+aS'the paliperidone high/flexible dose group'
+p399
+aS'the placebo group'
+p400
+aS'the remaining treatment groups'
+p401
+aS'the respective placebo group'
+p402
+aS'the small subgroup of 50 subjects who had received study drug in combination with both antidepressants and mood stabilizers'
+p403
+aS'the small subgroup of subjects'
+p404
+aS'the subgroup receiving mood stabilizers only'
+p405
+aS'the subgroup who received study drug in combination with antidepressants only ( 48% )'
+p406
+aS'the subgroups receiving mood stabilizers only'
+p407
+aS'the total paliperidone er'
+p408
+aS'the total paliperidone er group'
+p409
+aS'the total paliperidone er groups'
+p410
+aS'the total paliperidone er treatment group'
+p411
+aS'the treatment groups'
+p412
+aS'these other 2 groups'
+p413
+aS'this antidepressant/mood stabilizer subgroup'
+p414
+aS'this group'
+p415
+aS'this subgroup receiving placebo '
+p416
+aS'total groups'
+p417
+aS'total paliperidone er'
+p418
+aS'total paliperidone er group'
+p419
+aS'total paliperidone er groups'
+p420
+asS'Percent'
+p421
+(lp422
+sS'Study_name'
+p423
+(lp424
+sS'StudyTimePoints'
+p425
+(lp426
+sS'Endpoint'
+p427
+(lp428
+S'a secondary efficacy variable'
+p429
+aS'concomitant medication'
+p430
+aS'day 4 locf'
+p431
+aS'locf data'
+p432
+aS'primary efficacy variable'
+p433
+aS'the day 4 locf time point'
+p434
+aS'the primary efficacy endpoint'
+p435
+aS'the primary efficacy variable'
+p436
+aS'the primary endpoint'
+p437
+aS'the week 2 locf time point'
+p438
+aS'the week 6 bocf end point'
+p439
+aS'the week 6 locf'
+p440
+aS'the week 6 locf end point'
+p441
+aS'week 1 locf'
+p442
+aS'week 2 locf'
+p443
+aS'week 4 locf'
+p444
+aS'week 6 locf'
+p445
+aS'week 6 locf end point'
+p446
+asS'Difference_feature'
+p447
+(lp448
+sS'STRATUM'
+p449
+(lp450
+S'both concomitant medication strata'
+p451
+aS'both the monotherapy and combination therapy strata'
+p452
+aS'combination therapy stratum'
+p453
+aS'concomitant medication stratum'
+p454
+aS'concomitant medication stratum n'
+p455
+aS'each stratum'
+p456
+aS'either concomitant medication stratum'
+p457
+aS'monotherapy stratum'
+p458
+aS'the 2 concomitant medication stratum subgroups'
+p459
+aS'the combination therapy stratum'
+p460
+aS'the concomitant medication stratum'
+p461
+aS'the monotherapy stratum'
+p462
+aS'this stratum'
+p463
+aS'treatment-by-concomitant medication stratum'
+p464
+asS'up_value'
+p465
+(lp466
+sS'Study_drug'
+p467
+(lp468
+sS'Data_feature'
+p469
+(lp470
+sS'Average'
+p471
+(lp472
+sS'Population'
+p473
+(lp474
+sS'PERIOD'
+p475
+(lp476
+S'4 weeks of the double-blind period'
+p477
+aS'6 week double-blind treatment period'
+p478
+aS'double-blind treatment'
+p479
+aS'least 36 days of double-blind treatment'
+p480
+aS'least 75% of the double-blind period'
+p481
+aS'more days of double-blind therapy'
+p482
+aS'more days of double-blind treatment'
+p483
+aS'the 6-week double-blind period'
+p484
+aS'the 6-week double-blind periods of studies r076477-sca-3001'
+p485
+aS'the 6-week double-blind treatment period'
+p486
+aS'the double-blind period'
+p487
+aS'the double-blind treatment period'
+p488
+aS'the double-blind treatment period of studies r076477-sca-3001'
+p489
+aS'the double-blind treatment phase'
+p490
+aS'the end of 6 weeks of double-blind treatment'
+p491
+aS'the end of the double-blind period'
+p492
+aS'the end of the double-blind treatment phase'
+p493
+aS'the remainder of the double-blind period'
+p494
+aS'the start of double-blind treatment'
+p495
+asS'LogicalKvantor'
+p496
+(lp497
+sS'Subscale_parameter'
+p498
+(lp499
+sS'Study_phase'
+p500
+(lp501
+S'the double blind phase'
+p502
+aS'washout phase'
+p503
+asS'Study_period_duration'
+p504
+(lp505
+sS'EV'
+p506
+(lp507
+sS'RANGE'
+p508
+(lp509
+S'a dose range of 3 to 12 mg daily'
+p510
+aS'a flexible dose range of 3 to 12 mg/d'
+p511
+aS'range 19-61 years'
+p512
+aS'range 62-121'
+p513
+aS'range 63-121'
+p514
+aS'range 63-149'
+p515
+aS'range 64-126'
+p516
+aS'range 70-135'
+p517
+aS'the dose range of 3 to 12 mg/d'
+p518
+aS'the range of 3 to 12 mg/d'
+p519
+asS'ef_saf'
+p520
+(lp521
+sS'Result'
+p522
+(lp523
+sS'Subject_pre-existing_conditions '
+p524
+(lp525
+sS'Pharm_class'
+p526
+(lp527
+sS'Symptom_parameter'
+p528
+(lp529
+sS'Study_design'
+p530
+(lp531
+sS'Treatment_regimen'
+p532
+(lp533
+sS'Statistical_significance'
+p534
+(lp535
+sS'Analytical_set'
+p536
+(lp537
+S'intent-to-treat analysis set'
+p538
+aS'itt analysis set'
+p539
+aS'the intent-to-treat analysis set'
+p540
+aS'the intent-to-treat analysis set of study r076477-sca-3001'
+p541
+aS'the intent-to-treat analysis set of study r076477-sca-3002'
+p542
+aS'the intent-to-treat analysis sets'
+p543
+aS'the primary analysis set'
+p544
+asS'TREATMENT'
+p545
+(lp546
+S'antidepressants and/or mood stabilizers'
+p547
+aS'antidepressants only'
+p548
+aS'concomitant treatment with antidepressants only'
+p549
+aS'concomitant treatment with mood stabilizers only'
+p550
+aS'monotherapy'
+p551
+aS'mood stabilizers only'
+p552
+aS'mood stabilizers treatment'
+p553
+aS'the mood stabilizers only'
+p554
+aS'the treatment of schizoaffective disorder'
+p555
+asS'Significance'
+p556
+(lp557
+S'statistically significant'
+p558
+asS'StudyOrComapatorDrug'
+p559
+(lp560
+sS'Formal_drug'
+p561
+(lp562
+S'a mood stabilizer'
+p563
+aS'antidepressants'
+p564
+aS'antidepressants and/or mood stabilizers'
+p565
+aS'both antidepressants'
+p566
+aS'concomitant medication'
+p567
+aS'concomitant medications'
+p568
+aS'concomitant psychotropic medication use'
+p569
+aS'mood stabilizers'
+p570
+aS'mood stabilizers & antiepileptics 63'
+p571
+aS'mood stabilizers & antiepileptics 82'
+p572
+aS'psychotropic medication'
+p573
+aS'study medication'
+p574
+asS'Subject_GeographicLocation'
+p575
+(lp576
+sS'TreatmentMode'
+p577
+(lp578
+sS'Subject_eligibility'
+p579
+(lp580
+sS'Conjunction'
+p581
+(lp582
+sS'Difference_parameter'
+p583
+(lp584
+sS'Study_period_interval'
+p585
+(lp586
+sS'Symptom_chronic'
+p587
+(lp588
+sS'Magnitude'
+p589
+(lp590
+sS'DIFFERENCE'
+p591
+(lp592
+S'a statistically significant difference'
+p593
+aS'a the difference'
+p594
+aS'all differences'
+p595
+aS'between-group differences'
+p596
+aS'corresponding differences'
+p597
+aS'differences of ls means'
+p598
+aS'dose changes'
+p599
+aS'ls mean change'
+p600
+aS'ls mean changes'
+p601
+aS'ls mean differences'
+p602
+aS'ls mean estimates of the differences'
+p603
+aS'marder factors - change'
+p604
+aS'mean change'
+p605
+aS'mean changes'
+p606
+aS'mood stabilizers the mean change'
+p607
+aS'negative change'
+p608
+aS'overall score - change'
+p609
+aS'panss total score change'
+p610
+aS'racial differences'
+p611
+aS'statistically significant difference'
+p612
+aS'the cgi-c-sca measures overall change'
+p613
+aS'the ls mean change'
+p614
+aS'the ls mean differences'
+p615
+aS'the major differences'
+p616
+aS'the mean change'
+p617
+aS'the mean changes'
+p618
+aS'the pairwise differences'
+p619
+aS'the treatment difference'
+p620
+aS'the treatment group difference'
+p621
+aS'these differences'
+p622
+aS'this difference'
+p623
+aS'treatment difference'
+p624
+aS'treatment group differences'
+p625
+aS'within-group changes'
+p626
+asS'Subject_gender'
+p627
+(lp628
+sS'Subject_criterion'
+p629
+(lp630
+sS'Study_clin_preclin'
+p631
+(lp632
+sS'Subject_risk_factors'
+p633
+(lp634
+sS'Stat_test'
+p635
+(lp636
+sS'ANALYSIS'
+p637
+(lp638
+S'a post-hoc analysis'
+p639
+aS'a post-hoc sensitivity analysis'
+p640
+aS'a similar analysis of the primary efficacy variable'
+p641
+aS'a supportive analysis'
+p642
+aS'a supportive analysis of the primary efficacy variable'
+p643
+aS'additional analysis of efficacy'
+p644
+aS'an analysis of covariance'
+p645
+aS'an analysis of medicaid claims data'
+p646
+aS'analyses of the change'
+p647
+aS'analysis of clinical information relevant'
+p648
+aS'analysis of dose-response relationship'
+p649
+aS'analysis of efficacy'
+p650
+aS'analysis of mode'
+p651
+aS'analysis of panss total score'
+p652
+aS'analysis of the change'
+p653
+aS'analysis of the primary efficacy variable'
+p654
+aS'analysis of these studies'
+p655
+aS'data analysis'
+p656
+aS'dose-response analysis'
+p657
+aS'dose-response analysis using trend test'
+p658
+aS'the analysis of change'
+p659
+aS'the analysis of change'
+p660
+aS'the analysis of the change'
+p661
+aS'the analysis of the primary efficacy variable'
+p662
+aS'the analysis of the primary endpoint'
+p663
+aS'the ancova analysis'
+p664
+aS'the original primary efficacy analysis'
+p665
+aS'the primary efficacy analysis'
+p666
+aS'the primary locf analysis'
+p667
+aS'this analysis'
+p668
+aS'this descriptive analysis'
+p669
+aS'using an analysis of covariance'
+p670
+aS'using an analysis of variance'
+p671
+aS'\x95 responder analysis'
+p672
+asS'Approximation'
+p673
+(lp674
+sS'Unit'
+p675
+(lp676
+sS'Size'
+p677
+(lp678
+sS'Age_category'
+p679
+(lp680
+sS'P_value'
+p681
+(lp682
+sS'Subject_participation_status'
+p683
+(lp684
+sS'Inclusiveness'
+p685
+(lp686
+sS'Feature'
+p687
+(lp688
+sS'DOSE'
+p689
+(lp690
+S'0 mg'
+p691
+aS'12 mg'
+p692
+aS'3 mg'
+p693
+aS'3-12 mg'
+p694
+aS'6 mg'
+p695
+aS'9 mg'
+p696
+aS'9.4 mg'
+p697
+aS'a final dose of 3 mg'
+p698
+aS'a mode dose of 12 mg'
+p699
+aS'a mode dose of 3 mg'
+p700
+aS'a mode dose of 6 mg'
+p701
+aS'a mode dose of 9 mg'
+p702
+aS'a starting dose of 6 mg'
+p703
+aS'daily dose of paliperidone er 6 mg'
+p704
+aS'final dose'
+p705
+aS'flexible dose'
+p706
+aS'high dose'
+p707
+aS'low dose'
+p708
+aS'mode doses of 3 mg'
+p709
+aS'mode doses of 9 mg'
+p710
+aS'starting dose 6 mg/d'
+p711
+aS'starting dose of 6 mg'
+p712
+aS'the 3 mg'
+p713
+aS'the day 4 dose'
+p714
+aS'the day 8 dose'
+p715
+aS'the dose'
+p716
+aS'the dose level'
+p717
+aS'the dose levels'
+p718
+aS'the dose of paliperidone er'
+p719
+aS'the high dose'
+p720
+aS'the high dose of paliperidone er'
+p721
+aS'the high/flexible dose'
+p722
+aS'the initial dose'
+p723
+aS'the lower dose'
+p724
+aS'the target dose of 6 mg'
+p725
+asS'Totality'
+p726
+(lp727
+sS'DATA'
+p728
+(lp729
+S'all data'
+p730
+aS'bmi data'
+p731
+aS'case data'
+p732
+aS'demographic data'
+p733
+aS'efficacy data'
+p734
+aS'integrated data'
+p735
+aS'modeling of the panss data'
+p736
+aS'outlying data points'
+p737
+aS'pooled data'
+p738
+aS'possible outlier data points'
+p739
+aS'subpopulations efficacy data'
+p740
+aS'the available data'
+p741
+aS'the data'
+p742
+aS'\x95 cumulative efficacy data'
+p743
+asS'CHANGE'
+p744
+(lp745
+sS'Subscale_feature'
+p746
+(lp747
+sS'SUBSCALE'
+p748
+(lp749
+S'general psychopathology subscale'
+p750
+aS'negative subscale'
+p751
+aS'panss subscale'
+p752
+aS'positive subscale'
+p753
+aS'the anxiety subscale'
+p754
+aS'the general psychopathology subscale'
+p755
+aS'the negative subscale'
+p756
+aS'the panss general psychopathology subscale'
+p757
+aS'the panss negative subscale'
+p758
+aS'the panss positive subscale'
+p759
+aS'the positive subscale'
+p760
+aS'the retardation subscale'
+p761
+aS'the sleep disturbance subscale'
+p762
+aS'the three ham-d-21 subscales'
+p763
+aS'this subscale'
+p764
+aS'\x95 anxiety/somatization subscale'
+p765
+aS'\x95 retardation subscale'
+p766
+aS'\x95 sleep disturbance subscale'
+p767
+asS'Symptom_tendency'
+p768
+(lp769
+sS'DRUG'
+p770
+(lp771
+S'12 mg paliperidone er'
+p772
+aS'both the paliperidone er low dose'
+p773
+aS'of paliperidone er 3 mg'
+p774
+aS'of paliperidone er 6 mg'
+p775
+aS'pali er high dose'
+p776
+aS'pali er low dose'
+p777
+aS'paliperidone'
+p778
+aS'paliperidone er'
+p779
+aS'paliperidone er 9 mg'
+p780
+aS'paliperidone er flexible dose and placebo'
+p781
+aS'paliperidone er high dose'
+p782
+aS'paliperidone er high/flexible dose'
+p783
+aS'paliperidone er low dose'
+p784
+aS'the paliperidone er flexible dose'
+p785
+aS'the paliperidone er high dose'
+p786
+aS'the paliperidone er high/flexible dose'
+p787
+aS'the paliperidone er low dose'
+p788
+aS'\x95 paliperidone er high dose'
+p789
+aS'\x95 paliperidone er low dose'
+p790
+asS'Primarity'
+p791
+(lp792
+sS'DrugIntakeFrequency'
+p793
+(lp794
+sS'Study_Aim'
+p795
+(lp796
+sS'Treatment_phase'
+p797
+(lp798
+sS'Subject_race'
+p799
+(lp800
+sS'Stat_model'
+p801
+(lp802
+sS'STUDY'
+p803
+(lp804
+S'both phase 3 studies'
+p805
+aS'clinical studies'
+p806
+aS'clinical studies evaluating therapeutic interventions'
+p807
+aS'clinical studies of treatment interventions'
+p808
+aS'each of the individual phase 3 studies'
+p809
+aS'each phase 3 study'
+p810
+aS'each study'
+p811
+aS'individual phase 3 studies'
+p812
+aS'individual studies r076477-sca-3001'
+p813
+aS'numerous clinical studies'
+p814
+aS'numerous studies'
+p815
+aS'parallel-group studies'
+p816
+aS'phase 3 clinical studies'
+p817
+aS'phase 3 studies'
+p818
+aS'r076477-sca-3001'
+p819
+aS'r076477-sca-3002'
+p820
+aS'studies of paliperidone er'
+p821
+aS'studies of paliperidone er 6'
+p822
+aS'studies r074677-sca-3001'
+p823
+aS'studies using the ancova model'
+p824
+aS'the 6-week phase 3 study r076477-sca-3001'
+p825
+aS'the clinical studies'
+p826
+aS'the individual phase 3 studies'
+p827
+aS'the phase 3 studies'
+p828
+aS'the two phase 3 clinical studies'
+p829
+aS'the two phase 3 studies'
+p830
+aS'these phase 3 studies'
+p831
+asS'DISEASE'
+p832
+(lp833
+S'schizoaffective disorder'
+p834
+aS'this disorder'
+p835
+asS'lower_value'
+p836
+(lp837
+sS'Responce'
+p838
+(lp839
+sS'Analysis_parameter'
+p840
+(lp841
+sS'Subject_withdr_reason'
+p842
+(lp843
+sS'SCORE'
+p844
+(lp845
+S'24-item scores'
+p846
+aS'3 of the 5 panss factor scores'
+p847
+aS'5 panss factor scores'
+p848
+aS'a baseline ham-d-21 score of 16'
+p849
+aS'a baseline score'
+p850
+aS'a baseline score of 16'
+p851
+aS'a cgi-c-sca score of 2'
+p852
+aS'all 5 panss factor scores'
+p853
+aS'any of the 3 panss subscale scores'
+p854
+aS'any of the 5 panss factor scores'
+p855
+aS'any of the panss factor scores'
+p856
+aS'baseline ham-d-21 total score .16'
+p857
+aS'baseline ham-d-21 total score of 16'
+p858
+aS'baseline panss total score'
+p859
+aS'baseline score .16'
+p860
+aS'baseline scores'
+p861
+aS'baseline total scores .16'
+p862
+aS'baseline ymrs total score .16'
+p863
+aS'baseline ymrs total score of 16'
+p864
+aS'both baseline ymrs'
+p865
+aS'both the mean cgi-c-sca scores'
+p866
+aS'both ymrs'
+p867
+aS'cgi-c-sca domain scores'
+p868
+aS'cgi-c-sca score'
+p869
+aS'cgi-c-sca score .2'
+p870
+aS'cgi-c-sca score of .2'
+p871
+aS'cgi-c-sca scores'
+p872
+aS'cgi-s-sca depressive domain score'
+p873
+aS'cgi-s-sca domain scores'
+p874
+aS'cgi-s-sca manic domain score'
+p875
+aS'cgi-s-sca negative domain score'
+p876
+aS'cgi-s-sca overall scores'
+p877
+aS'cgi-s-sca positive domain score'
+p878
+aS'cgi-s-sca score'
+p879
+aS'cgi-s-sca scores'
+p880
+aS'cgi-s-sca total score'
+p881
+aS'decreasing all 5 panss factor scores'
+p882
+aS'depressive domain scores'
+p883
+aS'each domain score'
+p884
+aS'each of the 3 panss subscale scores'
+p885
+aS'each of the 5 panss factor scores'
+p886
+aS'each of the cgi-c-sca domain scores'
+p887
+aS'each of the cgi-s-sca domain scores'
+p888
+aS'each of the ham-d-21 subscales'
+p889
+aS'each of the panss subscale scores'
+p890
+aS'each of the three ham-d-21 subscale scores'
+p891
+aS'ham-d-21 scores'
+p892
+aS'ham-d-21 subscale scores'
+p893
+aS'ham-d-21 total'
+p894
+aS'ham-d-21 total score'
+p895
+aS'ham-d-21 total score .16'
+p896
+aS'ham-d-21 total score <16'
+p897
+aS'ham-d-21 total scores .16'
+p898
+aS'ham-d-21 total scores <16'
+p899
+aS'manic domain score'
+p900
+aS'manic domain scores'
+p901
+aS'mean cgi-c-sca domain scores'
+p902
+aS'mean cgi-c-sca overall scores'
+p903
+aS'mean scores'
+p904
+aS'negative domain score'
+p905
+aS'negative domain scores'
+p906
+aS'overall cgi-c-sca score'
+p907
+aS'overall cgi-s-sca score'
+p908
+aS'overall score'
+p909
+aS'panss 24-item scores'
+p910
+aS'panss 24-item total score'
+p911
+aS'panss 24-item total scores'
+p912
+aS'panss factor scores'
+p913
+aS'panss subscale scores'
+p914
+aS'panss subscale scores of positive symptoms'
+p915
+aS'panss total score'
+p916
+aS'panss total scores'
+p917
+aS'panss total scores of 62'
+p918
+aS'positive domain score'
+p919
+aS'the anxiety/depression factor score'
+p920
+aS'the baseline panss total scores'
+p921
+aS'the cgi-c-sca negative'
+p922
+aS'the cgi-c-sca overall score'
+p923
+aS'the cgi-c-sca positive'
+p924
+aS'the cgi-c-sca score'
+p925
+aS'the cgi-c-sca scores'
+p926
+aS'the cgi-s-sca depressive domain score'
+p927
+aS'the cgi-s-sca manic domain score'
+p928
+aS'the cgi-s-sca negative domain score'
+p929
+aS'the cgi-s-sca overall score'
+p930
+aS'the cgi-s-sca positive domain score'
+p931
+aS'the cgi-s-sca score'
+p932
+aS'the cgi-s-sca total score'
+p933
+aS'the depressive domain scores'
+p934
+aS'the ham-d-21 overall'
+p935
+aS'the ham-d-21 score'
+p936
+aS'the ham-d-21 total'
+p937
+aS'the ham-d-21 total score'
+p938
+aS'the ham-d-21 total score'
+p939
+aS'the manic domain scores'
+p940
+aS'the mean actual cgi-c-sca overall score'
+p941
+aS'the mean cgi-c-sca overall scores'
+p942
+aS'the mean cgi-c-sca score'
+p943
+aS'the mean cgi-c-sca scores'
+p944
+aS'the mean ham-d-21 total score'
+p945
+aS'the mean panss total score'
+p946
+aS'the median cgi-s-sca total score'
+p947
+aS'the negative domain scores'
+p948
+aS'the negative symptom factor score'
+p949
+aS'the overall score'
+p950
+aS'the panss 24-item score'
+p951
+aS'the panss 24-item total score'
+p952
+aS'the panss factor scores'
+p953
+aS'the panss general psychopathology subscale score'
+p954
+aS'the panss negative subscale score'
+p955
+aS'the panss positive subscale score'
+p956
+aS'the panss subscale scores'
+p957
+aS'the panss total score'
+p958
+aS'the panss total scores'
+p959
+aS'the positive domain scores'
+p960
+aS'the total score'
+p961
+aS'the total scores'
+p962
+aS'the ymrs scores'
+p963
+aS'the ymrs total score'
+p964
+aS'total score'
+p965
+aS'ymrs scores'
+p966
+aS'ymrs total'
+p967
+aS'ymrs total score'
+p968
+aS'ymrs total score .16'
+p969
+aS'ymrs total score <16'
+p970
+aS'ymrs total scores'
+p971
+aS'\x95 anxiety/depression factor score'
+p972
+aS'\x95 negative factor score'
+p973
+aS'\x95 positive factor score'
+p974
+asS'Diagnosis'
+p975
+(lp976
+sS'Order'
+p977
+(lp978
+sS'Diapasone'
+p979
+(lp980
+sS'Therapeutic_area'
+p981
+(lp982
+sS'Flexibility'
+p983
+(lp984
+sS'Range_parameter'
+p985
+(lp986
+sS'SYMPTOM'
+p987
+(lp988
+S'affective symptoms'
+p989
+aS'baseline depressive symptoms'
+p990
+aS'baseline manic symptoms'
+p991
+aS'behavioral symptoms'
+p992
+aS'chronic psychotic symptoms'
+p993
+aS'cognitive symptoms of depression'
+p994
+aS'depressive symptoms'
+p995
+aS'exacerbation of psychotic symptoms'
+p996
+aS'key symptoms of schizophrenia'
+p997
+aS'mania symptoms'
+p998
+aS'manic symptoms'
+p999
+aS'negative symptoms'
+p1000
+aS'positive symptoms'
+p1001
+aS'prominent affective symptoms consistent'
+p1002
+aS'prominent depressive symptoms'
+p1003
+aS'prominent manic symptoms'
+p1004
+aS'prominent mood symptoms'
+p1005
+aS'prominent mood symptoms of mania'
+p1006
+aS'symptoms of schizophrenia'
+p1007
+aS'the concurrent presentation of primary symptoms of schizophrenia'
+p1008
+aS'the psychotic symptoms of schizoaffective disorder'
+p1009
+aS'their first psychiatric symptoms approximately 1'
+p1010
+aS'their psychiatric symptoms'
+p1011
+aS'\x95 negative symptoms'
+p1012
+aS'\x95 positive symptoms'
+p1013
+as.
